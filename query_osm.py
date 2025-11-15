@@ -41,6 +41,12 @@ QUERIES = {
         "amenity=exhibition_centre",
         "amenity=festival_grounds",
         "leisure=festival_grounds"
+    ],
+    "bikeshops": [
+        "shop=bicycle"
+    ],
+    "bookstores": [
+        "shop=books"
     ]
 }
 
@@ -101,8 +107,10 @@ def main():
             query_str = build_overpass_query(relation_id, tags)
             print(f"Query has {len(tags)} tag conditions")
 
-            # Check if file already exists
-            filepath = data_dir / f"{county}_{category}.json"
+            # Check if file already exists in subdir
+            county_dir = data_dir / county
+            county_dir.mkdir(exist_ok=True)
+            filepath = county_dir / f"{category}.json"
             if filepath.exists():
                 print(f"Already exists, skipping")
                 completed += 1
