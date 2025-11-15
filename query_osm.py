@@ -54,7 +54,7 @@ def build_overpass_query(relation_id, tags):
     """Build Overpass API query string for area union of tags."""
     area_part = f"area({relation_id})->.searchArea;"
     tag_parts = "\n  ".join([f"nwr[{tag}](area.searchArea);" for tag in tags])
-    query = f"[out:json];\n{area_part}\n(\n  {tag_parts}\n);\nout meta;"
+    query = f"[out:json];\n{area_part}\n(\n  {tag_parts}\n);\nout body;\n>;\nout skel qt;"
     return query
 
 def query_overpass(query_str, max_retries=5):
