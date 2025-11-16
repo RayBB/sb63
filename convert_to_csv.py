@@ -1,6 +1,6 @@
 #!/usr/bin/env -S uv run --script
 """
-Convert OSM data from JSON files to a single CSV spreadsheet.
+Convert OSM data from JSON files to CSV files.
 
 For each element:
 - Skip elements with only id, type, and lat/lon (geometry-only)
@@ -8,7 +8,8 @@ For each element:
 - Add query_purpose (filename) and query_county (folder name)
 - Flatten all tags into columns
 
-Output: single CSV file with all data
+Output: Either one combined CSV file or separate CSV files by query type in data/csv/
+Set CREATE_SEPARATE_CSV_FILES = True in main() to create separate files, False for combined file.
 
 Run using `uv run --script convert_to_csv.py`
 """
@@ -127,11 +128,17 @@ def process_json_file(filepath, query_purpose, query_county):
 
 
 def main():
-    """Main function to process all JSON files and create CSV output."""
+    """Main function to process all JSON files and create CSV files."""
+    # Set to True to create separate CSV files by query type, False to create one combined CSV file
+    CREATE_SEPARATE_CSV_FILES = True
+
     data_dir = Path("data")
     if not data_dir.exists():
         print("Error: data/ directory not found")
         return
+
+    csv_dir = data_dir / "csv"
+    csv_dir.mkdir(exist_ok=True)
 
     print("Starting data conversion to CSV...")
 
@@ -160,42 +167,65 @@ def main():
             rows = process_json_file(json_file, query_purpose, query_county)
             all_data.extend(rows)
 
-    # Create DataFrame
+    # Create CSV files
     if not all_data:
         print("No data to convert!")
         return
 
-    df = pd.DataFrame(all_data)
+    df_all = pd.DataFrame(all_data)
 
     # Reorder columns to put basic columns first
     base_cols = ['latitude', 'longitude', 'query_purpose', 'query_county', 'osm_id', 'osm_type']
-    other_cols = [col for col in df.columns if col not in base_cols]
+    other_cols = [col for col in df_all.columns if col not in base_cols]
     col_order = base_cols + sorted(other_cols, key=lambda x: (x.startswith('addr:'), x))
-    df = df[col_order]
 
-    # Sort by county, purpose, then id for consistent ordering
-    df = df.sort_values(['query_county', 'query_purpose', 'osm_id'])
+    total_rows = 0
+    csv_files_created = 0
 
-    # Export to CSV
-    csv_path = Path("osm_data.csv")
-    df.to_csv(csv_path, index=False)
-    print(f"CSV file created at {csv_path}")
+    if CREATE_SEPARATE_CSV_FILES:
+        # Group by query_purpose and create separate CSV files
+        purpose_groups = df_all.groupby('query_purpose')
+
+        for purpose, group_df in purpose_groups:
+            # Reorder columns and sort
+            group_df = group_df[col_order]
+            group_df = group_df.sort_values(['query_county', 'osm_id'])
+
+            # Export to CSV
+            csv_path = csv_dir / f"{purpose}.csv"
+            group_df.to_csv(csv_path, index=False)
+            print(f"Created {csv_path} ({len(group_df)} rows)")
+
+            total_rows += len(group_df)
+            csv_files_created += 1
+    else:
+        # Create single combined CSV file
+        df_all = df_all[col_order]
+        df_all = df_all.sort_values(['query_county', 'query_purpose', 'osm_id'])
+
+        # Export to CSV (back to original location)
+        csv_path = csv_dir / "combined_data.csv"
+        df_all.to_csv(csv_path, index=False)
+        print(f"Created {csv_path} ({len(df_all)} rows)")
+
+        total_rows = len(df_all)
+        csv_files_created = 1
 
     print("\nDone!")
-    print(f"Total rows: {len(df)}")
-    print(f"Total columns: {len(df.columns)}")
+    print(f"Total CSV files created: {csv_files_created}")
+    print(f"Total rows across all files: {total_rows}")
 
-    # Show some stats
-    county_counts = df.groupby('query_county').size()
-    purpose_counts = df.groupby('query_purpose').size()
-
-    print("\nData by county:")
-    for county, count in county_counts.items():
-        print(f"  {county}: {count} rows")
+    # Show summary stats
+    purpose_counts = df_all.groupby('query_purpose').size()
+    county_counts = df_all.groupby('query_county').size()
 
     print("\nData by purpose:")
     for purpose, count in purpose_counts.items():
         print(f"  {purpose}: {count} rows")
+
+    print("\nData by county:")
+    for county, count in county_counts.items():
+        print(f"  {county}: {count} rows")
 
 
 if __name__ == "__main__":
