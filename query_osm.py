@@ -1,3 +1,8 @@
+#!/usr/bin/env -S uv run --script
+"""
+Run using `uv run --script query_osm.py`
+"""
+
 import httpx
 import json
 import time
