@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
 """
 Convert OSM data from JSON files to a single CSV spreadsheet.
 
@@ -9,6 +9,8 @@ For each element:
 - Flatten all tags into columns
 
 Output: single CSV file with all data
+
+Run using `uv run --script convert_to_csv.py`
 """
 
 import json
