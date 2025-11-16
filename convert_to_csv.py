@@ -174,10 +174,18 @@ def main():
 
     df_all = pd.DataFrame(all_data)
 
-    # Reorder columns to put basic columns first
-    base_cols = ['latitude', 'longitude', 'query_purpose', 'query_county', 'osm_id', 'osm_type']
-    other_cols = [col for col in df_all.columns if col not in base_cols]
-    col_order = base_cols + sorted(other_cols, key=lambda x: (x.startswith('addr:'), x))
+    # Add blank columns to match more closely to expected columns 
+    df_all['Collaborated'] = ''
+    df_all['city'] = ''
+    df_all['person_with_relationship'] = ''
+    df_all['org_contact'] = ''
+    df_all['org_contact_title'] = ''
+
+    # Reorder columns to put specified columns first
+    priority_cols = ['name', 'Collaborated', 'query_county', 'city', 'query_purpose', 'person_with_relationship', 'org_contact', 'org_contact_title', 'phone', 'email', 'contact:email', 'website']
+    remaining_base_cols = ['latitude', 'longitude', 'osm_id', 'osm_type']
+    other_cols = [col for col in df_all.columns if col not in priority_cols + remaining_base_cols]
+    col_order = priority_cols + remaining_base_cols + sorted(other_cols, key=lambda x: (x.startswith('addr:'), x))
 
     total_rows = 0
     csv_files_created = 0
