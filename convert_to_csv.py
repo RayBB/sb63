@@ -174,6 +174,10 @@ def main():
 
     df_all = pd.DataFrame(all_data)
 
+    # Filter out rows where religion column is 'no' or 'none'
+    religion_mask = ~df_all['religion'].isin(['no', 'none'])
+    df_all = df_all[religion_mask]
+
     # Add blank columns to match more closely to expected columns 
     df_all['Collaborated'] = ''
     df_all['city'] = ''
