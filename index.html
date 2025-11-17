@@ -17,7 +17,7 @@
     </div>
     <div id="map" style="width: 100%; height: 100vh;"></div>
 <script>
-function createPopupContent(fields, headers) {
+function createPopupContent(fields, headers, lat, lon) {
   let popupContent = '<div style="max-width: 300px;">';
   for (let j = 0; j < fields.length; j++) {
     const value = fields[j].trim();
@@ -25,6 +25,13 @@ function createPopupContent(fields, headers) {
       popupContent += `<strong>${headers[j]}</strong>: ${value}<br>`;
     }
   }
+  // Add links
+  const osmType = fields[headers.indexOf('osm_type')]?.trim();
+  const osmId = fields[headers.indexOf('osm_id')]?.trim();
+  if (osmType && osmId) {
+    popupContent += `<br><a href="https://www.openstreetmap.org/${osmType.toLowerCase()}/${osmId}" target="_blank">Open in OSM</a><br>`;
+  }
+  popupContent += `<a href="https://www.google.com/maps?q=${lat},${lon}" target="_blank">Open in Google Maps</a>`;
   popupContent += '</div>';
   return popupContent;
 }
@@ -65,8 +72,8 @@ async function loadCSV(filename) {
       const lon = parseFloat(fields[lonIndex]);
       
       if (!isNaN(lat) && !isNaN(lon)) {
-        const popupContent = createPopupContent(fields, headers);
-        
+        const popupContent = createPopupContent(fields, headers, lat, lon);
+
         const marker = new maplibregl.Marker();
         marker.setLngLat([lon, lat]);
         
