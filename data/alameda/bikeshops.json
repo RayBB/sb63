@@ -1,0 +1,1272 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:25:54Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 310948106,
+      "lat": 37.7659681,
+      "lon": -122.241087,
+      "tags": {
+        "addr:city": "Alameda",
+        "addr:housenumber": "1522",
+        "addr:postcode": "94501",
+        "addr:state": "CA",
+        "addr:street": "Park Street",
+        "name": "Alameda Bicycle",
+        "opening_hours": "Mo-Su 11:00-18:00",
+        "service:bicycle:pump": "yes",
+        "shop": "bicycle",
+        "website": "https://www.alamedabicycle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 310973056,
+      "lat": 37.7655347,
+      "lon": -122.2425911,
+      "tags": {
+        "created_by": "JOSM",
+        "name": "Stone's Cyclery",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343611042,
+      "lat": 37.8909135,
+      "lon": -122.285199,
+      "tags": {
+        "addr:city": "Albany",
+        "addr:country": "US",
+        "addr:housenumber": "1554",
+        "addr:postcode": "94707",
+        "addr:state": "CA",
+        "addr:street": "Solano Avenue",
+        "name": "Bikes on Solano",
+        "old_name": "Solano Avenue Cyclery",
+        "opening_hours": "Mo-Sa 12:00-18:00; Su 12:00-17:00",
+        "phone": "+1-510-524-1094",
+        "shop": "bicycle",
+        "website": "https://bikesonsolano.wordpress.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 363904753,
+      "lat": 37.8147732,
+      "lon": -122.2457868,
+      "tags": {
+        "addr:housenumber": "3530",
+        "addr:street": "Grand Avenue",
+        "alt_name": "Trek Bicycle Store",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "old_name": "Cyclesports",
+        "phone": "+1-510-570-3885",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430531321,
+      "lat": 37.8348894,
+      "lon": -122.2626757,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "4800A",
+        "addr:postcode": "94609",
+        "addr:state": "CA",
+        "addr:street": "Telegraph Avenue",
+        "check_date": "2025-04-30",
+        "name": "Tip Top Bike Shop",
+        "opening_hours": "Mo off, Tu-Fr 11:00-18:00, Sa-Su 12:00-17:00",
+        "phone": "+1 510-444-4148",
+        "service:bicycle:pump": "yes",
+        "shop": "bicycle",
+        "website": "https://www.tiptopbikeshop.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1749346864,
+      "lat": 37.784328,
+      "lon": -122.299236,
+      "tags": {
+        "addr:city": "Alameda",
+        "addr:country": "US",
+        "addr:housenumber": "650",
+        "addr:postcode": "94501",
+        "addr:state": "CA",
+        "addr:street": "West Ranger Avenue",
+        "name": "Changing Gears Bike Shop",
+        "phone": "+1-510-995-1478",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1803307743,
+      "lat": 37.8812134,
+      "lon": -122.2896077,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:housenumber": "1306",
+        "addr:state": "CA",
+        "addr:street": "Gilman Street",
+        "check_date:opening_hours": "2023-03-02",
+        "name": "Blue Heron Bikes",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "phone": "+1-510-524-1937",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.blueheronbikesberkeley.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2275700836,
+      "lat": 37.8459452,
+      "lon": -122.2855272,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:country": "US",
+        "addr:housenumber": "1121",
+        "addr:state": "CA",
+        "addr:street": "64th Street",
+        "email": "spokeland@gmail.com",
+        "name": "Spokeland",
+        "opening_hours": "Su 13:00-18:00; Tu 18:00-21:00; Th 18:00-21:00",
+        "phone": "+1 510 8529253",
+        "service:bicycle:diy": "yes",
+        "shop": "bicycle",
+        "website": "https://spokeland.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2324987312,
+      "lat": 37.7699326,
+      "lon": -122.21649,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "4401",
+        "addr:postcode": "94601",
+        "addr:street": "San Leandro Street",
+        "name": "The Roll Up",
+        "opening_hours": "12:00-18:00; Fr,Sa off",
+        "phone": "+1-510-536-6652",
+        "shop": "bicycle",
+        "website": "http://www.rollupbikeshop.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2744207446,
+      "lat": 37.8098553,
+      "lon": -122.2494233,
+      "tags": {
+        "addr:housenumber": "622",
+        "addr:street": "Grand Avenue",
+        "name": "Lakeview Bicycle",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-18:00",
+        "phone": "+1-510-251-1422",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://lakeviewbicycle.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2786878686,
+      "lat": 37.7057854,
+      "lon": -121.9191122,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "7001",
+        "addr:postcode": "94568",
+        "addr:street": "Dublin Boulevard",
+        "name": "Dublin Cyclery",
+        "opening_hours": "Mo-Fr 09:00-17:30;Sa 09:00-16:00;Su 10:00-15:00",
+        "phone": "+1-925-828-8676",
+        "shop": "bicycle",
+        "website": "https://www.dublincyclery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2991608367,
+      "lat": 37.5619654,
+      "lon": -122.008558,
+      "tags": {
+        "addr:city": "Fremont",
+        "addr:housenumber": "3636",
+        "addr:postcode": "94536",
+        "addr:state": "CA",
+        "addr:street": "Thornton Avenue",
+        "name": "Centripedal Bikes",
+        "opening_hours": "Su 12:00-17:00; Tu-Sa 11:00-18:00",
+        "phone": "+1-510-742-2265",
+        "shop": "bicycle",
+        "website": "https://www.centripedalbikes.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2994720277,
+      "lat": 37.5354356,
+      "lon": -121.9977506,
+      "tags": {
+        "addr:city": "Fremont",
+        "addr:country": "US",
+        "addr:housenumber": "5006",
+        "addr:state": "CA",
+        "addr:street": "Mowry Avenue",
+        "name": "Bicycle Garage",
+        "opening_hours": "Sa 10:00-18:00; Su 11:00-17:00; Mo,We-Fr 10:00-19:00",
+        "phone": "+1-510-795-9622",
+        "shop": "bicycle",
+        "website": "https://www.bicyclegaragefremont.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3585095777,
+      "lat": 37.6610855,
+      "lon": -121.8757321,
+      "tags": {
+        "addr:city": "Pleasanton",
+        "addr:housenumber": "537",
+        "addr:postcode": "94566",
+        "addr:state": "CA",
+        "addr:street": "Main Street",
+        "name": "Superfly Wheels",
+        "phone": "+1-925-248-2453",
+        "shop": "bicycle",
+        "website": "https://www.superflywheels.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3927989516,
+      "lat": 37.803281,
+      "lon": -122.2711305,
+      "tags": {
+        "addr:housenumber": "431",
+        "addr:street": "13th Street",
+        "check_date": "2023-08-19",
+        "name": "Archer Bicycle",
+        "opening_hours": "Mo-Sa 10:00-16:00; Su off",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3967298498,
+      "lat": 37.8054046,
+      "lon": -122.2668536,
+      "tags": {
+        "addr:housenumber": "327",
+        "addr:street": "17th Street",
+        "name": "King Kog",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3974904876,
+      "lat": 37.8062177,
+      "lon": -122.2982518,
+      "tags": {
+        "name": "Bikes 4 Life",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4540160124,
+      "lat": 37.8756448,
+      "lon": -122.2736257,
+      "tags": {
+        "name": "Biketopia Annex",
+        "shop": "bicycle",
+        "website": "https://www.biketopiaberkeley.org/annex/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5199321661,
+      "lat": 37.7044362,
+      "lon": -121.938375,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "7222",
+        "addr:postcode": "94568",
+        "addr:state": "CA",
+        "addr:street": "San Ramon Road",
+        "alt_name": "Trek Bicycle Store",
+        "branch": "Dublin",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "operator": "Trek",
+        "phone": "+1-925-829-4310",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.trekbikes.com/us/en_US/retail/dublin/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261431323,
+      "lat": 37.6967251,
+      "lon": -122.0782361,
+      "tags": {
+        "alt_name": "Trek Bicycle Store",
+        "branch": "Bicycles",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "phone": "+1-510-881-5000",
+        "shop": "bicycle",
+        "website": "https://www.trekbikes.com/us/en_US/retail/castro_valley/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5285554775,
+      "lat": 37.8395346,
+      "lon": -122.2828407,
+      "tags": {
+        "addr:housenumber": "5651",
+        "addr:street": "San Pablo Avenue",
+        "check_date": "2023-08-08",
+        "name": "Cosmic Cycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5326600148,
+      "lat": 37.759074,
+      "lon": -122.2312287,
+      "tags": {
+        "name": "Cycle City",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5349617627,
+      "lat": 37.8241432,
+      "lon": -122.2548435,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "11",
+        "addr:postcode": "94611",
+        "addr:state": "CA",
+        "addr:street": "Rio Vista Avenue",
+        "name": "Pioneer Bicycles",
+        "opening_hours": "Tu-Fr 11:00-18:00, Sa 10:00-17:00",
+        "operator": "Edmund Gee",
+        "service:bicycle:Bicycle_Sales_and_Service": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357362588,
+      "lat": 37.7829637,
+      "lon": -122.2361385,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "1246",
+        "addr:postcode": "94606",
+        "addr:state": "CA",
+        "addr:street": "23rd Avenue",
+        "name": "The Bikery",
+        "opening_hours": "Tu 15:00-18:00, Th 15:00-18:00, Sa 11:00-17:00",
+        "operator": "Cycles of Change",
+        "service:bicycle:Bicycle_Sales_and_Service": "yes",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:school": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6659933102,
+      "lat": 37.8235041,
+      "lon": -122.2812845,
+      "tags": {
+        "name": "The Towne Cycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7043027953,
+      "lat": 37.6808185,
+      "lon": -121.7765094,
+      "tags": {
+        "addr:city": "Livermore",
+        "addr:housenumber": "1601",
+        "addr:postcode": "94550",
+        "addr:state": "CA",
+        "addr:street": "Railroad Avenue",
+        "addr:unit": "Unit B",
+        "email": "mybuddysbikeshop@gmail.com",
+        "name": "My Buddy's Bike Shop",
+        "phone": "+1-925-583-5454",
+        "shop": "bicycle",
+        "website": "https://mybuddysbikeshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9638555146,
+      "lat": 37.8645531,
+      "lon": -122.3017988,
+      "tags": {
+        "addr:city": "Berkeley",
+        "name": "Waterside Workshops",
+        "shop": "bicycle",
+        "website": "https://watersideworkshops.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9712673989,
+      "lat": 37.66196,
+      "lon": -121.7790915,
+      "tags": {
+        "addr:city": "Livermore",
+        "addr:housenumber": "1444",
+        "addr:postcode": "94550",
+        "addr:state": "CA",
+        "addr:street": "Concannon Boulevard",
+        "name": "AJ’s Family Cyclery",
+        "opening_hours": "Mo-Th 09:00-17:00",
+        "service:bicycle:chain_tool": "yes",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:second_hand": "yes",
+        "service:bicycle:tools": "yes",
+        "shop": "bicycle",
+        "website": "https://www.ajsbikeservice.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9765783994,
+      "lat": 37.8117886,
+      "lon": -122.212202,
+      "tags": {
+        "name": "The New Wheel",
+        "opening_hours": "Mo-We, Fr, Sa 10:00-18:00; Th 11:00-18:00; Su 11:00-17:00",
+        "phone": "+1-415-524-7362",
+        "rental": "ebike",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://newwheel.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9787064502,
+      "lat": 37.8567143,
+      "lon": -122.288513,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2734",
+        "addr:street": "San Pablo Avenue",
+        "name": "Rad power bike",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "+1-510-296-8885",
+        "service:bicycle:electric_bikes": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.radpowerbikes.com/pages/showroom#s-0f8701cc-8ba8-4cbc-9e15-d7f8d6cbba85"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9948284572,
+      "lat": 37.8266651,
+      "lon": -122.2723498,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:country": "US",
+        "addr:housenumber": "813",
+        "addr:postcode": "94608",
+        "addr:state": "CA",
+        "addr:street": "37th Street",
+        "email": "spokeland@gmail.com",
+        "name": "Spokeland",
+        "opening_hours": "Su 12:30-15:00",
+        "phone": "+1-510-852-9253",
+        "shop": "bicycle",
+        "website": "https://spokeland.square.site/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11386879582,
+      "lat": 37.880217,
+      "lon": -122.268568,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2116",
+        "addr:postcode": "94709",
+        "addr:state": "CA",
+        "addr:street": "Vine Street",
+        "check_date": "2023-11-30",
+        "name": "Stay True Cycles",
+        "opening_hours": "Tu-Sa 12:00-19:00",
+        "operator": "Stay True Cycles",
+        "payment:credit_cards": "yes",
+        "phone": "+1-510-725-6281",
+        "service:bicycle:cleaning": "yes",
+        "service:bicycle:mtb": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:service": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12064954942,
+      "lat": 37.7711259,
+      "lon": -122.2689272,
+      "tags": {
+        "addr:city": "Alameda",
+        "addr:housenumber": "1000",
+        "addr:postcode": "94501",
+        "addr:state": "CA",
+        "addr:street": "Central Avenue",
+        "name": "Westside Joe's Bike Shop",
+        "operator": "Westside Joe's Bike Shop",
+        "phone": "+1-510-995-8582",
+        "shop": "bicycle",
+        "website": "https://www.westsidejoes.com/home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12503980314,
+      "lat": 37.8294185,
+      "lon": -122.248717,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "4319",
+        "addr:postcode": "94611",
+        "addr:state": "CA",
+        "addr:street": "Piedmont Avenue",
+        "name": "Westside Joe's Bike Shop",
+        "opening_hours": "Mo-Th 11:00-18:00",
+        "phone": "+1-510-407-6950",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12564028826,
+      "lat": 37.6961913,
+      "lon": -122.0815411,
+      "tags": {
+        "addr:city": "Castro Valley",
+        "addr:housenumber": "3052",
+        "addr:postcode": "94546",
+        "addr:state": "CA",
+        "addr:street": "Castro Valley Boulevard",
+        "email": "gaelan@redwoodcyclehouse.com",
+        "name": "Redwood Cycle House",
+        "phone": "+1-510-214-6216",
+        "shop": "bicycle",
+        "website": "https://www.redwoodcyclehouse.com/contact"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12758812332,
+      "lat": 37.8701811,
+      "lon": -122.2699543,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2025",
+        "addr:postcode": "94704",
+        "addr:state": "CA",
+        "addr:street": "Center Street",
+        "name": "BikeLink: Berkeley BART Bike Station",
+        "shop": "bicycle",
+        "website": "http://www.bikelink.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12784981421,
+      "lat": 37.8564267,
+      "lon": -122.2878231,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2735",
+        "addr:postcode": "94702",
+        "addr:state": "CA",
+        "addr:street": "San Pablo Avenue",
+        "name": "Pacific EBike",
+        "shop": "bicycle",
+        "website": "https://www.pacificebike.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12817621978,
+      "lat": 37.5334644,
+      "lon": -121.9612878,
+      "tags": {
+        "addr:city": "Fremont",
+        "addr:housenumber": "4040",
+        "addr:postcode": "94538",
+        "addr:state": "CA",
+        "addr:street": "Papazian Way",
+        "name": "Fremont Schwinn Cyclery",
+        "phone": "+1-510-656-8610",
+        "shop": "bicycle",
+        "website": "https://www.fremontschwinn.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12821334275,
+      "lat": 37.8593766,
+      "lon": -122.2594903,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2800",
+        "addr:postcode": "94705",
+        "addr:state": "CA",
+        "addr:street": "Telegraph Avenue",
+        "name": "Karim Cycle",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12950077823,
+      "lat": 37.6670903,
+      "lon": -121.7397912,
+      "tags": {
+        "addr:housenumber": "4590",
+        "addr:street": "Tesla Road",
+        "name": "Pedego Electric Bikes",
+        "phone": "+1-925-800-5330",
+        "shop": "bicycle",
+        "website": "https://pedegoelectricbikes.com/pages/dealers/livermore"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13141564343,
+      "lat": 37.5761144,
+      "lon": -121.9784902,
+      "tags": {
+        "addr:city": "Fremont",
+        "addr:housenumber": "161",
+        "addr:postcode": "94536",
+        "addr:state": "CA",
+        "addr:street": "I Street",
+        "name": "Niles Bicycles",
+        "phone": "+1-510-565-1111",
+        "shop": "bicycle",
+        "website": "https://niles-bicycles.cloveronline.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 204491096,
+      "nodes": [
+        2144915095,
+        2144915097,
+        2144915108,
+        2144915109,
+        2144915110,
+        6636993455,
+        7012287677,
+        6636993454,
+        2144915095
+      ],
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:housenumber": "1824",
+        "addr:postcode": "94703",
+        "addr:state": "CA",
+        "addr:street": "University Avenue",
+        "building": "retail",
+        "name": "Mike's Bikes",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
+        "phone": "+1-510-845-2453",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://mikesbikes.com/pages/berkeley",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 236495100,
+      "nodes": [
+        2445179273,
+        2445177812,
+        2445177815,
+        2445179274,
+        2445179273
+      ],
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "3715",
+        "addr:postcode": "94619",
+        "addr:street": "MacArthur Boulevard",
+        "building": "yes",
+        "name": "Laurel Cyclery",
+        "phone": "510-328-1158",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.laurelcyclery.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258817647,
+      "nodes": [
+        2641345957,
+        2641345963,
+        2641345955,
+        2641345952,
+        2641345951,
+        2641345964,
+        2641345956,
+        2641345961,
+        2641345958,
+        2641345959,
+        2641345962,
+        2641345960,
+        2641345957
+      ],
+      "tags": {
+        "addr:housenumber": "2752",
+        "addr:street": "First Street",
+        "alt_name": "Trek Bicycle Store",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "building": "yes",
+        "name": "Trek",
+        "shop": "bicycle",
+        "website": "https://www.trekbikes.com/us/en_US/retail/livermore/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 344192515,
+      "nodes": [
+        3497323291,
+        3509468128,
+        3509468127,
+        3509468130,
+        3497323291
+      ],
+      "tags": {
+        "addr:country": "US",
+        "addr:housenumber": "84",
+        "addr:state": "CA",
+        "addr:street": "Bolivar Drive",
+        "building": "yes",
+        "name": "Street Level Cycles - Bicycle Sales and Rentals",
+        "opening_hours": "We-Su 12:00-18:00",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "https://watersideworkshops.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 384584256,
+      "nodes": [
+        3878929623,
+        3878929612,
+        3878929608,
+        3878929615,
+        3878929620,
+        3878929624,
+        3878929623
+      ],
+      "tags": {
+        "addr:city": "Pleasanton",
+        "addr:country": "US",
+        "addr:housenumber": "6754",
+        "addr:postcode": "94566",
+        "addr:state": "CA",
+        "addr:street": "Bernal Avenue",
+        "addr:unit": "710",
+        "building": "yes",
+        "name": "Mike's Bikes of Pleasanton",
+        "phone": "+1-925-223-8267",
+        "shop": "bicycle",
+        "website": "https://mikesbikes.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 555253732,
+      "nodes": [
+        5357362589,
+        5357362590,
+        5357362591,
+        5357362592,
+        5357362589
+      ],
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "6833",
+        "addr:postcode": "94621",
+        "addr:state": "CA",
+        "addr:street": "International Boulevard",
+        "building": "shed",
+        "name": "The Shed",
+        "opening_hours": "Sa 13:00-15:00",
+        "operator": "The Scraper Bike Team",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 760833937,
+      "nodes": [
+        2160299711,
+        7108011321,
+        7108011322,
+        7108011323,
+        7108011324,
+        7108011325,
+        7108011326,
+        7108011327,
+        2160299711
+      ],
+      "tags": {
+        "addr:housenumber": "90",
+        "addr:street": "Bolivar Drive",
+        "building": "yes",
+        "name": "Street Level Cycles - Public Shop",
+        "opening_hours": "Sa,Su 12:00-18:00",
+        "operator": "Waterside Workshops",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "service:bicycle:bike": "yes",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:second_hand": "yes",
+        "service:bicycle:service": "yes",
+        "service:bicycle:spare_parts": "yes",
+        "service:bicycle:tools": "yes",
+        "shop": "bicycle",
+        "website": "https://www.watersideworkshops.org/street-level-cycles/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1172321058,
+      "nodes": [
+        10892485715,
+        10941099991,
+        10941099993,
+        10892485716,
+        10892485717,
+        10892485718,
+        10941099994,
+        10941099992,
+        10892485715
+      ],
+      "tags": {
+        "addr:housenumber": "33611;33623",
+        "addr:street": "Mission Boulevard",
+        "alt_name": "Union City Teen Workshop",
+        "building": "yes",
+        "name": "Larry Orozco Teen Workshop",
+        "phone": "+1-510-675-5805",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "website": "https://www.unioncity.org/723/Larry-Orozco-Teen-Workshop"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5357362589,
+      "lat": 37.76068,
+      "lon": -122.19096
+    },
+    {
+      "type": "node",
+      "id": 5357362590,
+      "lat": 37.7606678,
+      "lon": -122.1909486
+    },
+    {
+      "type": "node",
+      "id": 5357362591,
+      "lat": 37.7606386,
+      "lon": -122.1909956
+    },
+    {
+      "type": "node",
+      "id": 5357362592,
+      "lat": 37.7606503,
+      "lon": -122.191007
+    },
+    {
+      "type": "node",
+      "id": 10892485715,
+      "lat": 37.6033443,
+      "lon": -122.0171482
+    },
+    {
+      "type": "node",
+      "id": 10892485716,
+      "lat": 37.60341,
+      "lon": -122.0173142
+    },
+    {
+      "type": "node",
+      "id": 10892485717,
+      "lat": 37.6033307,
+      "lon": -122.017427
+    },
+    {
+      "type": "node",
+      "id": 10892485718,
+      "lat": 37.6032588,
+      "lon": -122.0173464
+    },
+    {
+      "type": "node",
+      "id": 10941099991,
+      "lat": 37.6033789,
+      "lon": -122.0171865
+    },
+    {
+      "type": "node",
+      "id": 10941099992,
+      "lat": 37.6032996,
+      "lon": -122.01721
+    },
+    {
+      "type": "node",
+      "id": 10941099993,
+      "lat": 37.6033422,
+      "lon": -122.0172375
+    },
+    {
+      "type": "node",
+      "id": 10941099994,
+      "lat": 37.6033318,
+      "lon": -122.0172441
+    },
+    {
+      "type": "node",
+      "id": 3878929608,
+      "lat": 37.6565987,
+      "lon": -121.897316
+    },
+    {
+      "type": "node",
+      "id": 3878929612,
+      "lat": 37.656679,
+      "lon": -121.8971093
+    },
+    {
+      "type": "node",
+      "id": 3878929615,
+      "lat": 37.6567585,
+      "lon": -121.8974151
+    },
+    {
+      "type": "node",
+      "id": 3878929620,
+      "lat": 37.6568693,
+      "lon": -121.8974838
+    },
+    {
+      "type": "node",
+      "id": 3878929623,
+      "lat": 37.6569165,
+      "lon": -121.8972565
+    },
+    {
+      "type": "node",
+      "id": 3878929624,
+      "lat": 37.6569355,
+      "lon": -121.8973134
+    },
+    {
+      "type": "node",
+      "id": 2641345951,
+      "lat": 37.6849976,
+      "lon": -121.7640123
+    },
+    {
+      "type": "node",
+      "id": 2641345952,
+      "lat": 37.6849516,
+      "lon": -121.7640818
+    },
+    {
+      "type": "node",
+      "id": 2641345955,
+      "lat": 37.6849643,
+      "lon": -121.7641086
+    },
+    {
+      "type": "node",
+      "id": 2641345956,
+      "lat": 37.6850252,
+      "lon": -121.7639211
+    },
+    {
+      "type": "node",
+      "id": 2641345957,
+      "lat": 37.6851235,
+      "lon": -121.764409
+    },
+    {
+      "type": "node",
+      "id": 2641345958,
+      "lat": 37.6852891,
+      "lon": -121.7641542
+    },
+    {
+      "type": "node",
+      "id": 2641345959,
+      "lat": 37.6852785,
+      "lon": -121.7642454
+    },
+    {
+      "type": "node",
+      "id": 2641345960,
+      "lat": 37.6851915,
+      "lon": -121.7643688
+    },
+    {
+      "type": "node",
+      "id": 2641345961,
+      "lat": 37.6853634,
+      "lon": -121.7641247
+    },
+    {
+      "type": "node",
+      "id": 2641345962,
+      "lat": 37.6852127,
+      "lon": -121.7642749
+    },
+    {
+      "type": "node",
+      "id": 2641345963,
+      "lat": 37.6849134,
+      "lon": -121.7641944
+    },
+    {
+      "type": "node",
+      "id": 2641345964,
+      "lat": 37.6849877,
+      "lon": -121.7639852
+    },
+    {
+      "type": "node",
+      "id": 2160299711,
+      "lat": 37.862495,
+      "lon": -122.3006522
+    },
+    {
+      "type": "node",
+      "id": 7108011321,
+      "lat": 37.862515,
+      "lon": -122.3005808
+    },
+    {
+      "type": "node",
+      "id": 7108011322,
+      "lat": 37.8623259,
+      "lon": -122.3004955
+    },
+    {
+      "type": "node",
+      "id": 7108011323,
+      "lat": 37.8623291,
+      "lon": -122.3004841
+    },
+    {
+      "type": "node",
+      "id": 7108011324,
+      "lat": 37.8622244,
+      "lon": -122.3004368
+    },
+    {
+      "type": "node",
+      "id": 7108011325,
+      "lat": 37.8621983,
+      "lon": -122.3005297
+    },
+    {
+      "type": "node",
+      "id": 7108011326,
+      "lat": 37.862299,
+      "lon": -122.3005751
+    },
+    {
+      "type": "node",
+      "id": 7108011327,
+      "lat": 37.8623019,
+      "lon": -122.300565
+    },
+    {
+      "type": "node",
+      "id": 3497323291,
+      "lat": 37.8643079,
+      "lon": -122.3015234
+    },
+    {
+      "type": "node",
+      "id": 3509468127,
+      "lat": 37.8640615,
+      "lon": -122.3014512
+    },
+    {
+      "type": "node",
+      "id": 3509468128,
+      "lat": 37.8640794,
+      "lon": -122.3013986
+    },
+    {
+      "type": "node",
+      "id": 3509468130,
+      "lat": 37.86429,
+      "lon": -122.301576
+    },
+    {
+      "type": "node",
+      "id": 2144915095,
+      "lat": 37.870923,
+      "lon": -122.2740874
+    },
+    {
+      "type": "node",
+      "id": 2144915097,
+      "lat": 37.87093,
+      "lon": -122.2739855
+    },
+    {
+      "type": "node",
+      "id": 2144915108,
+      "lat": 37.8711214,
+      "lon": -122.2740066
+    },
+    {
+      "type": "node",
+      "id": 2144915109,
+      "lat": 37.8711288,
+      "lon": -122.2738993
+    },
+    {
+      "type": "node",
+      "id": 2144915110,
+      "lat": 37.8711332,
+      "lon": -122.2738352
+    },
+    {
+      "type": "node",
+      "id": 6636993454,
+      "lat": 37.87128,
+      "lon": -122.2741267
+    },
+    {
+      "type": "node",
+      "id": 6636993455,
+      "lat": 37.8713148,
+      "lon": -122.2738552
+    },
+    {
+      "type": "node",
+      "id": 7012287677,
+      "lat": 37.8712964,
+      "lon": -122.2739988
+    },
+    {
+      "type": "node",
+      "id": 2445177812,
+      "lat": 37.7918925,
+      "lon": -122.199095
+    },
+    {
+      "type": "node",
+      "id": 2445177815,
+      "lat": 37.7917665,
+      "lon": -122.1993186
+    },
+    {
+      "type": "node",
+      "id": 2445179273,
+      "lat": 37.7919299,
+      "lon": -122.1991288
+    },
+    {
+      "type": "node",
+      "id": 2445179274,
+      "lat": 37.7918039,
+      "lon": -122.1993524
+    }
+  ]
+}

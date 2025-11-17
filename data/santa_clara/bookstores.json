@@ -1,0 +1,1392 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 382382140,
+      "lat": 36.9727212,
+      "lon": -121.569832,
+      "tags": {
+        "addr:city": "Gilroy",
+        "addr:housenumber": "5055",
+        "addr:postcode": "95020",
+        "addr:state": "CA",
+        "addr:street": "Santa Teresa Boulevard",
+        "name": "Gavilan College Bookstore",
+        "operator": "Follett College Stores Corporation",
+        "phone": "+1-408-848-4742",
+        "shop": "books",
+        "website": "https://www.bkstr.com/gavilanstore/home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 933941585,
+      "lat": 37.3922619,
+      "lon": -121.98146,
+      "tags": {
+        "name": "Mission College Bookstore",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1108467972,
+      "lat": 37.253332,
+      "lon": -121.877057,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "5353",
+        "addr:postcode": "95118",
+        "addr:state": "CA",
+        "addr:street": "Almaden Expressway",
+        "addr:unit": "B100",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books",
+        "website": "https://store-locator.barnesandnoble.com/store/2909"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1145574484,
+      "lat": 37.287179,
+      "lon": -121.9446852,
+      "tags": {
+        "addr:city": "Campbell",
+        "addr:housenumber": "275",
+        "addr:street": "East Campbell Avenue",
+        "name": "Recycle Bookstore",
+        "opening_hours": "Mo-Su 11:00-21:00",
+        "phone": "+1 408-370-3514",
+        "second_hand": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1578531240,
+      "lat": 37.3922318,
+      "lon": -122.080127,
+      "tags": {
+        "addr:housenumber": "324",
+        "addr:street": "Castro Street",
+        "check_date": "2024-03-02",
+        "name": "East West",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1723464800,
+      "lat": 37.4256122,
+      "lon": -122.145204,
+      "tags": {
+        "addr:city": "Palo Alto",
+        "addr:housenumber": "459",
+        "addr:postcode": "94306",
+        "addr:street": "South California Avenue",
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "check_date": "2025-11-14",
+        "name": "Christian Science Reading Room",
+        "opening_hours": "Mo-Sa 12:00-16:00; Su 09:00-13:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2081397541,
+      "lat": 37.3228756,
+      "lon": -121.9635071,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "3600",
+        "addr:postcode": "95117",
+        "addr:street": "Stevens Creek Boulevard",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "opening_hours": "Mo-Su 09:00-22:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2104880290,
+      "lat": 37.3227307,
+      "lon": -121.9316685,
+      "tags": {
+        "addr:housenumber": "328",
+        "addr:street": "South Bascom Avenue",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2124086086,
+      "lat": 37.4379618,
+      "lon": -122.1595374,
+      "tags": {
+        "check_date": "2023-12-30",
+        "name": "Books Inc",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2159964973,
+      "lat": 37.392168,
+      "lon": -122.0797833,
+      "tags": {
+        "addr:city": "Mountain View",
+        "addr:housenumber": "317",
+        "addr:state": "CA",
+        "addr:street": "Castro Street",
+        "check_date": "2022-07-17",
+        "name": "Books, Inc.",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 10:00-20:00",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2235551625,
+      "lat": 37.3772252,
+      "lon": -122.0301847,
+      "tags": {
+        "addr:city": "Sunnyvale",
+        "addr:housenumber": "125",
+        "addr:postcode": "94086",
+        "addr:state": "CA",
+        "addr:street": "South Murphy Avenue",
+        "name": "Bookasaurus",
+        "opening_hours": "Mo-Th 10:00-18:00; Su 11:00-19:00; Fr,Sa 10:00-20:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2235551631,
+      "lat": 37.3772831,
+      "lon": -122.0301928,
+      "tags": {
+        "addr:city": "Sunnyvale",
+        "addr:housenumber": "121",
+        "addr:postcode": "94086",
+        "addr:state": "CA",
+        "addr:street": "South Murphy Avenue",
+        "name": "Leigh's Favorite Books",
+        "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 10:00-19:00; Su 11:00-19:00",
+        "shop": "books",
+        "website": "https://www.leighsbooks.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2379779763,
+      "lat": 37.3215463,
+      "lon": -122.044699,
+      "tags": {
+        "name": "De Anza College Bookstore",
+        "operator": "De Anza College",
+        "operator:wikidata": "Q928272",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2607395538,
+      "lat": 37.3847781,
+      "lon": -121.99529,
+      "tags": {
+        "addr:housenumber": "546",
+        "addr:street": "Lawrence Expressway",
+        "addr:unit": "3",
+        "name": "DigitalGuru Technical Bookshop",
+        "phone": "+1-800-800-1914",
+        "shop": "books",
+        "website": "https://www.digitalguru.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2619982669,
+      "lat": 37.3792395,
+      "lon": -122.1169758,
+      "tags": {
+        "addr:housenumber": "265",
+        "name": "Linden Tree Books",
+        "phone": "+1-650-949-3390",
+        "shop": "books",
+        "website": "https://www.lindentreebooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2658424325,
+      "lat": 37.3516683,
+      "lon": -122.0024264,
+      "tags": {
+        "addr:housenumber": "1082",
+        "addr:street": "East El Camino Real",
+        "addr:unit": "5",
+        "name": "Seoul Books & Leeoh Gallery",
+        "shop": "books",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170062869,
+      "lat": 37.1109256,
+      "lon": -121.6430893,
+      "tags": {
+        "name": "BookSmart",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170062880,
+      "lat": 37.1122273,
+      "lon": -121.6429331,
+      "tags": {
+        "name": "Anime 101",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4370577546,
+      "lat": 37.3623077,
+      "lon": -122.0272015,
+      "tags": {
+        "addr:city": "Sunnyvale",
+        "addr:housenumber": "574",
+        "addr:postcode": "94087",
+        "addr:state": "CA",
+        "addr:street": "East El Camino Real",
+        "books": "comic",
+        "contact:facebook": "https://www.facebook.com/HeroesaChampions/",
+        "email": "heroesandchampions@gmail.com",
+        "name": "Heroes & Champions",
+        "old_name": "Comic Collector Shop",
+        "opening_hours": "Mo-Sa 10:00-18:00, Su 11:00-18:00",
+        "opening_hours:covid19": "Mo-Sa 10:00-17:00; Su 11:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1 408 732 8775",
+        "second_hand": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4469475905,
+      "lat": 37.3698193,
+      "lon": -121.9299166,
+      "tags": {
+        "access": "permit",
+        "name": "Authors",
+        "official_name": "Authors Book Store",
+        "permit": "boarding_pass",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5035690123,
+      "lat": 37.2937545,
+      "lon": -121.8898723,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "2050",
+        "addr:postcode": "95125",
+        "addr:street": "Lincoln Avenue",
+        "name": "Hijinx Comics",
+        "shop": "books",
+        "smoking": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5695536548,
+      "lat": 37.3305005,
+      "lon": -121.9116855,
+      "tags": {
+        "books": "comic",
+        "name": "The Art Boutiki",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6312235088,
+      "lat": 37.4315034,
+      "lon": -122.1757712,
+      "tags": {
+        "name": "Stanford Medical Store",
+        "opening_hours": "Mo-Fr 09:00-15:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6399829611,
+      "lat": 37.336577,
+      "lon": -121.880292,
+      "tags": {
+        "name": "SJSU Book Store",
+        "safety:mask:covid19": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8197273300,
+      "lat": 37.3607886,
+      "lon": -122.0765975,
+      "tags": {
+        "addr:city": "Mountain View",
+        "addr:housenumber": "221",
+        "addr:postcode": "94040",
+        "addr:state": "CA",
+        "addr:street": "Bryant Avenue",
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "name": "Christian Science Reading Room",
+        "operator": "First Church of Christ Scientist",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8203974838,
+      "lat": 37.4280614,
+      "lon": -121.906013,
+      "tags": {
+        "addr:city": "Milpitas",
+        "addr:housenumber": "176",
+        "addr:postcode": "95035",
+        "addr:state": "CA",
+        "addr:street": "South Main Street",
+        "books": "comic",
+        "name": "Black Cat Comics",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8701153698,
+      "lat": 37.3903223,
+      "lon": -122.0836197,
+      "tags": {
+        "addr:city": "Mountain View",
+        "addr:housenumber": "585",
+        "addr:postcode": "94043",
+        "addr:state": "CA",
+        "addr:street": "Franklin Street",
+        "alt_name": "Friends of the Mountain View Library",
+        "name": "Lobby Shop",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "operator": "Friends of the Mountain View Library",
+        "operator:type": "private_non_profit",
+        "shop": "books",
+        "website": "https://www.mvlibraryfriends.org/sales/lobby-shop.htm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8733504488,
+      "lat": 37.3621092,
+      "lon": -122.1271819,
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8748792882,
+      "lat": 37.2877671,
+      "lon": -121.9520453,
+      "tags": {
+        "addr:city": "Campbell",
+        "addr:housenumber": "1",
+        "addr:postcode": "95008",
+        "addr:state": "CA",
+        "addr:street": "West Campbell Avenue",
+        "addr:unit": "Q-82",
+        "name": "Santa Clara Valley Al-Anon Intergroup Office and Bookstore",
+        "office": "association",
+        "ref": "Q-82",
+        "shop": "books",
+        "short_name": "SCVAFG",
+        "website": "https://www.scv-afg.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8813107043,
+      "lat": 37.3139604,
+      "lon": -122.032703,
+      "tags": {
+        "addr:city": "Cupertino",
+        "addr:housenumber": "10601",
+        "addr:postcode": "95014-4451",
+        "addr:state": "CA",
+        "addr:street": "South De Anza Boulevard",
+        "addr:unit": "209",
+        "contact:facebook": "https://www.facebook.com/amzworld.us/",
+        "craft": "signmaker",
+        "facebook": "https://www.facebook.com/amzworld.us/",
+        "language:zh": "yes",
+        "name": "世界生活館",
+        "name:en": "Amazing Books & Gifts",
+        "name:zh": "世界生活館",
+        "note": "Signs are exclusively in Chinese",
+        "office": "travel_agent;visa;notary;graphic_design",
+        "opening_hours": "Tu 12:00-17:00, We 12:00-18:00, Sa 12:00-17:00",
+        "shop": "books",
+        "short_name": "世界",
+        "short_name:zh": "世界",
+        "strapline": "團購•百貨;旅遊•簽證;設計•印刷"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9984274163,
+      "lat": 37.3372415,
+      "lon": -121.887849,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "124",
+        "addr:postcode": "95112",
+        "addr:state": "CA",
+        "addr:street": "East Santa Clara Street",
+        "addr:unit": "B",
+        "books": "comic",
+        "level": "0",
+        "name": "The Comic Shop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10313812406,
+      "lat": 37.2888678,
+      "lon": -121.9336238,
+      "tags": {
+        "addr:city": "Campbell",
+        "addr:housenumber": "1875",
+        "addr:postcode": "95008",
+        "addr:state": "CA",
+        "addr:street": "South Bascom Avenue",
+        "addr:unit": "600",
+        "name": "Books Inc.",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr 11:00-22:00; Sa 10:00-22:00; Su 10:00-20:00",
+        "payment:credit_cards": "yes",
+        "payment:google_pay": "yes",
+        "phone": "+1-408-378-2726",
+        "shop": "books",
+        "website": "https://www.booksinc.net/Campbell"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10647852791,
+      "lat": 37.4233706,
+      "lon": -121.9173388,
+      "tags": {
+        "addr:city": "Milpitas",
+        "addr:housenumber": "306",
+        "addr:postcode": "95035",
+        "addr:state": "CA",
+        "addr:street": "Barber Court",
+        "fixme": "chinese name needs to be entered",
+        "level": "0",
+        "name": "Books",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10774041009,
+      "lat": 37.0088947,
+      "lon": -121.5698833,
+      "tags": {
+        "addr:city": "Gilroy",
+        "addr:housenumber": "7541",
+        "addr:postcode": "95020",
+        "addr:state": "CA",
+        "addr:street": "Monterey Street",
+        "name": "Book Buyers",
+        "note": "This business is closed.",
+        "operator": "Ananda BookBuyers, Incorporated",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12125664204,
+      "lat": 37.3255072,
+      "lon": -121.8136409,
+      "tags": {
+        "books": "comic",
+        "level": "0",
+        "name": "Legends Comics & Games",
+        "phone": "+1 408-253-2643",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13086123270,
+      "lat": 37.371386,
+      "lon": -122.0443694,
+      "tags": {
+        "addr:city": "Sunnyvale",
+        "addr:housenumber": "913",
+        "addr:postcode": "94087",
+        "addr:state": "CA",
+        "addr:street": "West El Camino Real",
+        "books": "comic",
+        "contact:facebook": "https://www.facebook.com/comicsconspiracy/",
+        "currency:USD": "yes",
+        "email": "ComicsConspiracy@comicsconspiracy.biz",
+        "game": "yes",
+        "level": "0",
+        "name": "Comics Conspiracy",
+        "opening_hours": "Su-Tu 11:00-18:00; We-Th 11:00-20:00; Fr-Sa 11:00-19:00; Dec 25 off; Jan 1 off",
+        "phone": "+1 408-245-6275",
+        "shop": "books",
+        "stationery": "yes",
+        "toys": "yes",
+        "website": "https://comicsconspiracy.biz"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13108000978,
+      "lat": 37.2578752,
+      "lon": -122.0312874,
+      "tags": {
+        "addr:city": "Saratoga",
+        "addr:housenumber": "14410",
+        "addr:state": "CA",
+        "addr:street": "Oak Street",
+        "name": "Book-Go-Round",
+        "shop": "books",
+        "website": "https://www.bookgoround.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 78759069,
+      "nodes": [
+        922993289,
+        922993278,
+        922993271,
+        922993272,
+        922993287,
+        922993289
+      ],
+      "tags": {
+        "addr:housenumber": "536",
+        "addr:street": "Emerson Street",
+        "building": "retail",
+        "check_date": "2025-10-02",
+        "name": "Bell's Books",
+        "opening_hours": "Sa-Th 11:00-17:00; Fr 11:00-20:00",
+        "phone": "+1-650-323-7822",
+        "shop": "books",
+        "website": "https://www.bellsbooks.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 157781809,
+      "nodes": [
+        1700444239,
+        1700444306,
+        1700444067,
+        1700444041,
+        4775200163,
+        4775200164,
+        1700444239
+      ],
+      "tags": {
+        "addr:city": "Santa Clara",
+        "addr:housenumber": "500",
+        "addr:postcode": "95053",
+        "addr:state": "CA",
+        "addr:street": "El Camino Real",
+        "addr:unit": "303",
+        "alt_name": "Building 303",
+        "building": "yes",
+        "name": "Bronco Corner Bookstore",
+        "operator": "Santa Clara University",
+        "operator:wikidata": "Q992830",
+        "ref": "303",
+        "shop": "books",
+        "website": "https://www.scu.edu/auxiliary-services/bookstore/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 230610711,
+      "nodes": [
+        2390975416,
+        611529199,
+        2390975418,
+        2390975417,
+        2390975416
+      ],
+      "tags": {
+        "addr:housenumber": "1066",
+        "addr:postcode": "95126",
+        "addr:street": "The Alameda",
+        "building": "yes",
+        "ele": "37.67",
+        "height": "7.10",
+        "name": "Recycle Bookstore",
+        "opening_hours": "Mo-Th 11:00-21:00; Fr-Sa 11:00-19:00; Su 12:00-19:00",
+        "phone": "+1-408-286-6275",
+        "second_hand": "books",
+        "shop": "books",
+        "website": "https://www.recyclebookstore.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232805686,
+      "nodes": [
+        2411239974,
+        2411239975,
+        2411239999,
+        2411239984,
+        2411239993,
+        2411239977,
+        2411239954,
+        2411239950,
+        2411239895,
+        2411239899,
+        2411239889,
+        2411239891,
+        2411239893,
+        5555785609,
+        2411239898,
+        2411239894,
+        5555785612,
+        2411239902,
+        2411239910,
+        2411239911,
+        6408446843,
+        2411239976,
+        2411239974
+      ],
+      "tags": {
+        "addr:city": "Stanford",
+        "addr:housenumber": "519",
+        "addr:street": "Lasuen Mall",
+        "building": "yes",
+        "building:levels": "2",
+        "building:min_level": "-1",
+        "name": "Stanford Bookstore",
+        "paloalto_ca:id": "29408",
+        "shop": "books",
+        "source": "City of Palo Alto CA 0713",
+        "website": "https://www.bkstr.com/stanfordstore/home"
+      }
+    },
+    {
+      "type": "way",
+      "id": 557585225,
+      "nodes": [
+        5402514201,
+        5377481220,
+        5377482121,
+        5377481218,
+        5377481217,
+        5402514202,
+        5402514201
+      ],
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "1378",
+        "addr:postcode": "95125",
+        "addr:street": "Lincoln Avenue",
+        "building": "yes",
+        "ele": "45.11",
+        "height": "6.71",
+        "name": "Hicklebee's Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 752002463,
+      "nodes": [
+        7029670956,
+        2399877143,
+        2399877146,
+        2399877139,
+        2399877133,
+        7029670957,
+        309805606,
+        309805605,
+        309805604,
+        309805603,
+        7029670956
+      ],
+      "tags": {
+        "addr:city": "Gilroy",
+        "addr:housenumber": "6825",
+        "addr:postcode": "95020",
+        "addr:state": "CA",
+        "addr:street": "Camino Arroyo",
+        "branch": "Gilroy",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 761591426,
+      "nodes": [
+        7115633698,
+        7115633828,
+        7115633586,
+        1917965200,
+        7115633699,
+        7115633989,
+        7115633698
+      ],
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "Friends' Book Sale",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1099955956,
+      "nodes": [
+        9688466048,
+        10069634007,
+        353696902,
+        353696903,
+        9688466067,
+        9688466062,
+        10069634008,
+        9688466058,
+        9688466048
+      ],
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "675",
+        "addr:postcode": "95129",
+        "addr:state": "CA",
+        "addr:street": "Saratoga Avenue",
+        "addr:unit": "677",
+        "brand": "Books Kinokuniya",
+        "brand:contact:facebook": "KinokuniyaUSA",
+        "brand:contact:instagram": "kinokuniyausa",
+        "brand:contact:twitter": "KinokuniyaUSA",
+        "brand:contact:youtube": "https://www.youtube.com/channel/UCWzDankObAC1UcrZVyQm0Dw",
+        "brand:wikidata": "Q703227",
+        "email": "san_jose@kinokuniya.com",
+        "name": "Books Kinokuniya",
+        "opening_hours": "Mo-Su 11:00-19:00",
+        "opening_hours:url": "https://usa.kinokuniya.com/stores-kinokuniya-san-jose",
+        "phone": "+1 408 2521300",
+        "shop": "books",
+        "website": "https://usa.kinokuniya.com/stores-kinokuniya-san-jose",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1207364929,
+      "nodes": [
+        11187337468,
+        4853716326,
+        11187337467,
+        11187337466,
+        11187337468
+      ],
+      "tags": {
+        "brand": "Hudson Booksellers",
+        "brand:wikidata": "Q111534550",
+        "indoor": "room",
+        "level": "1",
+        "name": "Hudson Booksellers",
+        "name:en": "Hudson Booksellers",
+        "opening_hours": "Mo-Su 05:00-20:30",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1291976250,
+      "nodes": [
+        9008658954,
+        12020427263,
+        11977433553,
+        11977433554,
+        9008658933,
+        9008658941,
+        11977433551,
+        11977433618,
+        11977433617,
+        11977308235,
+        11977308236,
+        11977433522,
+        11977433526,
+        12020427268,
+        12027511664,
+        9008658954
+      ],
+      "tags": {
+        "indoor": "room",
+        "level": "0",
+        "name": "Friends of the Library Bookstore",
+        "room": "shop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 353696902,
+      "lat": 37.3145669,
+      "lon": -121.9777063
+    },
+    {
+      "type": "node",
+      "id": 353696903,
+      "lat": 37.3145678,
+      "lon": -121.978028
+    },
+    {
+      "type": "node",
+      "id": 9688466048,
+      "lat": 37.3146853,
+      "lon": -121.9777058
+    },
+    {
+      "type": "node",
+      "id": 9688466058,
+      "lat": 37.3146855,
+      "lon": -121.9778015
+    },
+    {
+      "type": "node",
+      "id": 9688466062,
+      "lat": 37.3146857,
+      "lon": -121.9778793
+    },
+    {
+      "type": "node",
+      "id": 9688466067,
+      "lat": 37.3146861,
+      "lon": -121.9780275
+    },
+    {
+      "type": "node",
+      "id": 10069634007,
+      "lat": 37.3146396,
+      "lon": -121.977706
+    },
+    {
+      "type": "node",
+      "id": 10069634008,
+      "lat": 37.3146856,
+      "lon": -121.97784
+    },
+    {
+      "type": "node",
+      "id": 5377481217,
+      "lat": 37.3040883,
+      "lon": -121.8972934
+    },
+    {
+      "type": "node",
+      "id": 5377481218,
+      "lat": 37.3041028,
+      "lon": -121.8972692
+    },
+    {
+      "type": "node",
+      "id": 5377481220,
+      "lat": 37.3040185,
+      "lon": -121.8975344
+    },
+    {
+      "type": "node",
+      "id": 5377482121,
+      "lat": 37.3041505,
+      "lon": -121.8973144
+    },
+    {
+      "type": "node",
+      "id": 5402514201,
+      "lat": 37.3039201,
+      "lon": -121.8974462
+    },
+    {
+      "type": "node",
+      "id": 5402514202,
+      "lat": 37.3040396,
+      "lon": -121.8972472
+    },
+    {
+      "type": "node",
+      "id": 611529199,
+      "lat": 37.3313762,
+      "lon": -121.9111561
+    },
+    {
+      "type": "node",
+      "id": 2390975416,
+      "lat": 37.3312368,
+      "lon": -121.911146
+    },
+    {
+      "type": "node",
+      "id": 2390975417,
+      "lat": 37.3312483,
+      "lon": -121.9108942
+    },
+    {
+      "type": "node",
+      "id": 2390975418,
+      "lat": 37.3313878,
+      "lon": -121.9109042
+    },
+    {
+      "type": "node",
+      "id": 9008658933,
+      "lat": 37.3353254,
+      "lon": -121.8847035
+    },
+    {
+      "type": "node",
+      "id": 9008658941,
+      "lat": 37.3353466,
+      "lon": -121.8847428
+    },
+    {
+      "type": "node",
+      "id": 9008658954,
+      "lat": 37.3352944,
+      "lon": -121.8846461
+    },
+    {
+      "type": "node",
+      "id": 11977308235,
+      "lat": 37.3354418,
+      "lon": -121.8846941
+    },
+    {
+      "type": "node",
+      "id": 11977308236,
+      "lat": 37.335428,
+      "lon": -121.8846683
+    },
+    {
+      "type": "node",
+      "id": 11977433522,
+      "lat": 37.3355013,
+      "lon": -121.8846054
+    },
+    {
+      "type": "node",
+      "id": 11977433526,
+      "lat": 37.3354852,
+      "lon": -121.884576
+    },
+    {
+      "type": "node",
+      "id": 11977433551,
+      "lat": 37.3353914,
+      "lon": -121.8848257
+    },
+    {
+      "type": "node",
+      "id": 11977433553,
+      "lat": 37.3353096,
+      "lon": -121.8846743
+    },
+    {
+      "type": "node",
+      "id": 11977433554,
+      "lat": 37.3353143,
+      "lon": -121.8846829
+    },
+    {
+      "type": "node",
+      "id": 11977433617,
+      "lat": 37.3354135,
+      "lon": -121.8847175
+    },
+    {
+      "type": "node",
+      "id": 11977433618,
+      "lat": 37.3354464,
+      "lon": -121.8847795
+    },
+    {
+      "type": "node",
+      "id": 12020427263,
+      "lat": 37.335306,
+      "lon": -121.8846675
+    },
+    {
+      "type": "node",
+      "id": 12020427268,
+      "lat": 37.3354524,
+      "lon": -121.884587
+    },
+    {
+      "type": "node",
+      "id": 12027511664,
+      "lat": 37.3353036,
+      "lon": -121.8846383
+    },
+    {
+      "type": "node",
+      "id": 309805603,
+      "lat": 37.0017909,
+      "lon": -121.5530301
+    },
+    {
+      "type": "node",
+      "id": 309805604,
+      "lat": 37.0016342,
+      "lon": -121.5529354
+    },
+    {
+      "type": "node",
+      "id": 309805605,
+      "lat": 37.0014457,
+      "lon": -121.5533977
+    },
+    {
+      "type": "node",
+      "id": 309805606,
+      "lat": 37.0016773,
+      "lon": -121.553541
+    },
+    {
+      "type": "node",
+      "id": 2399877133,
+      "lat": 37.0018532,
+      "lon": -121.5535717
+    },
+    {
+      "type": "node",
+      "id": 2399877139,
+      "lat": 37.0018861,
+      "lon": -121.5535944
+    },
+    {
+      "type": "node",
+      "id": 2399877143,
+      "lat": 37.0019901,
+      "lon": -121.5532356
+    },
+    {
+      "type": "node",
+      "id": 2399877146,
+      "lat": 37.0020232,
+      "lon": -121.5532566
+    },
+    {
+      "type": "node",
+      "id": 7029670956,
+      "lat": 37.002015,
+      "lon": -121.5531737
+    },
+    {
+      "type": "node",
+      "id": 7029670957,
+      "lat": 37.0018286,
+      "lon": -121.5536332
+    },
+    {
+      "type": "node",
+      "id": 2411239889,
+      "lat": 37.4245568,
+      "lon": -122.1685528
+    },
+    {
+      "type": "node",
+      "id": 2411239891,
+      "lat": 37.4245782,
+      "lon": -122.1686538
+    },
+    {
+      "type": "node",
+      "id": 2411239893,
+      "lat": 37.4245842,
+      "lon": -122.1686518
+    },
+    {
+      "type": "node",
+      "id": 2411239894,
+      "lat": 37.4245861,
+      "lon": -122.1687662
+    },
+    {
+      "type": "node",
+      "id": 2411239895,
+      "lat": 37.4245882,
+      "lon": -122.1683984
+    },
+    {
+      "type": "node",
+      "id": 2411239898,
+      "lat": 37.424607,
+      "lon": -122.1687593
+    },
+    {
+      "type": "node",
+      "id": 2411239899,
+      "lat": 37.4246166,
+      "lon": -122.1685327
+    },
+    {
+      "type": "node",
+      "id": 2411239902,
+      "lat": 37.424651,
+      "lon": -122.1690844
+    },
+    {
+      "type": "node",
+      "id": 2411239910,
+      "lat": 37.4247405,
+      "lon": -122.1690554
+    },
+    {
+      "type": "node",
+      "id": 2411239911,
+      "lat": 37.4247496,
+      "lon": -122.1691001
+    },
+    {
+      "type": "node",
+      "id": 2411239950,
+      "lat": 37.4248803,
+      "lon": -122.1683003
+    },
+    {
+      "type": "node",
+      "id": 2411239954,
+      "lat": 37.4249119,
+      "lon": -122.1684498
+    },
+    {
+      "type": "node",
+      "id": 2411239974,
+      "lat": 37.425009,
+      "lon": -122.168967
+    },
+    {
+      "type": "node",
+      "id": 2411239975,
+      "lat": 37.42501,
+      "lon": -122.168961
+    },
+    {
+      "type": "node",
+      "id": 2411239976,
+      "lat": 37.4250184,
+      "lon": -122.1690131
+    },
+    {
+      "type": "node",
+      "id": 2411239977,
+      "lat": 37.4250265,
+      "lon": -122.1684113
+    },
+    {
+      "type": "node",
+      "id": 2411239984,
+      "lat": 37.4250442,
+      "lon": -122.1686808
+    },
+    {
+      "type": "node",
+      "id": 2411239993,
+      "lat": 37.425081,
+      "lon": -122.1686685
+    },
+    {
+      "type": "node",
+      "id": 2411239999,
+      "lat": 37.4250973,
+      "lon": -122.1689317
+    },
+    {
+      "type": "node",
+      "id": 5555785609,
+      "lat": 37.4246009,
+      "lon": -122.1687298
+    },
+    {
+      "type": "node",
+      "id": 5555785612,
+      "lat": 37.4246018,
+      "lon": -122.1688412
+    },
+    {
+      "type": "node",
+      "id": 6408446843,
+      "lat": 37.4248858,
+      "lon": -122.169056
+    },
+    {
+      "type": "node",
+      "id": 922993271,
+      "lat": 37.4439282,
+      "lon": -122.162324
+    },
+    {
+      "type": "node",
+      "id": 922993278,
+      "lat": 37.4439723,
+      "lon": -122.1623958
+    },
+    {
+      "type": "node",
+      "id": 922993272,
+      "lat": 37.4440173,
+      "lon": -122.1622348
+    },
+    {
+      "type": "node",
+      "id": 922993287,
+      "lat": 37.4441461,
+      "lon": -122.1621055
+    },
+    {
+      "type": "node",
+      "id": 922993289,
+      "lat": 37.4441952,
+      "lon": -122.1621785
+    },
+    {
+      "type": "node",
+      "id": 1700444041,
+      "lat": 37.3475335,
+      "lon": -121.9388601
+    },
+    {
+      "type": "node",
+      "id": 1700444067,
+      "lat": 37.3476101,
+      "lon": -121.9386457
+    },
+    {
+      "type": "node",
+      "id": 1700444239,
+      "lat": 37.3478601,
+      "lon": -121.9390448
+    },
+    {
+      "type": "node",
+      "id": 1700444306,
+      "lat": 37.3479367,
+      "lon": -121.9388304
+    },
+    {
+      "type": "node",
+      "id": 4775200163,
+      "lat": 37.3476294,
+      "lon": -121.9389151
+    },
+    {
+      "type": "node",
+      "id": 4775200164,
+      "lat": 37.347849,
+      "lon": -121.9390378
+    },
+    {
+      "type": "node",
+      "id": 4853716326,
+      "lat": 37.3657995,
+      "lon": -121.9255873
+    },
+    {
+      "type": "node",
+      "id": 11187337466,
+      "lat": 37.3656878,
+      "lon": -121.9255981
+    },
+    {
+      "type": "node",
+      "id": 11187337467,
+      "lat": 37.3657409,
+      "lon": -121.9255217
+    },
+    {
+      "type": "node",
+      "id": 11187337468,
+      "lat": 37.3657467,
+      "lon": -121.9256626
+    },
+    {
+      "type": "node",
+      "id": 1917965200,
+      "lat": 37.3497623,
+      "lon": -121.8869273
+    },
+    {
+      "type": "node",
+      "id": 7115633586,
+      "lat": 37.3497614,
+      "lon": -121.8869371
+    },
+    {
+      "type": "node",
+      "id": 7115633698,
+      "lat": 37.3497472,
+      "lon": -121.886956
+    },
+    {
+      "type": "node",
+      "id": 7115633699,
+      "lat": 37.3497627,
+      "lon": -121.886923
+    },
+    {
+      "type": "node",
+      "id": 7115633828,
+      "lat": 37.34976,
+      "lon": -121.8869515
+    },
+    {
+      "type": "node",
+      "id": 7115633989,
+      "lat": 37.349748,
+      "lon": -121.8869215
+    }
+  ]
+}

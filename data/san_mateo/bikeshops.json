@@ -1,0 +1,507 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 272764075,
+      "lat": 37.5860337,
+      "lon": -122.3603913,
+      "tags": {
+        "created_by": "Potlatch 0.9c",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 454929330,
+      "lat": 37.5555738,
+      "lon": -122.318096,
+      "tags": {
+        "addr:city": "San Mateo",
+        "addr:housenumber": "1212",
+        "addr:postcode": "94402",
+        "addr:state": "CA",
+        "addr:street": "South El Camino Real",
+        "check_date": "2015-01-08",
+        "name": "Cyclepath",
+        "payment:litecoin": "yes",
+        "phone": "+1-650-341-0922",
+        "shop": "bicycle",
+        "website": "https://towne.io/store/cyclepath-of-san-mateo-53"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1411725385,
+      "lat": 37.4591436,
+      "lon": -122.193738,
+      "tags": {
+        "addr:city": "Menlo Park",
+        "addr:housenumber": "1800",
+        "addr:postcode": "94027",
+        "addr:state": "CA",
+        "addr:street": "El Camino Real",
+        "addr:unit": "A",
+        "name": "Woodside Bike Shop",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa 09:00-18:00,",
+        "phone": "+1 650-299-1071",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1720118516,
+      "lat": 37.4851647,
+      "lon": -122.2263825,
+      "tags": {
+        "addr:city": "Redwood City",
+        "addr:housenumber": "910",
+        "addr:postcode": "94063",
+        "addr:street": "Main Street",
+        "check_date": "2025-10-29",
+        "name": "Véloro Bicycles, Inc.",
+        "opening_hours": "Mo,Su off; Tu-Sa 11:00-18:00",
+        "phone": "+1-650-241-1060",
+        "shop": "bicycle",
+        "website": "https://www.veloro.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2611183818,
+      "lat": 37.4846472,
+      "lon": -122.1489882,
+      "tags": {
+        "name": "Bike Shop",
+        "opening_hours": "Mo-Fr 09:00-18:00",
+        "service:bicycle:pump": "no",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6575952756,
+      "lat": 37.4561174,
+      "lon": -122.2277672,
+      "tags": {
+        "addr:city": "Redwood City",
+        "addr:housenumber": "1523",
+        "addr:postcode": "94061",
+        "addr:street": "Woodside Rd.",
+        "building": "retail",
+        "name": "Woodside Bike Shop",
+        "opening_hours": "Mo-Sa 11:00-19:00",
+        "phone": "+1 650-299-1071",
+        "shop": "bicycle",
+        "website": "https://www.woodsidebikeshop.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9735638508,
+      "lat": 37.449523,
+      "lon": -122.1857588,
+      "tags": {
+        "addr:city": "Menlo Park",
+        "addr:housenumber": "883",
+        "addr:postcode": "94025",
+        "addr:state": "CA",
+        "addr:street": "Santa Cruz Avenue",
+        "addr:unit": "3",
+        "contact:facebook": "https://www.facebook.com/124260754276746",
+        "name": "Red Lantern Cycles",
+        "phone": "+1-650-853-3051",
+        "shop": "bicycle",
+        "website": "https://www.redlanterncycles.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9795874838,
+      "lat": 37.5863463,
+      "lon": -122.3610169,
+      "tags": {
+        "name": "Summit Bicycles",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su 10:00-17:00",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11492560590,
+      "lat": 37.5630508,
+      "lon": -122.3236054,
+      "tags": {
+        "addr:city": "San Mateo",
+        "addr:housenumber": "66",
+        "addr:postcode": "94401",
+        "addr:state": "CA",
+        "addr:street": "East 4th Avenue",
+        "brand": "Specialized",
+        "email": "info-Cognitioncyclery@specialized.com",
+        "name": "Cognition Cyclery",
+        "opening_hours": "Mo-Sa 10:00-18:00, Su 11:00-17:00",
+        "operator": "Specialized Bicycle Components",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-650-393-5031",
+        "service:bicycle:bicycle": "yes",
+        "service:bicycle:dealer": "yes",
+        "service:bicycle:ebike": "yes",
+        "service:bicycle:mtb": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:service": "yes",
+        "shop": "bicycle",
+        "toilets": "yes",
+        "website": "Cognitioncyclery.com",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13183309823,
+      "lat": 37.4741144,
+      "lon": -122.1313301,
+      "tags": {
+        "addr:city": "East Palo Alto",
+        "addr:housenumber": "2524",
+        "addr:postcode": "94303",
+        "addr:state": "CA",
+        "addr:street": "Pulgas Avenue",
+        "name": "Live In Peace Bike Shop",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 50417561,
+      "nodes": [
+        640604308,
+        640604309,
+        3489891134,
+        3489865463,
+        640604308
+      ],
+      "tags": {
+        "addr:city": "Belmont",
+        "addr:housenumber": "2041",
+        "addr:postcode": "94002",
+        "addr:state": "CA",
+        "addr:street": "Ralston Avenue",
+        "building": "yes",
+        "name": "Belmont Bikes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130216215,
+      "nodes": [
+        1435097900,
+        1435097903,
+        1087311928,
+        1087311894,
+        1435097900
+      ],
+      "tags": {
+        "addr:housenumber": "415C",
+        "addr:street": "Old County Road",
+        "building": "yes",
+        "name": "Passion Trail Bikes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130819246,
+      "nodes": [
+        1439975817,
+        1439975831,
+        1439975798,
+        1439975778,
+        1439975774,
+        1439975753,
+        1439975817
+      ],
+      "tags": {
+        "addr:city": "Redwood City",
+        "addr:housenumber": "2755",
+        "addr:postcode": "94061",
+        "addr:street": "El Camino Real",
+        "building": "retail",
+        "name": "Garner's Pro Bike Shop",
+        "phone": "+1-650-366-2619",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 130819247,
+      "nodes": [
+        1439975744,
+        1439975753,
+        1439975817,
+        1439975822,
+        1439975805,
+        1439975744
+      ],
+      "tags": {
+        "addr:city": "Redwood City",
+        "addr:housenumber": "2757",
+        "addr:postcode": "94061",
+        "addr:street": "El Camino Real",
+        "building": "retail",
+        "name": "GoRide Bicycles",
+        "phone": "+1-650-366-2453",
+        "shop": "bicycle",
+        "website": "https://goridebicycles.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 240578859,
+      "nodes": [
+        2483093083,
+        2483092703,
+        2483092877,
+        2483093221,
+        2483093083
+      ],
+      "tags": {
+        "addr:city": "Redwood City",
+        "addr:housenumber": "1680",
+        "addr:postcode": "94063",
+        "addr:street": "El Camino Real",
+        "building": "retail",
+        "name": "Chain Reaction Bicycles",
+        "opening_hours": "Mo-Fr 11:00-17:30; Sa 10:00-17:00",
+        "phone": "+1-650-366-7130",
+        "redwood_city_ca:addr_id": "16718",
+        "redwood_city_ca:bld_gid": "31767",
+        "shop": "bicycle",
+        "source": "City of Redwood City, CA 1013",
+        "website": "https://www.chainreaction.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 389972714,
+      "nodes": [
+        3931286623,
+        3931286640,
+        3931286638,
+        3931286636,
+        3931286635,
+        3931286633,
+        3931286632,
+        3931286627,
+        3931286629,
+        3931286622,
+        3931286623
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Bike Works Bike Shop",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3931286622,
+      "lat": 37.4637277,
+      "lon": -122.4332913
+    },
+    {
+      "type": "node",
+      "id": 3931286623,
+      "lat": 37.4637354,
+      "lon": -122.4333661
+    },
+    {
+      "type": "node",
+      "id": 3931286627,
+      "lat": 37.4637638,
+      "lon": -122.4332237
+    },
+    {
+      "type": "node",
+      "id": 3931286629,
+      "lat": 37.46377,
+      "lon": -122.4332844
+    },
+    {
+      "type": "node",
+      "id": 3931286632,
+      "lat": 37.4638157,
+      "lon": -122.4332152
+    },
+    {
+      "type": "node",
+      "id": 3931286633,
+      "lat": 37.4638197,
+      "lon": -122.4332536
+    },
+    {
+      "type": "node",
+      "id": 3931286635,
+      "lat": 37.4638356,
+      "lon": -122.433251
+    },
+    {
+      "type": "node",
+      "id": 3931286636,
+      "lat": 37.4638379,
+      "lon": -122.4332733
+    },
+    {
+      "type": "node",
+      "id": 3931286638,
+      "lat": 37.4638699,
+      "lon": -122.4332681
+    },
+    {
+      "type": "node",
+      "id": 3931286640,
+      "lat": 37.4638776,
+      "lon": -122.4333429
+    },
+    {
+      "type": "node",
+      "id": 640604308,
+      "lat": 37.5121313,
+      "lon": -122.2932711
+    },
+    {
+      "type": "node",
+      "id": 640604309,
+      "lat": 37.5121604,
+      "lon": -122.293168
+    },
+    {
+      "type": "node",
+      "id": 3489865463,
+      "lat": 37.5119854,
+      "lon": -122.2932054
+    },
+    {
+      "type": "node",
+      "id": 3489891134,
+      "lat": 37.5120145,
+      "lon": -122.2931024
+    },
+    {
+      "type": "node",
+      "id": 1087311894,
+      "lat": 37.5262713,
+      "lon": -122.2812165
+    },
+    {
+      "type": "node",
+      "id": 1087311928,
+      "lat": 37.5263802,
+      "lon": -122.2813678
+    },
+    {
+      "type": "node",
+      "id": 1435097900,
+      "lat": 37.5263928,
+      "lon": -122.2810775
+    },
+    {
+      "type": "node",
+      "id": 1435097903,
+      "lat": 37.5265017,
+      "lon": -122.2812289
+    },
+    {
+      "type": "node",
+      "id": 1439975744,
+      "lat": 37.4712293,
+      "lon": -122.2143166
+    },
+    {
+      "type": "node",
+      "id": 1439975753,
+      "lat": 37.4712804,
+      "lon": -122.2143956
+    },
+    {
+      "type": "node",
+      "id": 1439975774,
+      "lat": 37.4713356,
+      "lon": -122.2144809
+    },
+    {
+      "type": "node",
+      "id": 1439975778,
+      "lat": 37.4713409,
+      "lon": -122.2144755
+    },
+    {
+      "type": "node",
+      "id": 1439975798,
+      "lat": 37.4714126,
+      "lon": -122.2144018
+    },
+    {
+      "type": "node",
+      "id": 1439975805,
+      "lat": 37.4714195,
+      "lon": -122.2141213
+    },
+    {
+      "type": "node",
+      "id": 1439975817,
+      "lat": 37.4714517,
+      "lon": -122.2142198
+    },
+    {
+      "type": "node",
+      "id": 1439975822,
+      "lat": 37.4714706,
+      "lon": -122.2142004
+    },
+    {
+      "type": "node",
+      "id": 1439975831,
+      "lat": 37.4715068,
+      "lon": -122.2143051
+    },
+    {
+      "type": "node",
+      "id": 2483092703,
+      "lat": 37.4788448,
+      "lon": -122.2260585
+    },
+    {
+      "type": "node",
+      "id": 2483092877,
+      "lat": 37.4789388,
+      "lon": -122.2261765
+    },
+    {
+      "type": "node",
+      "id": 2483093083,
+      "lat": 37.4790902,
+      "lon": -122.2257482
+    },
+    {
+      "type": "node",
+      "id": 2483093221,
+      "lat": 37.4791841,
+      "lon": -122.2258661
+    }
+  ]
+}

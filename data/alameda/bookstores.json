@@ -1,0 +1,1252 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:25:54Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 310972963,
+      "lat": 37.7636212,
+      "lon": -122.2431041,
+      "tags": {
+        "addr:city": "Alameda",
+        "addr:housenumber": "1344",
+        "addr:postcode": "94501",
+        "addr:state": "CA",
+        "addr:street": "Park Street",
+        "name": "Books Inc.",
+        "phone": "+1-510-522-2226",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 310973027,
+      "lat": 37.7640546,
+      "lon": -122.2432127,
+      "tags": {
+        "name": "Rocket Reuse",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 343610927,
+      "lat": 37.8915626,
+      "lon": -122.2784812,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:housenumber": "1855",
+        "addr:state": "CA",
+        "addr:street": "Solano Avenue",
+        "alt_name": "Pegasus Fine Books",
+        "name": "Pegasus",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "second_hand": "yes",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 430883942,
+      "lat": 37.8079726,
+      "lon": -122.2698385,
+      "tags": {
+        "name": "Bibliomania",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 514123482,
+      "lat": 37.866518,
+      "lon": -122.267321,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2349",
+        "addr:street": "Shattuck Avenue",
+        "check_date": "2023-11-11",
+        "name": "Pegasus Books",
+        "second_hand": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 540609038,
+      "lat": 37.871277,
+      "lon": -122.268494,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:housenumber": "2036",
+        "addr:state": "CA",
+        "addr:street": "Shattuck Avenue",
+        "brand": "Half Price Books",
+        "brand:wikidata": "Q5641744",
+        "check_date": "2025-03-19",
+        "name": "Half Price Books",
+        "opening_hours": "Mo-Th 11:00-20:00; Fr-Su 10:00-22:00",
+        "phone": "+1-510-526-6080",
+        "second_hand": "yes",
+        "shop": "books",
+        "website": "https://www.hpb.com/store?storeid=HPB-037",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1228088207,
+      "lat": 37.8042334,
+      "lon": -122.2675866,
+      "tags": {
+        "addr:housenumber": "322",
+        "addr:street": "15th Street",
+        "name": "Dan Webb Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1378031326,
+      "lat": 37.8129719,
+      "lon": -122.2468114,
+      "tags": {
+        "addr:housenumber": "3316",
+        "addr:street": "Grand Avenue",
+        "name": "Walden Pond Books",
+        "opening_hours": "Su-Th 10:00-21:00; Fr-Sa 10:00-22:00",
+        "phone": "+1-510-832-4438",
+        "second_hand": "yes",
+        "shop": "books",
+        "website": "http://www.waldenpondbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1395461505,
+      "lat": 37.8582139,
+      "lon": -122.2533217,
+      "tags": {
+        "addr:housenumber": "2904",
+        "addr:street": "College Avenue",
+        "check_date": "2023-06-11",
+        "name": "Mrs. Dalloway's",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1684172587,
+      "lat": 37.6731999,
+      "lon": -122.0825158,
+      "tags": {
+        "addr:city": "Hayward",
+        "addr:housenumber": "1014",
+        "addr:postcode": "94544",
+        "addr:state": "CA",
+        "addr:street": "B Street",
+        "name": "Books on B",
+        "opening_hours": "Tu-Fr 10:00-18:00; Sa 09:00-17:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1798864276,
+      "lat": 37.8694243,
+      "lon": -122.3003054,
+      "tags": {
+        "name": "Builders",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2266130477,
+      "lat": 37.8334339,
+      "lon": -122.2927023,
+      "tags": {
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books",
+        "source": "Bing",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2615163439,
+      "lat": 37.6816623,
+      "lon": -121.7681059,
+      "tags": {
+        "addr:city": "Livermore",
+        "addr:housenumber": "2247",
+        "addr:state": "CA",
+        "addr:street": "First Street",
+        "books": "comic",
+        "fax": "925-449-3061",
+        "name": "Fantasy Books and Games",
+        "opening_hours": "We-Su 11:00-19:00;Mo, Tu 11:00-17:00",
+        "phone": "+1-925-449-5233",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3573794989,
+      "lat": 37.5460492,
+      "lon": -121.9865099,
+      "tags": {
+        "addr:city": "Fremont",
+        "addr:housenumber": "39152",
+        "addr:place": "Fremont Hub",
+        "addr:state": "CA",
+        "brand": "Half Price Books",
+        "brand:wikidata": "Q5641744",
+        "name": "Half Price Books",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "operator": "Half Price Books",
+        "second_hand": "yes",
+        "shop": "books",
+        "website": "https://hpb.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3585095731,
+      "lat": 37.6612526,
+      "lon": -121.8756467,
+      "tags": {
+        "name": "Towne Center Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3992963291,
+      "lat": 37.8003188,
+      "lon": -122.2711293,
+      "tags": {
+        "name": "Oakland Book Store",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3999477031,
+      "lat": 37.8067742,
+      "lon": -122.2728493,
+      "tags": {
+        "name": "Cape & Cowl Comics",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4049329117,
+      "lat": 37.80875,
+      "lon": -122.255978,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "353",
+        "addr:state": "CA",
+        "addr:street": "Grand Avenue",
+        "amenity": "bar",
+        "name": "Clio’s Bookshop",
+        "old_name": "Fama's African Braids",
+        "opening_hours": "Sa,Su 11:00-23:00; Mo-Fr 16:00-23:00",
+        "shop": "books",
+        "was:shop": "hairdresser"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4121725806,
+      "lat": 37.8543931,
+      "lon": -122.2484979,
+      "tags": {
+        "addr:housenumber": "3090",
+        "addr:street": "Claremont Avenue",
+        "name": "The Escapist",
+        "shop": "books",
+        "website": "http://www.escapistcomics.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4121827486,
+      "lat": 37.8689179,
+      "lon": -122.2594525,
+      "tags": {
+        "check_date": "2023-09-12",
+        "email": "berkeley@studentstore.com",
+        "name": "Cal Student Store",
+        "opening_hours": "Mo-Sa 10:00-17:00; Su 11:00-17:00",
+        "shop": "books",
+        "website": "https://calstudentstore.berkeley.edu/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4320499532,
+      "lat": 37.8044986,
+      "lon": -122.2689031,
+      "tags": {
+        "name": "Bergeron's Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5199297807,
+      "lat": 37.7017761,
+      "lon": -121.9326921,
+      "tags": {
+        "addr:housenumber": "7898",
+        "addr:street": "Dublin Boulevard",
+        "brand": "Half Price Books",
+        "brand:wikidata": "Q5641744",
+        "name": "Half Price Books",
+        "opening_hours": "Mo-Th 09:00-22:00; Fr-Sa 09:00-23:00; Su 10:00-21:00",
+        "phone": "+1 925 875-1942",
+        "shop": "books",
+        "website": "http://b.hpb.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5567563112,
+      "lat": 37.7961582,
+      "lon": -122.2629328,
+      "tags": {
+        "name": "Laney College Bookstore",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6056247750,
+      "lat": 37.8280809,
+      "lon": -122.2499409,
+      "tags": {
+        "check_date": "2025-01-11",
+        "name": "Black Swan Books",
+        "opening_hours": "Mo-Th off; Fr-Su 12:00-18:00",
+        "phone": "+1 510-428-2881",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6112307194,
+      "lat": 37.8471189,
+      "lon": -122.2709403,
+      "tags": {
+        "name": "Angel Light Books & Gifts",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7214741549,
+      "lat": 37.8681591,
+      "lon": -122.2662139,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2284",
+        "addr:state": "CA",
+        "addr:street": "Fulton Street",
+        "check_date": "2023-03-18",
+        "contact:facebook": "dkinggallery",
+        "contact:instagram": "dkinggallery",
+        "email": "dk@dking-gallery.com",
+        "name": "D. King Gallery",
+        "opening_hours": "\"by appointment only\"",
+        "phone": "+1 510 5481062",
+        "shop": "books",
+        "website": "https://www.dking-gallery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7560052880,
+      "lat": 37.8757113,
+      "lon": -122.2736314,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:housenumber": "1708",
+        "addr:postcode": "94709",
+        "addr:state": "CA",
+        "addr:street": "Martin Luther King Junior Way",
+        "addr:unit": "A",
+        "name": "Fantastic Comics",
+        "opening_hours": "We-Sa 12:00-17:00",
+        "phone": "+1-510.982.1451",
+        "shop": "books",
+        "website": "https://fantasticcomics.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8048879236,
+      "lat": 37.8544948,
+      "lon": -122.248416,
+      "tags": {
+        "addr:housenumber": "3086",
+        "addr:street": "Claremont Avenue",
+        "name": "Dark Carnival",
+        "phone": "+1-510-654-7323",
+        "shop": "books",
+        "website": "http://darkcarnival.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8197268029,
+      "lat": 37.8649077,
+      "lon": -122.258292,
+      "tags": {
+        "name": "Sleepy Cat Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8883598803,
+      "lat": 37.8253489,
+      "lon": -122.2540284,
+      "tags": {
+        "name": "Owl & Company Bookshop",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10563165909,
+      "lat": 37.8016618,
+      "lon": -122.2725155,
+      "tags": {
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "name": "Christian Science Reading Room",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10728585372,
+      "lat": 37.8485742,
+      "lon": -122.2520589,
+      "tags": {
+        "addr:housenumber": "6022",
+        "addr:street": "College Avenue",
+        "check_date": "2024-12-23",
+        "name": "East Bay Booksellers",
+        "note": "new temporary location for East Bay Booksellers",
+        "old_name": "Berkeley Kids' Room",
+        "shop": "books",
+        "was:shop": "furniture",
+        "website": "https://www.ebbooksellers.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10783580946,
+      "lat": 37.8264179,
+      "lon": -122.209887,
+      "tags": {
+        "addr:housenumber": "6120",
+        "addr:street": "La Salle Avenue",
+        "name": "A Great Good Place for Books",
+        "shop": "books",
+        "website": "https://www.ggpbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10869465225,
+      "lat": 37.8291493,
+      "lon": -122.268435,
+      "tags": {
+        "name": "Marcus Books",
+        "shop": "books",
+        "website": "https://www.marcusbooks.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10939302439,
+      "lat": 37.8813588,
+      "lon": -122.2739341,
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:country": "US",
+        "addr:state": "CA",
+        "addr:street": "Martin Luther King Jr Way",
+        "name": "Mr. Mopps' Bookstore",
+        "shop": "books",
+        "website": "http://www.mrmopps.net/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11504270783,
+      "lat": 37.7888486,
+      "lon": -122.167541,
+      "tags": {
+        "name": "Merritt College Bookstore",
+        "operator:wikidata": "Q6820339",
+        "shop": "books",
+        "website": "https://www.merritt.edu/bookstore",
+        "wikidata": "Q99475510"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11969904982,
+      "lat": 37.8015372,
+      "lon": -122.2732396,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "933",
+        "addr:postcode": "94607",
+        "addr:state": "CA",
+        "addr:street": "Broadway",
+        "contact:instagram": "fopl_bookmark",
+        "email": "bookmark@fopl.org",
+        "name": "The Bookmark Bookstore",
+        "opening_hours": "We-Su 11:00-16:00",
+        "operator": "Friends of the Oakland Public Library",
+        "phone": "+1 510-444-0473",
+        "shop": "books",
+        "website": "https://www.fopl.org/the-bookmark"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12321233000,
+      "lat": 37.773829,
+      "lon": -122.2769548,
+      "tags": {
+        "books": "comic",
+        "name": "Alameda Sports Cards & Comics",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12453577802,
+      "lat": 37.8304029,
+      "lon": -122.2639058,
+      "tags": {
+        "books": "religion",
+        "name": "Between the Lines Bookstore",
+        "operator": "East Bay Church of Religious Science",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12453584422,
+      "lat": 37.857569,
+      "lon": -122.2529757,
+      "tags": {
+        "bar": "yes",
+        "name": "Book Society",
+        "shop": "books",
+        "website": "https://www.booksociety.social/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12710530801,
+      "lat": 37.5490087,
+      "lon": -121.985275,
+      "tags": {
+        "addr:housenumber": "3768 F",
+        "addr:street": "Capitol Avenue",
+        "name": "Banter Bookshop",
+        "opening_hours": "Mo-Th 10:00-18:00; Fr-Sa 10:00-20:00; Su 11:00-17:00",
+        "shop": "books",
+        "website": "https://banterbookshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12717366149,
+      "lat": 37.8674485,
+      "lon": -122.2595061,
+      "tags": {
+        "addr:housenumber": "2444",
+        "addr:street": "Durant Avenue",
+        "name": "Revolution Books",
+        "opening_hours": "Tu-Fr 12:30-19:00, Sa-Su 13:00-18:00; Mo off",
+        "phone": "+1 510-848-1196",
+        "shop": "books",
+        "website": "https://revolutionbooks.org"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12810846909,
+      "lat": 37.7665777,
+      "lon": -122.2422903,
+      "tags": {
+        "addr:city": "Alameda",
+        "addr:housenumber": "1550",
+        "addr:postcode": "94501",
+        "addr:state": "CA",
+        "addr:street": "Oak Street",
+        "air_conditioning": "yes",
+        "email": "bff@alamedafriends.com",
+        "level": "0",
+        "name": "Books for Friends",
+        "opening_hours": "We 12:00-18:00; Th-Sa 12:00-16:00; PH off",
+        "operator": "Friends of the Alameda Library",
+        "phone": "+1-510-747-7737",
+        "shop": "books",
+        "website": "https://alamedafriends.com/books-for-friends/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12865842071,
+      "lat": 37.8359616,
+      "lon": -122.2618206,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "470",
+        "addr:street": "49th Street",
+        "name": "Womb House Books",
+        "shop": "books",
+        "website": "https://www.wombhousebooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12865842074,
+      "lat": 37.8361469,
+      "lon": -122.2619064,
+      "tags": {
+        "addr:city": "Oakland",
+        "addr:housenumber": "484",
+        "addr:street": "49th Street",
+        "addr:unit": "C",
+        "name": "Mount Analaog Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12900569264,
+      "lat": 37.8680992,
+      "lon": -122.2689392,
+      "tags": {
+        "level:ref": "1",
+        "name": "Friends' Store",
+        "note:opening_hours": "\"Bookstore hours may vary based on volunteer availability\"",
+        "opening_hours": "Mo 12:00-16:00; Tu-Sa 10:00-16:00; Su off",
+        "second_hand": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12978573084,
+      "lat": 37.6836627,
+      "lon": -121.7678653,
+      "tags": {
+        "name": "Towne Center Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 37060777,
+      "nodes": [
+        431016870,
+        431016871,
+        431016874,
+        9906740975,
+        9906740976,
+        431016804,
+        431016803,
+        431016870
+      ],
+      "tags": {
+        "addr:city": "Berkeley",
+        "addr:housenumber": "2476",
+        "addr:postcode": "94704",
+        "addr:state": "CA",
+        "addr:street": "Telegraph Avenue",
+        "building": "retail",
+        "building:levels": "4",
+        "check_date": "2024-07-31",
+        "name": "Moe's Books",
+        "opening_hours": "Mo-Su 11:00-19:00",
+        "phone": "+1 510 849 2087",
+        "shop": "books",
+        "website": "https://www.moesbooks.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 69602836,
+      "nodes": [
+        832950945,
+        10000461952,
+        832950713,
+        832950995,
+        832950534,
+        832950735,
+        832951038,
+        832950579,
+        832950883,
+        832950484,
+        832950761,
+        832950806,
+        2699268331,
+        832950945
+      ],
+      "tags": {
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Pioneer Bookstore",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 160262695,
+      "nodes": [
+        1723171509,
+        1723171516,
+        1723171522,
+        1723171526,
+        1723171524,
+        1723171509
+      ],
+      "tags": {
+        "addr:housenumber": "5560",
+        "addr:state": "CA",
+        "addr:street": "College Avenue",
+        "baby_feeding": "no",
+        "building": "retail",
+        "building:levels": "1",
+        "building:use": "commercial",
+        "level": "1",
+        "name": "Pegasus Books",
+        "old_name": "Pendragon Books",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "second_hand": "yes",
+        "shop": "books",
+        "source": "Local knowledge",
+        "website": "https://www.pegasusbookstore.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225171142,
+      "nodes": [
+        2339793973,
+        2339793975,
+        2341546471,
+        2339793978,
+        2339793980,
+        2339793973
+      ],
+      "tags": {
+        "addr:housenumber": "4163",
+        "addr:street": "Piedmont Avenue",
+        "building": "yes",
+        "name": "Spectator Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 386853188,
+      "nodes": [
+        3902074126,
+        3902074125,
+        3902074124,
+        3902074114,
+        3902074117,
+        3902074119,
+        3902074126
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:country": "US",
+        "addr:housenumber": "4972",
+        "addr:postcode": "94568",
+        "addr:state": "CA",
+        "addr:street": "Dublin Boulevard",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "building": "yes",
+        "name": "Barnes & Noble",
+        "phone": "+1-925-560-1495",
+        "shop": "books",
+        "website": "https://www.barnesandnoble.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 402818448,
+      "nodes": [
+        4052317900,
+        4052317901,
+        4052317902,
+        4052317903,
+        12643759556,
+        4052317900
+      ],
+      "tags": {
+        "addr:housenumber": "2844",
+        "addr:street": "Mountain Boulevard",
+        "building": "yes",
+        "disused": "gas station",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 478170487,
+      "nodes": [
+        4714229560,
+        4714229556,
+        4714229555,
+        4714229554,
+        4714229553,
+        4714229557,
+        4714229558,
+        4714229559,
+        4714229560
+      ],
+      "tags": {
+        "addr:housenumber": "1144",
+        "addr:street": "Montague Avenue",
+        "building": "yes",
+        "name": "Lakeshore Learning Store",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 879122914,
+      "nodes": [
+        8178453210,
+        13000975695,
+        8178453209,
+        8178453208,
+        8178453207,
+        8178453206,
+        8178453205,
+        8178453204,
+        8178453203,
+        8178453202,
+        8178453201,
+        8178453200,
+        8178453199,
+        8178453210
+      ],
+      "tags": {
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "building": "yes",
+        "name": "Christian Science Reading Room",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 832950484,
+      "lat": 37.6552685,
+      "lon": -122.0557965
+    },
+    {
+      "type": "node",
+      "id": 832950534,
+      "lat": 37.6553893,
+      "lon": -122.0559042
+    },
+    {
+      "type": "node",
+      "id": 832950579,
+      "lat": 37.6553232,
+      "lon": -122.0558379
+    },
+    {
+      "type": "node",
+      "id": 832950713,
+      "lat": 37.6552683,
+      "lon": -122.0563156
+    },
+    {
+      "type": "node",
+      "id": 832950735,
+      "lat": 37.6553668,
+      "lon": -122.05587
+    },
+    {
+      "type": "node",
+      "id": 832950761,
+      "lat": 37.6552418,
+      "lon": -122.0557768
+    },
+    {
+      "type": "node",
+      "id": 832950806,
+      "lat": 37.6551963,
+      "lon": -122.0557513
+    },
+    {
+      "type": "node",
+      "id": 832950883,
+      "lat": 37.6552951,
+      "lon": -122.0558204
+    },
+    {
+      "type": "node",
+      "id": 832950945,
+      "lat": 37.6550185,
+      "lon": -122.056159
+    },
+    {
+      "type": "node",
+      "id": 832950995,
+      "lat": 37.6554201,
+      "lon": -122.0559434
+    },
+    {
+      "type": "node",
+      "id": 832951038,
+      "lat": 37.655347,
+      "lon": -122.0558553
+    },
+    {
+      "type": "node",
+      "id": 2699268331,
+      "lat": 37.6551108,
+      "lon": -122.0559389
+    },
+    {
+      "type": "node",
+      "id": 10000461952,
+      "lat": 37.6551775,
+      "lon": -122.0562583
+    },
+    {
+      "type": "node",
+      "id": 4714229553,
+      "lat": 37.7093173,
+      "lon": -122.1594602
+    },
+    {
+      "type": "node",
+      "id": 4714229554,
+      "lat": 37.7092655,
+      "lon": -122.1595846
+    },
+    {
+      "type": "node",
+      "id": 4714229555,
+      "lat": 37.7091971,
+      "lon": -122.1595391
+    },
+    {
+      "type": "node",
+      "id": 4714229556,
+      "lat": 37.7091337,
+      "lon": -122.1596913
+    },
+    {
+      "type": "node",
+      "id": 4714229557,
+      "lat": 37.7093715,
+      "lon": -122.1594963
+    },
+    {
+      "type": "node",
+      "id": 4714229558,
+      "lat": 37.7094115,
+      "lon": -122.1594001
+    },
+    {
+      "type": "node",
+      "id": 4714229559,
+      "lat": 37.7089839,
+      "lon": -122.1591158
+    },
+    {
+      "type": "node",
+      "id": 4714229560,
+      "lat": 37.7088288,
+      "lon": -122.1594885
+    },
+    {
+      "type": "node",
+      "id": 8178453199,
+      "lat": 37.5441223,
+      "lon": -121.9462401
+    },
+    {
+      "type": "node",
+      "id": 8178453200,
+      "lat": 37.544118,
+      "lon": -121.9462575
+    },
+    {
+      "type": "node",
+      "id": 8178453201,
+      "lat": 37.5439887,
+      "lon": -121.9462056
+    },
+    {
+      "type": "node",
+      "id": 8178453202,
+      "lat": 37.5439929,
+      "lon": -121.9461889
+    },
+    {
+      "type": "node",
+      "id": 8178453203,
+      "lat": 37.5439831,
+      "lon": -121.946185
+    },
+    {
+      "type": "node",
+      "id": 8178453204,
+      "lat": 37.5440333,
+      "lon": -121.9459864
+    },
+    {
+      "type": "node",
+      "id": 8178453205,
+      "lat": 37.5440739,
+      "lon": -121.9460028
+    },
+    {
+      "type": "node",
+      "id": 8178453206,
+      "lat": 37.5440795,
+      "lon": -121.9459806
+    },
+    {
+      "type": "node",
+      "id": 8178453207,
+      "lat": 37.5441482,
+      "lon": -121.9460082
+    },
+    {
+      "type": "node",
+      "id": 8178453208,
+      "lat": 37.5441423,
+      "lon": -121.9460315
+    },
+    {
+      "type": "node",
+      "id": 8178453209,
+      "lat": 37.544181,
+      "lon": -121.946047
+    },
+    {
+      "type": "node",
+      "id": 8178453210,
+      "lat": 37.5441313,
+      "lon": -121.9462437
+    },
+    {
+      "type": "node",
+      "id": 13000975695,
+      "lat": 37.5441529,
+      "lon": -121.9461582
+    },
+    {
+      "type": "node",
+      "id": 3902074114,
+      "lat": 37.7053832,
+      "lon": -121.8844904
+    },
+    {
+      "type": "node",
+      "id": 3902074117,
+      "lat": 37.7053862,
+      "lon": -121.8847791
+    },
+    {
+      "type": "node",
+      "id": 3902074119,
+      "lat": 37.7053892,
+      "lon": -121.8850676
+    },
+    {
+      "type": "node",
+      "id": 3902074124,
+      "lat": 37.7057933,
+      "lon": -121.8844836
+    },
+    {
+      "type": "node",
+      "id": 3902074125,
+      "lat": 37.7058015,
+      "lon": -121.8844835
+    },
+    {
+      "type": "node",
+      "id": 3902074126,
+      "lat": 37.7058075,
+      "lon": -121.8850607
+    },
+    {
+      "type": "node",
+      "id": 4052317900,
+      "lat": 37.811607,
+      "lon": -122.1978799
+    },
+    {
+      "type": "node",
+      "id": 4052317901,
+      "lat": 37.8116524,
+      "lon": -122.1978263
+    },
+    {
+      "type": "node",
+      "id": 4052317902,
+      "lat": 37.811559,
+      "lon": -122.1976997
+    },
+    {
+      "type": "node",
+      "id": 4052317903,
+      "lat": 37.8115136,
+      "lon": -122.1977534
+    },
+    {
+      "type": "node",
+      "id": 12643759556,
+      "lat": 37.8115631,
+      "lon": -122.1978205
+    },
+    {
+      "type": "node",
+      "id": 2339793973,
+      "lat": 37.8273908,
+      "lon": -122.2517765
+    },
+    {
+      "type": "node",
+      "id": 2339793975,
+      "lat": 37.8274618,
+      "lon": -122.2516759
+    },
+    {
+      "type": "node",
+      "id": 2339793978,
+      "lat": 37.8272901,
+      "lon": -122.2514652
+    },
+    {
+      "type": "node",
+      "id": 2339793980,
+      "lat": 37.8272139,
+      "lon": -122.2515646
+    },
+    {
+      "type": "node",
+      "id": 2341546471,
+      "lat": 37.8274396,
+      "lon": -122.2516487
+    },
+    {
+      "type": "node",
+      "id": 1723171509,
+      "lat": 37.8431031,
+      "lon": -122.2515425
+    },
+    {
+      "type": "node",
+      "id": 1723171516,
+      "lat": 37.8431244,
+      "lon": -122.2514873
+    },
+    {
+      "type": "node",
+      "id": 1723171522,
+      "lat": 37.8431738,
+      "lon": -122.2513619
+    },
+    {
+      "type": "node",
+      "id": 1723171524,
+      "lat": 37.8432443,
+      "lon": -122.2515543
+    },
+    {
+      "type": "node",
+      "id": 1723171526,
+      "lat": 37.8432921,
+      "lon": -122.251431
+    },
+    {
+      "type": "node",
+      "id": 431016803,
+      "lat": 37.8654445,
+      "lon": -122.2588163
+    },
+    {
+      "type": "node",
+      "id": 431016804,
+      "lat": 37.8654683,
+      "lon": -122.2586349
+    },
+    {
+      "type": "node",
+      "id": 431016870,
+      "lat": 37.8654236,
+      "lon": -122.2589766
+    },
+    {
+      "type": "node",
+      "id": 431016871,
+      "lat": 37.8655206,
+      "lon": -122.2589966
+    },
+    {
+      "type": "node",
+      "id": 431016874,
+      "lat": 37.8655664,
+      "lon": -122.2586485
+    },
+    {
+      "type": "node",
+      "id": 9906740975,
+      "lat": 37.8654995,
+      "lon": -122.2586339
+    },
+    {
+      "type": "node",
+      "id": 9906740976,
+      "lat": 37.8654986,
+      "lon": -122.2586412
+    }
+  ]
+}

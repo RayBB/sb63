@@ -1,0 +1,1268 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 312774153,
+      "lat": 37.3300225,
+      "lon": -121.8821868,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "131",
+        "addr:postcode": "95112",
+        "addr:street": "East William Street",
+        "name": "Bicycle Express",
+        "opening_hours": "Tu-Fr 10:30-19:00; Sa 11:00-18:00",
+        "service:bicycle:pump": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 317341341,
+      "lat": 37.3526394,
+      "lon": -121.9678437,
+      "tags": {
+        "addr:city": "Santa Clara",
+        "addr:country": "US",
+        "addr:housenumber": "2369",
+        "addr:postcode": "95050",
+        "addr:street": "El Camino Real",
+        "name": "The Off Ramp",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 319524197,
+      "lat": 37.2267319,
+      "lon": -121.9820963,
+      "tags": {
+        "name": "Formerly Crossroads Bicycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 334790396,
+      "lat": 37.007388,
+      "lon": -121.5692081,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "name": "Bike Center",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 340330779,
+      "lat": 37.4239673,
+      "lon": -122.170752,
+      "tags": {
+        "addr:city": "Stanford",
+        "addr:housenumber": "459",
+        "addr:postcode": "94305",
+        "addr:state": "CA",
+        "addr:street": "Lagunita Drive",
+        "addr:unit": "12",
+        "level": "0",
+        "name": "Campus Bike Shop",
+        "operator": "M&S Bicycles Stanford, Inc.",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:sales": "yes",
+        "shop": "bicycle",
+        "website": "https://campusbikeshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 472293239,
+      "lat": 37.2214545,
+      "lon": -121.9787255,
+      "tags": {
+        "name": "Summit Bicycles",
+        "opening_hours": "Mo-Su 11:00-17:00",
+        "phone": "+1-855-245-3663",
+        "shop": "bicycle",
+        "website": "https://www.summitbicycles.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 856198471,
+      "lat": 37.2263579,
+      "lon": -121.9823327,
+      "tags": {
+        "name": "Mike's Bikes",
+        "shop": "bicycle",
+        "website": "https://www.mikesbikes.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1146637575,
+      "lat": 37.2976764,
+      "lon": -121.913993,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "1515",
+        "addr:postcode": "95125",
+        "addr:street": "Meridian Avenue",
+        "name": "Hyland Family Bicycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1293729021,
+      "lat": 37.3238049,
+      "lon": -122.0179071,
+      "tags": {
+        "addr:housenumber": "19685",
+        "addr:postcode": "95014",
+        "addr:street": "Stevens Creek Boulevard",
+        "name": "Evolution Bike Shop",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1616253687,
+      "lat": 37.3089515,
+      "lon": -122.0120383,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "6140",
+        "addr:postcode": "95129",
+        "addr:street": "Bollinger Road",
+        "name": "Calabazas Cyclery",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1707645861,
+      "lat": 37.2938645,
+      "lon": -121.942862,
+      "tags": {
+        "addr:city": "Campbell",
+        "addr:housenumber": "402",
+        "addr:postcode": "95008",
+        "addr:state": "CA",
+        "addr:street": "East Hamilton Avenue",
+        "name": "Wheel Away Cycle Center",
+        "phone": "+1-408-378-4636",
+        "shop": "bicycle",
+        "website": "https://www.wheelaway.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2666348865,
+      "lat": 37.1336882,
+      "lon": -121.6292047,
+      "tags": {
+        "addr:housename": "Harvest Plaza",
+        "addr:housenumber": "1295",
+        "addr:postcode": "95037",
+        "addr:street": "East Dunne Avenue",
+        "name": "Concept Cyclery",
+        "shop": "bicycle",
+        "website": "http://www.conceptcyclery.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3033924237,
+      "lat": 37.307375,
+      "lon": -121.8492042,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "565",
+        "addr:postcode": "95112",
+        "addr:state": "CA",
+        "addr:street": "Tully Road",
+        "email": "sanjosebicycles@gmail.com",
+        "name": "San Jose Bicycles",
+        "opening_hours": "Mo-Th 14:00-19:00; Fr-Sa 12:00-19:00; Su 12:00-17:00",
+        "phone": "+1-408-964-8640",
+        "shop": "bicycle",
+        "website": "http://sjbikeshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4170062875,
+      "lat": 37.1110793,
+      "lon": -121.6428178,
+      "tags": {
+        "name": "Shifty Cycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4875092270,
+      "lat": 37.4160153,
+      "lon": -122.1021544,
+      "tags": {
+        "name": "Mike's Bikes",
+        "opening_hours": "Mo-Fr 10:00-20:00;Sa-Su 10:00-18:00",
+        "phone": "+1 650 8587700",
+        "shop": "bicycle",
+        "website": "https://www.mikesbikes.com/contact/mikes-bikes-of-palo-alto-pg50.htm"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5125483290,
+      "lat": 37.3527057,
+      "lon": -121.9898401,
+      "tags": {
+        "name": "Zoom",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6003467096,
+      "lat": 37.323297,
+      "lon": -122.0289338,
+      "tags": {
+        "name": "Trail Head Cyclery",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7034429446,
+      "lat": 37.4304319,
+      "lon": -122.1027276,
+      "tags": {
+        "addr:city": "Palo Alto",
+        "addr:housenumber": "3961",
+        "addr:postcode": "94303",
+        "addr:state": "CA",
+        "addr:street": "East Bayshore Road",
+        "alt_name": "BikeX;SVBE",
+        "check_date": "2023-12-28",
+        "contact:facebook": "https://www.facebook.com/bikex.org",
+        "currency:USD": "yes",
+        "email": "info@bikex.org",
+        "name": "Bicycle Exchange - Silicon Valley",
+        "official_name": "Silicon Valley Bicycle Exchange",
+        "phone": "+1 650-691-5989",
+        "second_hand": "yes",
+        "service:bicycle:bicycle": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle",
+        "short_name": "Bicycle Exchange",
+        "website": "https://bikex.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7235943875,
+      "lat": 37.3373537,
+      "lon": -121.8876743,
+      "tags": {
+        "name": "Community Cycles of California",
+        "opening_hours": "Th, Fr 12:00-19:00; Sa, Su 11:00-17:00",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7616349853,
+      "lat": 37.3295294,
+      "lon": -121.900816,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:country": "US",
+        "addr:housenumber": "82",
+        "addr:postcode": "95110",
+        "addr:state": "CA",
+        "addr:street": "South Montgomery Street",
+        "check_date": "2025-01-18",
+        "contact:email": "goodkarma@goodkarmabikes.org",
+        "contact:facebook": "GoodKarmaBikes",
+        "contact:twitter": "goodkarmabikes",
+        "currency:USD": "yes",
+        "name": "Good Karma Bikes",
+        "note": "non-profit",
+        "opening_hours": "Mo off; Tu-Su 12:00-17:00",
+        "payment:credit_cards": "yes",
+        "phone": "+1-408-291-0501",
+        "second_hand": "yes",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "service:bicycle:tools": "yes",
+        "service:bicycle:training": "yes",
+        "shop": "bicycle",
+        "stroller": "yes",
+        "toilets": "no",
+        "website": "https://www.goodkarmabikes.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8558062832,
+      "lat": 37.2607699,
+      "lon": -121.9302989,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "14390",
+        "addr:postcode": "95124",
+        "addr:state": "CA",
+        "addr:street": "Union Avenue",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9157479935,
+      "lat": 37.3609919,
+      "lon": -121.836176,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "2646",
+        "addr:postcode": "95116",
+        "addr:state": "CA",
+        "addr:street": "Alum Rock Avenue",
+        "name": "Sun Bike Shop",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10585433698,
+      "lat": 36.9999265,
+      "lon": -121.5569073,
+      "tags": {
+        "addr:city": "Gilroy",
+        "addr:housenumber": "6920",
+        "addr:postcode": "95020",
+        "addr:state": "CA",
+        "addr:street": "Chestnut Street",
+        "addr:unit": "E-1",
+        "name": "Cycle Gear",
+        "shop": "bicycle",
+        "website": "https://www.cyclegear.com/stores/cycle-gear-gilroy-california-store-103"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10733385206,
+      "lat": 37.30226,
+      "lon": -121.865438,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "111",
+        "addr:postcode": "95125",
+        "addr:state": "CA",
+        "addr:street": "Curtner Avenue",
+        "addr:unit": "80",
+        "name": "Summit Bicycles San Jose",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11471924912,
+      "lat": 37.4269402,
+      "lon": -122.1479954,
+      "tags": {
+        "addr:housenumber": "2123",
+        "addr:street": "El Camino Real",
+        "check_date": "2023-12-30",
+        "name": "Electric Bike Center",
+        "shop": "bicycle",
+        "website": "https://www.electricbikeca.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12018365410,
+      "lat": 37.3205923,
+      "lon": -121.908058,
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "460",
+        "addr:postcode": "95126",
+        "addr:state": "CA",
+        "addr:street": "Lincoln Avenue",
+        "addr:unit": "25",
+        "name": "Good Karma Bikes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12018520980,
+      "lat": 37.0137111,
+      "lon": -121.576401,
+      "tags": {
+        "addr:city": "Gilroy",
+        "addr:housenumber": "311",
+        "addr:postcode": "95020",
+        "addr:state": "CA",
+        "addr:street": "1st Street",
+        "name": "Sunshine Bicycles",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13201517237,
+      "lat": 37.2905734,
+      "lon": -121.9407939,
+      "tags": {
+        "addr:city": "Campbell",
+        "addr:housenumber": "499",
+        "addr:postcode": "95008",
+        "addr:state": "CA",
+        "addr:street": "Salmar Avenue",
+        "addr:unit": "Unit D",
+        "name": "The Cruiser Shop",
+        "phone": "+1-408-497-0079",
+        "shop": "bicycle",
+        "website": "https://www.thecruisershopcampbell.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 28338269,
+      "nodes": [
+        311215973,
+        311215975,
+        311215976,
+        311215978,
+        311215973
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Cycle Gear",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 30911572,
+      "nodes": [
+        2400627324,
+        343637432,
+        2400627325,
+        2400627326,
+        2400627327,
+        343637426,
+        343637427,
+        2400627323,
+        2400627324
+      ],
+      "tags": {
+        "addr:housenumber": "116",
+        "addr:street": "Carroll Street",
+        "building": "retail",
+        "building:levels": "2",
+        "name": "Walt's Cycle",
+        "phone": "+1-408-736-2630",
+        "roof:shape": "flat",
+        "service:bicycle:pump": "yes",
+        "shop": "bicycle",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 40534438,
+      "nodes": [
+        491713397,
+        491713400,
+        491713401,
+        491713402,
+        491713397
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Bicycle Outfitter",
+        "opening_hours": "Tu-Sa 10:00-18:00; Su 11:00-17:00",
+        "shop": "bicycle",
+        "website": "https://www.bicycleoutfitter.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 132397139,
+      "nodes": [
+        1456479328,
+        409953960,
+        1456479300,
+        1456479304,
+        1456479328
+      ],
+      "tags": {
+        "addr:city": "Palo Alto",
+        "addr:housenumber": "732",
+        "addr:postcode": "94301",
+        "addr:state": "CA",
+        "addr:street": "Emerson Street",
+        "building": "yes",
+        "name": "VeloTechCycles",
+        "shop": "bicycle",
+        "source": "bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 132746408,
+      "nodes": [
+        1460376015,
+        1460376018,
+        1457692896,
+        1457692875,
+        11012798165,
+        1460376015
+      ],
+      "tags": {
+        "addr:city": "Palo Alto",
+        "addr:housenumber": "171",
+        "addr:postcode": "94301",
+        "addr:state": "CA",
+        "addr:street": "University Avenue",
+        "building": "yes",
+        "check_date": "2024-07-19",
+        "name": "Palo Alto Bicycles",
+        "opening_hours": "Tu-Sa 10:00-18:00; Su 11:00-17:00",
+        "phone": "+1 650 3287411",
+        "shop": "bicycle",
+        "source": "bing",
+        "website": "https://www.paloaltobicycles.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 158248753,
+      "nodes": [
+        1704859614,
+        1704859617,
+        1704859620,
+        1704859618,
+        1704859614
+      ],
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "1280",
+        "addr:postcode": "95126",
+        "addr:street": "The Alameda",
+        "building": "yes",
+        "ele": "36.35",
+        "height": "6.05",
+        "name": "Upshift Cycles",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.upshiftsj.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 225040394,
+      "nodes": [
+        2338675501,
+        2338675498,
+        2338675499,
+        2338675500,
+        2338675501
+      ],
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "1180",
+        "addr:postcode": "95125",
+        "addr:street": "Lincoln Avenue",
+        "building": "yes",
+        "ele": "44.65",
+        "height": "6.04",
+        "name": "Mike's Bikes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 229811954,
+      "nodes": [
+        2383547773,
+        2383547774,
+        2383547777,
+        2383547775,
+        2383547771,
+        2383547770,
+        2383547773
+      ],
+      "tags": {
+        "addr:city": "Palo Alto",
+        "addr:country": "US",
+        "addr:housenumber": "2011",
+        "addr:postcode": "94306",
+        "addr:street": "El Camino Real",
+        "building": "yes",
+        "check_date": "2023-12-30",
+        "name": "The Bike Connection",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232276145,
+      "nodes": [
+        2406395373,
+        2406395446,
+        2406395472,
+        2406395420,
+        2406395373
+      ],
+      "tags": {
+        "addr:city": "Palo Alto",
+        "addr:housenumber": "392",
+        "addr:street": "South California Avenue",
+        "building": "yes",
+        "check_date": "2025-11-14",
+        "name": "Summit Bicycles",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa-Su 10:00-17:00",
+        "paloalto_ca:id": "27629",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 232276159,
+      "nodes": [
+        2406396615,
+        2406396565,
+        2406396532,
+        2406396538,
+        2406396480,
+        2406396476,
+        2406396436,
+        2406396438,
+        2406396414,
+        2406396467,
+        2406396519,
+        2406396514,
+        2406396601,
+        2406396577,
+        2406396615
+      ],
+      "tags": {
+        "addr:city": "Palo Alto",
+        "addr:housenumber": "1955",
+        "addr:street": "El Camino Real",
+        "building": "yes",
+        "check_date": "2023-12-30",
+        "name": "Cardinal Bike Shop",
+        "paloalto_ca:id": "7752",
+        "shop": "bicycle",
+        "source": "City of Palo Alto CA 0713"
+      }
+    },
+    {
+      "type": "way",
+      "id": 785738607,
+      "nodes": [
+        7344883028,
+        7344883030,
+        7344883023,
+        7344883038,
+        7344883031,
+        7344883034,
+        7344883026,
+        7344883040,
+        7344883035,
+        7344883037,
+        7344883032,
+        7344883025,
+        7344883039,
+        7344883029,
+        7344883028
+      ],
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "2274",
+        "addr:postcode": "95116",
+        "addr:street": "Alum Rock Avenue",
+        "building": "yes",
+        "ele": "35.33",
+        "height": "4.58",
+        "name": "Fast Bicycle",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1009727630,
+      "nodes": [
+        9316491399,
+        9316491403,
+        6720137486,
+        9316491395,
+        9316491401,
+        9316491396,
+        9316491397,
+        9316491400,
+        9316491399
+      ],
+      "tags": {
+        "addr:city": "San Jose",
+        "addr:housenumber": "35",
+        "addr:postcode": "95126",
+        "addr:street": "Wilson Avenue",
+        "building": "yes",
+        "ele": "33.35",
+        "height": "2.79",
+        "name": "Community Cycles of California",
+        "note": "nonprofit",
+        "opening_hours": "Th-Fr 12:00-19:00, Sa-Su 11:00-16:00",
+        "phone": "+1 408 657 9092",
+        "shop": "bicycle",
+        "website": "https://www.communitycyclesca.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1044084297,
+      "nodes": [
+        9607662432,
+        9607662433,
+        4774573971,
+        4774574016,
+        9607662432
+      ],
+      "tags": {
+        "addr:city": "Santa Clara",
+        "addr:housenumber": "2332",
+        "addr:postcode": "95050",
+        "addr:state": "CA",
+        "addr:street": "El Camino Real",
+        "building": "retail",
+        "building:levels": "1",
+        "name": "ELV Motors",
+        "phone": "+1-888-612-9883",
+        "service:bicycle:ebike": "yes",
+        "shop": "bicycle",
+        "website": "https://www.elvmotors.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2338675498,
+      "lat": 37.3072486,
+      "lon": -121.9000273
+    },
+    {
+      "type": "node",
+      "id": 2338675499,
+      "lat": 37.3074146,
+      "lon": -121.899661
+    },
+    {
+      "type": "node",
+      "id": 2338675500,
+      "lat": 37.3073094,
+      "lon": -121.8995857
+    },
+    {
+      "type": "node",
+      "id": 2338675501,
+      "lat": 37.3071434,
+      "lon": -121.8999519
+    },
+    {
+      "type": "node",
+      "id": 1704859614,
+      "lat": 37.3320547,
+      "lon": -121.912332
+    },
+    {
+      "type": "node",
+      "id": 1704859617,
+      "lat": 37.3321405,
+      "lon": -121.9124356
+    },
+    {
+      "type": "node",
+      "id": 1704859618,
+      "lat": 37.3322445,
+      "lon": -121.9120857
+    },
+    {
+      "type": "node",
+      "id": 1704859620,
+      "lat": 37.3323226,
+      "lon": -121.9121804
+    },
+    {
+      "type": "node",
+      "id": 6720137486,
+      "lat": 37.3313361,
+      "lon": -121.9057086
+    },
+    {
+      "type": "node",
+      "id": 9316491395,
+      "lat": 37.3312189,
+      "lon": -121.9057016
+    },
+    {
+      "type": "node",
+      "id": 9316491396,
+      "lat": 37.3312176,
+      "lon": -121.9059115
+    },
+    {
+      "type": "node",
+      "id": 9316491397,
+      "lat": 37.3312106,
+      "lon": -121.9060985
+    },
+    {
+      "type": "node",
+      "id": 9316491399,
+      "lat": 37.3313315,
+      "lon": -121.9059164
+    },
+    {
+      "type": "node",
+      "id": 9316491400,
+      "lat": 37.3313244,
+      "lon": -121.9061053
+    },
+    {
+      "type": "node",
+      "id": 9316491401,
+      "lat": 37.331211,
+      "lon": -121.9059111
+    },
+    {
+      "type": "node",
+      "id": 9316491403,
+      "lat": 37.3313283,
+      "lon": -121.9059162
+    },
+    {
+      "type": "node",
+      "id": 311215973,
+      "lat": 37.0000114,
+      "lon": -121.5570168
+    },
+    {
+      "type": "node",
+      "id": 311215975,
+      "lat": 37.0000116,
+      "lon": -121.5568083
+    },
+    {
+      "type": "node",
+      "id": 311215976,
+      "lat": 36.9997897,
+      "lon": -121.556808
+    },
+    {
+      "type": "node",
+      "id": 311215978,
+      "lat": 36.9997895,
+      "lon": -121.5570165
+    },
+    {
+      "type": "node",
+      "id": 409953960,
+      "lat": 37.4426653,
+      "lon": -122.1597532
+    },
+    {
+      "type": "node",
+      "id": 1456479300,
+      "lat": 37.4425107,
+      "lon": -122.1599094
+    },
+    {
+      "type": "node",
+      "id": 1456479304,
+      "lat": 37.4425371,
+      "lon": -122.1599508
+    },
+    {
+      "type": "node",
+      "id": 1456479328,
+      "lat": 37.442693,
+      "lon": -122.1597983
+    },
+    {
+      "type": "node",
+      "id": 1457692875,
+      "lat": 37.4445897,
+      "lon": -122.163095
+    },
+    {
+      "type": "node",
+      "id": 1457692896,
+      "lat": 37.4447531,
+      "lon": -122.1633456
+    },
+    {
+      "type": "node",
+      "id": 1460376015,
+      "lat": 37.4444942,
+      "lon": -122.1631714
+    },
+    {
+      "type": "node",
+      "id": 1460376018,
+      "lat": 37.4446654,
+      "lon": -122.1634367
+    },
+    {
+      "type": "node",
+      "id": 11012798165,
+      "lat": 37.4445812,
+      "lon": -122.163082
+    },
+    {
+      "type": "node",
+      "id": 491713397,
+      "lat": 37.3532602,
+      "lon": -122.0878368
+    },
+    {
+      "type": "node",
+      "id": 491713400,
+      "lat": 37.3534108,
+      "lon": -122.0876597
+    },
+    {
+      "type": "node",
+      "id": 491713401,
+      "lat": 37.3535745,
+      "lon": -122.0878914
+    },
+    {
+      "type": "node",
+      "id": 491713402,
+      "lat": 37.3534388,
+      "lon": -122.0880694
+    },
+    {
+      "type": "node",
+      "id": 2383547770,
+      "lat": 37.4278872,
+      "lon": -122.1488004
+    },
+    {
+      "type": "node",
+      "id": 2383547771,
+      "lat": 37.427731,
+      "lon": -122.1489197
+    },
+    {
+      "type": "node",
+      "id": 2383547773,
+      "lat": 37.4279586,
+      "lon": -122.1487441
+    },
+    {
+      "type": "node",
+      "id": 2383547774,
+      "lat": 37.4278803,
+      "lon": -122.148596
+    },
+    {
+      "type": "node",
+      "id": 2383547775,
+      "lat": 37.4276394,
+      "lon": -122.1488039
+    },
+    {
+      "type": "node",
+      "id": 2383547777,
+      "lat": 37.4278071,
+      "lon": -122.1486554
+    },
+    {
+      "type": "node",
+      "id": 2406396414,
+      "lat": 37.4282017,
+      "lon": -122.1494113
+    },
+    {
+      "type": "node",
+      "id": 2406396436,
+      "lat": 37.4282086,
+      "lon": -122.1493975
+    },
+    {
+      "type": "node",
+      "id": 2406396438,
+      "lat": 37.4282116,
+      "lon": -122.1494033
+    },
+    {
+      "type": "node",
+      "id": 2406396467,
+      "lat": 37.4282534,
+      "lon": -122.1495125
+    },
+    {
+      "type": "node",
+      "id": 2406396476,
+      "lat": 37.4282643,
+      "lon": -122.1493524
+    },
+    {
+      "type": "node",
+      "id": 2406396480,
+      "lat": 37.4282698,
+      "lon": -122.1493632
+    },
+    {
+      "type": "node",
+      "id": 2406396514,
+      "lat": 37.4283126,
+      "lon": -122.1494534
+    },
+    {
+      "type": "node",
+      "id": 2406396519,
+      "lat": 37.4283166,
+      "lon": -122.1494614
+    },
+    {
+      "type": "node",
+      "id": 2406396532,
+      "lat": 37.4283398,
+      "lon": -122.1492964
+    },
+    {
+      "type": "node",
+      "id": 2406396538,
+      "lat": 37.4283434,
+      "lon": -122.1493035
+    },
+    {
+      "type": "node",
+      "id": 2406396565,
+      "lat": 37.4283686,
+      "lon": -122.1492731
+    },
+    {
+      "type": "node",
+      "id": 2406396577,
+      "lat": 37.4283746,
+      "lon": -122.1493593
+    },
+    {
+      "type": "node",
+      "id": 2406396601,
+      "lat": 37.4283905,
+      "lon": -122.1493904
+    },
+    {
+      "type": "node",
+      "id": 2406396615,
+      "lat": 37.4284015,
+      "lon": -122.1493375
+    },
+    {
+      "type": "node",
+      "id": 2406395373,
+      "lat": 37.42663,
+      "lon": -122.1447932
+    },
+    {
+      "type": "node",
+      "id": 2406395420,
+      "lat": 37.4267242,
+      "lon": -122.1447144
+    },
+    {
+      "type": "node",
+      "id": 2406395446,
+      "lat": 37.4267794,
+      "lon": -122.1450765
+    },
+    {
+      "type": "node",
+      "id": 2406395472,
+      "lat": 37.4268736,
+      "lon": -122.1449977
+    },
+    {
+      "type": "node",
+      "id": 343637426,
+      "lat": 37.3767968,
+      "lon": -122.0276551
+    },
+    {
+      "type": "node",
+      "id": 343637427,
+      "lat": 37.3767227,
+      "lon": -122.0274322
+    },
+    {
+      "type": "node",
+      "id": 343637432,
+      "lat": 37.3767615,
+      "lon": -122.0277812
+    },
+    {
+      "type": "node",
+      "id": 2400627323,
+      "lat": 37.3765656,
+      "lon": -122.027484
+    },
+    {
+      "type": "node",
+      "id": 2400627324,
+      "lat": 37.3766384,
+      "lon": -122.0278212
+    },
+    {
+      "type": "node",
+      "id": 2400627325,
+      "lat": 37.3767805,
+      "lon": -122.0277557
+    },
+    {
+      "type": "node",
+      "id": 2400627326,
+      "lat": 37.3767913,
+      "lon": -122.0277284
+    },
+    {
+      "type": "node",
+      "id": 2400627327,
+      "lat": 37.3767988,
+      "lon": -122.0276933
+    },
+    {
+      "type": "node",
+      "id": 4774573971,
+      "lat": 37.3521527,
+      "lon": -121.9657853
+    },
+    {
+      "type": "node",
+      "id": 4774574016,
+      "lat": 37.35195,
+      "lon": -121.9657842
+    },
+    {
+      "type": "node",
+      "id": 9607662432,
+      "lat": 37.351949,
+      "lon": -121.9659181
+    },
+    {
+      "type": "node",
+      "id": 9607662433,
+      "lat": 37.352153,
+      "lon": -121.9659168
+    },
+    {
+      "type": "node",
+      "id": 7344883023,
+      "lat": 37.3579836,
+      "lon": -121.8440663
+    },
+    {
+      "type": "node",
+      "id": 7344883025,
+      "lat": 37.3580351,
+      "lon": -121.8439594
+    },
+    {
+      "type": "node",
+      "id": 7344883026,
+      "lat": 37.3580162,
+      "lon": -121.8440238
+    },
+    {
+      "type": "node",
+      "id": 7344883028,
+      "lat": 37.3578623,
+      "lon": -121.8439835
+    },
+    {
+      "type": "node",
+      "id": 7344883029,
+      "lat": 37.357918,
+      "lon": -121.8438658
+    },
+    {
+      "type": "node",
+      "id": 7344883030,
+      "lat": 37.357981,
+      "lon": -121.8440717
+    },
+    {
+      "type": "node",
+      "id": 7344883031,
+      "lat": 37.3580044,
+      "lon": -121.8440362
+    },
+    {
+      "type": "node",
+      "id": 7344883032,
+      "lat": 37.3580393,
+      "lon": -121.8439626
+    },
+    {
+      "type": "node",
+      "id": 7344883034,
+      "lat": 37.3580109,
+      "lon": -121.8440309
+    },
+    {
+      "type": "node",
+      "id": 7344883035,
+      "lat": 37.3580222,
+      "lon": -121.8440059
+    },
+    {
+      "type": "node",
+      "id": 7344883037,
+      "lat": 37.3580226,
+      "lon": -121.8439962
+    },
+    {
+      "type": "node",
+      "id": 7344883038,
+      "lat": 37.3579885,
+      "lon": -121.84407
+    },
+    {
+      "type": "node",
+      "id": 7344883039,
+      "lat": 37.3580379,
+      "lon": -121.8439538
+    },
+    {
+      "type": "node",
+      "id": 7344883040,
+      "lat": 37.3580201,
+      "lon": -121.8440153
+    }
+  ]
+}

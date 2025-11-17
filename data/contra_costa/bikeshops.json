@@ -1,0 +1,317 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 316829653,
+      "lat": 37.9081886,
+      "lon": -122.0634311,
+      "tags": {
+        "created_by": "Potlatch 0.10f",
+        "name": "Rivendell Bicycle Works",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 957796467,
+      "lat": 37.9030207,
+      "lon": -122.278376,
+      "tags": {
+        "name": "Arlington Auto Shop & Bike Repair",
+        "shop": "bicycle",
+        "website": "https://www.kensingtonservicestation.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1727225695,
+      "lat": 37.9015195,
+      "lon": -122.0647464,
+      "tags": {
+        "addr:city": "Walnut Creek",
+        "addr:country": "US",
+        "addr:housenumber": "1615",
+        "addr:state": "CA",
+        "addr:street": "North California Boulevard",
+        "name": "Mike's Bikes of Walnut Creek",
+        "phone": "+1 925 954 1490",
+        "shop": "bicycle",
+        "website": "https://mikesbikes.com/pages/walnut-creek"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2131722716,
+      "lat": 37.9254155,
+      "lon": -122.0163993,
+      "tags": {
+        "addr:housenumber": "2901",
+        "addr:postcode": "94598",
+        "addr:street": "Ygnacio Valley Road",
+        "name": "Encina Bicycles",
+        "shop": "bicycle",
+        "website": "http://www.encincabicyclecenters.com",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3569488993,
+      "lat": 37.9007032,
+      "lon": -122.0615962,
+      "tags": {
+        "name": "Rivendell Bike Book & Hatchet",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4811884521,
+      "lat": 37.8513546,
+      "lon": -122.0360819,
+      "tags": {
+        "addr:city": "Alamo",
+        "addr:housenumber": "180 C",
+        "addr:postcode": "94507",
+        "addr:state": "CA",
+        "addr:street": "Alamo Plaza",
+        "alt_name": "Trek Bicycle Store",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "opening_hours": "Mo-Sa 09:30-06:00, Su 10:00-05:00",
+        "operator": "Trek",
+        "phone": "+1-212-581-4500",
+        "shop": "bicycle",
+        "website": "https://www.trekbikes.com/us/en_US/livermore_cyclery/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5777592953,
+      "lat": 38.016599,
+      "lon": -122.1370881,
+      "tags": {
+        "addr:city": "Martinez",
+        "addr:housenumber": "721",
+        "addr:postcode": "94553",
+        "addr:state": "CA",
+        "addr:street": "Castro Street",
+        "contact:facebook": "https://www.facebook.com/pegasusbicycleworks",
+        "contact:yelp": "pegasus-bicycle-works-martinez",
+        "email": "info@pegasusbicycleworks.com",
+        "name": "Pegasus Bicycle Works",
+        "phone": "+1-925-362-2220",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "http://www.pegasusbicycleworks.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6429723808,
+      "lat": 37.8202311,
+      "lon": -121.9988093,
+      "tags": {
+        "addr:city": "Danville",
+        "addr:housenumber": "294",
+        "addr:postcode": "94526",
+        "addr:state": "CA",
+        "addr:street": "Railroad Avenue",
+        "addr:unit": "A",
+        "name": "Pedego Electric Bike Rentals",
+        "opening_hours": "We-Fr 10:00-17:00; Sa-Su 09:30-17:00",
+        "phone": "+1 925 718-5111",
+        "shop": "bicycle",
+        "website": "https://www.pedegoelectricbikes.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7821399728,
+      "lat": 37.9487434,
+      "lon": -122.0807618,
+      "tags": {
+        "name": "Big Dave's Bikes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9960384078,
+      "lat": 37.8235902,
+      "lon": -122.0022365,
+      "tags": {
+        "name": "Danville Bike",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9960428030,
+      "lat": 37.8205678,
+      "lon": -121.9984726,
+      "tags": {
+        "alt_name": "Trek Bicycle Store",
+        "branch": "Danville",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13053603799,
+      "lat": 37.9803014,
+      "lon": -122.0267252,
+      "tags": {
+        "addr:city": "Concord",
+        "addr:housenumber": "2730",
+        "addr:postcode": "94519",
+        "addr:state": "CA",
+        "addr:street": "Salvio Street",
+        "contact:facebook": "https://www.facebook.com/groups/219754671554566/user/100067689065465",
+        "email": "Info@BikeConcord.org",
+        "name": "Concord Community Bike Kitchen",
+        "opening_hours": "Thurs 11:00-16:00 + 3RD Sundays 11:00 - 14:45",
+        "operator": "Smitty",
+        "payment:cash": "yes",
+        "second_hand": "only",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:ebike": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:second_hand": "yes",
+        "service:bicycle:service": "yes",
+        "shop": "bicycle",
+        "website": "https://bikeconcord.org"
+      }
+    },
+    {
+      "type": "way",
+      "id": 481786514,
+      "nodes": [
+        3197215634,
+        4746853110,
+        4746851600,
+        4746853592,
+        4746854376,
+        3197215634
+      ],
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:country": "US",
+        "addr:housenumber": "1500",
+        "addr:postcode": "94804",
+        "addr:state": "CA",
+        "addr:street": "Macdonald Avenue",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/rich.cityrides/",
+        "contact:instagram": "https://www.instagram.com/richcityrides/",
+        "contact:linkedin": "https://www.linkedin.com/company/rich-city-rides/about/",
+        "contact:twitter": "https://twitter.com/rich_rides",
+        "email": "info@richcityrides.org",
+        "name": "Rich City Rides",
+        "opening_hours": "Mo-Fr 13:00-17:00",
+        "operator": "Rich City Rides",
+        "phone": "+1 510 288 0944",
+        "service:bicycle:clothing": "yes",
+        "service:bicycle:diy": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "service:bicycle:service": "yes",
+        "service:bicycle:spare_parts": "yes",
+        "shop": "bicycle",
+        "website": "https://www.richcityrides.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 991117347,
+      "nodes": [
+        9157458507,
+        9157458508,
+        9157458509,
+        9157458510,
+        9157458507
+      ],
+      "tags": {
+        "addr:city": "Walnut Creek",
+        "addr:housenumber": "181",
+        "addr:postcode": "94597",
+        "addr:state": "CA",
+        "addr:street": "Mayhew Way",
+        "addr:unit": "D",
+        "building": "yes",
+        "name": "Frame Up Bikes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4746851600,
+      "lat": 37.9352971,
+      "lon": -122.3551442
+    },
+    {
+      "type": "node",
+      "id": 4746853110,
+      "lat": 37.935297,
+      "lon": -122.354972
+    },
+    {
+      "type": "node",
+      "id": 3197215634,
+      "lat": 37.9356078,
+      "lon": -122.3549719
+    },
+    {
+      "type": "node",
+      "id": 4746853592,
+      "lat": 37.9355848,
+      "lon": -122.3551441
+    },
+    {
+      "type": "node",
+      "id": 4746854376,
+      "lat": 37.9356079,
+      "lon": -122.3551154
+    },
+    {
+      "type": "node",
+      "id": 9157458507,
+      "lat": 37.9373922,
+      "lon": -122.0538777
+    },
+    {
+      "type": "node",
+      "id": 9157458508,
+      "lat": 37.9373531,
+      "lon": -122.053522
+    },
+    {
+      "type": "node",
+      "id": 9157458509,
+      "lat": 37.9371443,
+      "lon": -122.0535539
+    },
+    {
+      "type": "node",
+      "id": 9157458510,
+      "lat": 37.9371856,
+      "lon": -122.0539106
+    }
+  ]
+}

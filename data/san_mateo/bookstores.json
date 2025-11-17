@@ -1,0 +1,541 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 297833193,
+      "lat": 37.5362531,
+      "lon": -122.297237,
+      "tags": {
+        "addr:housenumber": "11",
+        "addr:postcode": "94002",
+        "addr:street": "West Hillsdale Boulevard",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books",
+        "website": "www.bn.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 394942776,
+      "lat": 37.4840683,
+      "lon": -122.2317426,
+      "tags": {
+        "addr:city": "Redwood City",
+        "addr:housenumber": "1091",
+        "addr:postcode": "94063",
+        "addr:street": "El Camino Real",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "phone": "+1-650-299-0117",
+        "shop": "books",
+        "website": "https://www.barnesandnoble.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 983587684,
+      "lat": 37.6358235,
+      "lon": -122.418948,
+      "tags": {
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1684183287,
+      "lat": 37.4787863,
+      "lon": -122.2253947,
+      "tags": {
+        "addr:city": "Redwood City",
+        "addr:housenumber": "1712",
+        "addr:postcode": "94063",
+        "addr:street": "El Camino Real",
+        "name": "Christian Books",
+        "redwood_city_ca:addr_id": "15776",
+        "shop": "books",
+        "source": "City of Redwood City, CA 1013"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2156311691,
+      "lat": 37.4640363,
+      "lon": -122.4293495,
+      "tags": {
+        "name": "Coastside Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2453946392,
+      "lat": 37.5654971,
+      "lon": -122.3221734,
+      "tags": {
+        "addr:city": "San Mateo",
+        "addr:housenumber": "301",
+        "addr:postcode": "94401",
+        "addr:state": "CA",
+        "addr:street": "South B. Street",
+        "email": "bstreetbooks@gmail.com",
+        "name": "B Street Books",
+        "opening_hours": "Mo-Th 11:00-18:00; Fr-Sa 11:00-20:00; Su 11:00-18:00",
+        "phone": "+1 650-343-2800",
+        "shop": "books",
+        "website": "https://www.bstreetbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2629297044,
+      "lat": 37.453572,
+      "lon": -122.1822194,
+      "tags": {
+        "addr:city": "Menlo Park",
+        "addr:housenumber": "1010",
+        "addr:postcode": "94025",
+        "addr:street": "El Camino Real",
+        "contact:facebook": "https://www.facebook.com/keplersbooks",
+        "contact:instagram": "https://www.instagram.com/keplersbooks/",
+        "contact:twitter": "https://twitter.com/keplers",
+        "name": "Kepler's Books",
+        "opening_hours": "Mo-Sa 09:00-22:00; Su 09:00-19:00",
+        "phone": "+1-650-324-4321",
+        "shop": "books",
+        "website": "https://www.keplers.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2648526018,
+      "lat": 37.472106,
+      "lon": -122.2042335,
+      "tags": {
+        "addr:housenumber": "3203",
+        "name": "Los Olivos",
+        "phone": "+1-650-839-1550",
+        "shop": "books",
+        "source": "photograph"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3381660957,
+      "lat": 37.6489279,
+      "lon": -122.4900665,
+      "tags": {
+        "addr:city": "Pacifica",
+        "addr:housenumber": "116",
+        "addr:postcode": "94044",
+        "addr:state": "CA",
+        "addr:street": "Manor Drive",
+        "name": "Coastside Comics",
+        "note": "(Suite D)",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5404849133,
+      "lat": 37.4874773,
+      "lon": -122.2353977,
+      "tags": {
+        "name": "Pauline Books & Media",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5603935260,
+      "lat": 37.6329012,
+      "lon": -122.492502,
+      "tags": {
+        "addr:city": "Pacifica",
+        "addr:housenumber": "2120",
+        "addr:postcode": "94044",
+        "addr:state": "CA",
+        "addr:street": "Palmetto Avenue",
+        "name": "Florey's Book Co.",
+        "phone": "+1-650-355-8811",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6819020622,
+      "lat": 37.5041915,
+      "lon": -122.2582126,
+      "tags": {
+        "addr:city": "San Carlos",
+        "addr:housenumber": "785",
+        "addr:postcode": "94070",
+        "addr:state": "CA",
+        "addr:street": "Laurel Street",
+        "changing_table": "yes",
+        "changing_table:count": "1",
+        "changing_table:location": "unisex_toilet",
+        "name": "The Reading Bug",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9482266632,
+      "lat": 37.451967,
+      "lon": -122.1837798,
+      "tags": {
+        "addr:city": "Menlo Park",
+        "addr:housenumber": "1075",
+        "addr:street": "Curtis Street",
+        "name": "Feldman's Books",
+        "opening_hours": "Sa-Th 12:00-17:00; Fr 12:00-20:00",
+        "phone": "+1-650-326-5300",
+        "second_hand": "yes",
+        "shop": "books",
+        "website": "https://www.feldmansbooks.net/home"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10233639349,
+      "lat": 37.4518068,
+      "lon": -122.1850617,
+      "tags": {
+        "addr:housenumber": "1127",
+        "addr:street": "Chestnut Street",
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "name": "Christian Science Reading Room",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11813205864,
+      "lat": 37.578784,
+      "lon": -122.3470232,
+      "tags": {
+        "addr:city": "Burlingame",
+        "addr:housenumber": "1232",
+        "addr:street": "Burlingame Avenue",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books",
+        "website": "https://stores.barnesandnoble.com/store/3450"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11880554549,
+      "lat": 37.4474163,
+      "lon": -122.2657266,
+      "tags": {
+        "books": "textbook",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12585415311,
+      "lat": 37.4861993,
+      "lon": -122.2317409,
+      "tags": {
+        "addr:housenumber": "2421",
+        "addr:street": "Broadway",
+        "check_date": "2025-02-13",
+        "level": "0",
+        "name": "Fireside Books & More",
+        "opening_hours": "Tu-Sa 10:00-20:00; Su 10:00-18:00",
+        "shop": "books",
+        "website": "https://firesiderwc.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12753578008,
+      "lat": 37.69991,
+      "lon": -122.4824741,
+      "tags": {
+        "addr:city": "Daly City",
+        "addr:housenumber": "441",
+        "addr:postcode": "94015",
+        "addr:state": "CA",
+        "addr:street": "Westlake Center",
+        "name": "Peninsula Books",
+        "phone": "+1-650-232-7700",
+        "shop": "books",
+        "website": "https://www.peninsulabooks.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13273168124,
+      "lat": 37.6024188,
+      "lon": -122.3969083,
+      "tags": {
+        "opening_hours": "Mo-Th 10:00-20:00; Fr-Su 10:00-17:00",
+        "operator": "Friends of the Millbrae Library",
+        "payment:cards": "no",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "second_hand": "only",
+        "shop": "books",
+        "website": "https://www.millbraelibraryfriends.org"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1167439469,
+      "nodes": [
+        10856735469,
+        10856735466,
+        5526421466,
+        10856735553,
+        10856735552,
+        10856735551,
+        10856735550,
+        10856735565,
+        10856735526,
+        10856735469
+      ],
+      "tags": {
+        "check_date": "2025-06-14",
+        "indoor": "room",
+        "level": "1",
+        "name": "Compass Books",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "shop": "books",
+        "website": "https://www.booksinc.net/compassSFO",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1295095262,
+      "nodes": [
+        661424272,
+        12001720475,
+        12459978970,
+        12459978966,
+        5172329028,
+        256280225,
+        1308540925,
+        661424272
+      ],
+      "tags": {
+        "addr:state": "CA",
+        "airside": "yes",
+        "check_date": "2024-06-20",
+        "indoor": "room",
+        "level": "1",
+        "name": "Compass Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1295095340,
+      "nodes": [
+        12001720890,
+        12001720889,
+        12001720888,
+        12001720944,
+        12001720890
+      ],
+      "tags": {
+        "indoor": "room",
+        "level": "1",
+        "name": "Green Apple Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1340856372,
+      "nodes": [
+        12403260942,
+        6493006057,
+        12403260935,
+        12403260934,
+        12403260938,
+        12403260942
+      ],
+      "tags": {
+        "books": "religion",
+        "brand": "Christian Science Reading Room",
+        "brand:wikidata": "Q5110122",
+        "indoor": "room",
+        "level": "1",
+        "name": "Christian Science Reading Room",
+        "opening_hours": "8:00-20:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12001720888,
+      "lat": 37.6141599,
+      "lon": -122.3849946
+    },
+    {
+      "type": "node",
+      "id": 12001720889,
+      "lat": 37.6142479,
+      "lon": -122.3850329
+    },
+    {
+      "type": "node",
+      "id": 12001720890,
+      "lat": 37.6141888,
+      "lon": -122.3852556
+    },
+    {
+      "type": "node",
+      "id": 12001720944,
+      "lat": 37.6141061,
+      "lon": -122.3852206
+    },
+    {
+      "type": "node",
+      "id": 256280225,
+      "lat": 37.6186905,
+      "lon": -122.3866065
+    },
+    {
+      "type": "node",
+      "id": 661424272,
+      "lat": 37.618644,
+      "lon": -122.3869185
+    },
+    {
+      "type": "node",
+      "id": 1308540925,
+      "lat": 37.6186765,
+      "lon": -122.3867283
+    },
+    {
+      "type": "node",
+      "id": 5172329028,
+      "lat": 37.618589,
+      "lon": -122.3865987
+    },
+    {
+      "type": "node",
+      "id": 5526421466,
+      "lat": 37.6169469,
+      "lon": -122.3825796
+    },
+    {
+      "type": "node",
+      "id": 6493006057,
+      "lat": 37.6157358,
+      "lon": -122.3842686
+    },
+    {
+      "type": "node",
+      "id": 10856735466,
+      "lat": 37.6169563,
+      "lon": -122.3825833
+    },
+    {
+      "type": "node",
+      "id": 10856735469,
+      "lat": 37.61715,
+      "lon": -122.3826585
+    },
+    {
+      "type": "node",
+      "id": 10856735526,
+      "lat": 37.6171175,
+      "lon": -122.3827921
+    },
+    {
+      "type": "node",
+      "id": 10856735550,
+      "lat": 37.617027,
+      "lon": -122.3827605
+    },
+    {
+      "type": "node",
+      "id": 10856735551,
+      "lat": 37.6169912,
+      "lon": -122.3827466
+    },
+    {
+      "type": "node",
+      "id": 10856735552,
+      "lat": 37.6169944,
+      "lon": -122.3827335
+    },
+    {
+      "type": "node",
+      "id": 10856735553,
+      "lat": 37.6169168,
+      "lon": -122.3827034
+    },
+    {
+      "type": "node",
+      "id": 10856735565,
+      "lat": 37.6170278,
+      "lon": -122.3827572
+    },
+    {
+      "type": "node",
+      "id": 12001720475,
+      "lat": 37.6185231,
+      "lon": -122.3868739
+    },
+    {
+      "type": "node",
+      "id": 12403260934,
+      "lat": 37.6156543,
+      "lon": -122.3842417
+    },
+    {
+      "type": "node",
+      "id": 12403260935,
+      "lat": 37.615709,
+      "lon": -122.384205
+    },
+    {
+      "type": "node",
+      "id": 12403260938,
+      "lat": 37.6156623,
+      "lon": -122.3842608
+    },
+    {
+      "type": "node",
+      "id": 12403260942,
+      "lat": 37.615681,
+      "lon": -122.3843053
+    },
+    {
+      "type": "node",
+      "id": 12459978966,
+      "lat": 37.618567,
+      "lon": -122.3866348
+    },
+    {
+      "type": "node",
+      "id": 12459978970,
+      "lat": 37.6185757,
+      "lon": -122.3867311
+    }
+  ]
+}

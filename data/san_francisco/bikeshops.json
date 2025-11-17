@@ -1,0 +1,1044 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 295086235,
+      "lat": 37.7681502,
+      "lon": -122.424088,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "494",
+        "addr:postcode": "94103",
+        "addr:state": "CA",
+        "addr:street": "14th Street",
+        "check_date": "2023-01-14",
+        "name": "Box Dog",
+        "opening_hours": "Tu-Fr 10:00-18:00,Sa 11:00-17:00",
+        "phone": "+1-415- 431-9627",
+        "shop": "bicycle",
+        "website": "https://www.boxdogbikes.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 387250476,
+      "lat": 37.796607,
+      "lon": -122.4233582,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "2260",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Van Ness Avenue",
+        "name": "Big Swingin' Cycles",
+        "phone": "415-441-6294",
+        "rental": "yes",
+        "service:bicycle:rental": "yes",
+        "shop": "bicycle",
+        "website": "https://www.bigswingincyclestours.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 388206447,
+      "lat": 37.8060401,
+      "lon": -122.4206145,
+      "tags": {
+        "check_date": "2023-10-10",
+        "name": "Blazing Saddles",
+        "name:ca": "bicicleta",
+        "service:bicycle:rental": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 409486378,
+      "lat": 37.77536,
+      "lon": -122.5024636,
+      "tags": {
+        "addr:housenumber": "4049",
+        "addr:street": "Balboa Street",
+        "name": "DD Cycles",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:second_hand": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 414269441,
+      "lat": 37.7557673,
+      "lon": -122.4208616,
+      "tags": {
+        "addr:housenumber": "1077",
+        "addr:postcode": "94110",
+        "addr:street": "Valencia Street",
+        "check_date": "2025-02-11",
+        "contact:facebook": "valenciacyclery",
+        "contact:instagram": "valenciacyclery",
+        "name": "Valencia Cyclery",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
+        "phone": "+1-415-550-6600",
+        "shop": "bicycle",
+        "website": "https://www.valenciacyclery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 414269472,
+      "lat": 37.7757293,
+      "lon": -122.411959,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1233",
+        "addr:postcode": "94103",
+        "addr:state": "CA",
+        "addr:street": "Howard Street",
+        "check_date": "2024-04-14",
+        "contact:website": "http://mikesbikes.com",
+        "name": "Mike’s Bikes",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 10:00-17:00",
+        "shop": "bicycle",
+        "source": "survey",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 414269873,
+      "lat": 37.767985,
+      "lon": -122.4531542,
+      "tags": {
+        "addr:housenumber": "756",
+        "addr:street": "Stanyan Street",
+        "check_date": "2025-06-25",
+        "level": "0",
+        "name": "Avenue Cyclery",
+        "opening_hours": "Mo-Tu off; We-Su 11:00-17:00",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 414269956,
+      "lat": 37.7664614,
+      "lon": -122.4532324,
+      "tags": {
+        "addr:housenumber": "510",
+        "addr:street": "Frederick Street",
+        "check_date": "2025-07-20",
+        "check_date:opening_hours": "2024-12-19",
+        "check_date:service:bicycle:pump": "2024-12-19",
+        "level": "0",
+        "name": "American Cyclery",
+        "opening_hours": "Mo,We-Fr 11:00-18:00; Sa,Su 10:00-17:00",
+        "service:bicycle:pump": "yes",
+        "shop": "bicycle",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 414270268,
+      "lat": 37.7737914,
+      "lon": -122.4481572,
+      "tags": {
+        "addr:housenumber": "1920",
+        "addr:street": "Hayes Street",
+        "check_date": "2025-04-12",
+        "level": "0",
+        "name": "Freewheel Bike Shop",
+        "opening_hours": "Mo,Su off; Tu-Sa 12:00-17:00",
+        "service:bicycle:accessories": "yes",
+        "service:bicycle:bicycle_sales_and_service": "yes",
+        "service:bicycle:clothing": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:pump": "no",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:service": "yes",
+        "service:bicycle:spare_parts": "yes",
+        "service:bicycle:wheel": "yes",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1277684421,
+      "lat": 37.7969906,
+      "lon": -122.4373328,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3001",
+        "addr:postcode": "94123",
+        "addr:state": "CA",
+        "addr:street": "Steiner Street",
+        "alt_name": "Trek Bicycle Store",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "name": "Trek",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-17:00",
+        "service:bicycle:Bicycle_Sales_and_Service": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "source": "survey;POI website",
+        "website": "https://www.trekbikes.com/retail/san_francisco_cow_hollow/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2148515392,
+      "lat": 37.7390341,
+      "lon": -122.4172366,
+      "tags": {
+        "addr:housenumber": "420",
+        "addr:postcode": "94110",
+        "addr:street": "Cortland Avenue",
+        "brand": "Benno;Gazelle;Riese & Müller;Stromer;Tern",
+        "name": "The New Wheel",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "phone": "415-524-7362",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://newwheel.net",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2588127357,
+      "lat": 37.7937221,
+      "lon": -122.4214909,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1825",
+        "addr:postcode": "94109",
+        "addr:street": "Polk Street",
+        "name": "High Trails Cyclery",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su 11:00-18:00",
+        "shop": "bicycle",
+        "website": "http://www.hightrailssf.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2616534089,
+      "lat": 37.7813306,
+      "lon": -122.411801,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1098A",
+        "addr:postcode": "94102",
+        "addr:street": "Market Street",
+        "name": "Warm Planet Bikes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3067881433,
+      "lat": 37.802572,
+      "lon": -122.4137552,
+      "tags": {
+        "name": "Bike and Roll",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3079493761,
+      "lat": 37.7519946,
+      "lon": -122.4071224,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1259",
+        "addr:postcode": "94110",
+        "addr:street": "Hampshire Street",
+        "name": "Pedal Inn Bike Tours and Provisions",
+        "phone": "415-890-6910",
+        "service:bicycle:rental": "yes",
+        "shop": "bicycle",
+        "website": "www.pedalinn.com",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3309257523,
+      "lat": 37.7609877,
+      "lon": -122.4116329,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "650H",
+        "addr:postcode": "94110",
+        "addr:state": "CA",
+        "addr:street": "Florida Street",
+        "amenity": "bicycle_repair_station",
+        "name": "Bike Kitchen",
+        "opening_hours": "6pm-9pm Tuesday, Wednesday, Thursday; noon-3pm Saturday; Womens/Trans/Fem night: 6pm-9pm 2nd and 4th Mondays",
+        "shop": "bicycle",
+        "website": "https://bikekitchen.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3393351143,
+      "lat": 37.7894236,
+      "lon": -122.4079456,
+      "tags": {
+        "check_date": "2024-03-23",
+        "name": "Golden Gate Rides",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3801395652,
+      "lat": 37.7695259,
+      "lon": -122.4517055,
+      "tags": {
+        "addr:housenumber": "1792",
+        "addr:street": "Haight Street",
+        "check_date": "2025-10-11",
+        "level": "0",
+        "name": "Unlimited Biking",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4015100320,
+      "lat": 37.7626623,
+      "lon": -122.5008937,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "4002",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "check_date": "2023-07-25",
+        "level": "0",
+        "name": "Swell Bicycles",
+        "opening_hours": "Mo-Tu,Th-Fr 10:00-20:00; Sa-Su 10:00-18:00",
+        "phone": "+1 415-731-3838",
+        "shop": "bicycle",
+        "website": "https://swellbicycles.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4018792701,
+      "lat": 37.7630714,
+      "lon": -122.4855659,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2555",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "check_date": "2025-02-09",
+        "level": "0",
+        "name": "Barbary Coast Cyclery",
+        "opening_hours": "Mo-Sa 11:00-18:00; Su off",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4033949440,
+      "lat": 37.8089675,
+      "lon": -122.411855,
+      "tags": {
+        "check_date": "2023-12-16",
+        "name": "Blazing Saddles",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4033954298,
+      "lat": 37.8075441,
+      "lon": -122.4201258,
+      "tags": {
+        "check_date": "2023-12-16",
+        "name": "Blazing Saddles",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4101104052,
+      "lat": 37.7755131,
+      "lon": -122.499245,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3785",
+        "addr:postcode": "94121",
+        "addr:state": "CA",
+        "addr:street": "Balboa Street",
+        "appointment": "required",
+        "check_date": "2023-07-29",
+        "level": "0",
+        "name": "Clubhouse Velo",
+        "note": "Shop custom fits bike for clients.",
+        "opening_hours": "Mo,We,Su off; Tu,Th 09:00-18:30; Fr 09:00-17:00; Sa 10:00-17:00",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-415-294-1907",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle",
+        "walk-in": "no",
+        "website": "https://www.clubhousevelo.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4113435900,
+      "lat": 37.7440817,
+      "lon": -122.4222339,
+      "tags": {
+        "addr:housenumber": "82",
+        "addr:street": "29th Street",
+        "name": "Heavy Metal Bike Shop",
+        "opening_hours": "10:00-19:00",
+        "phone": "+1-415-643-3929",
+        "shop": "bicycle",
+        "website": "https://www.heavymetalbikeshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4307083195,
+      "lat": 37.8076253,
+      "lon": -122.4193995,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "425",
+        "addr:state": "CA",
+        "addr:street": "Jefferson Street",
+        "check_date": "2023-12-16",
+        "name": "San Francisco Bicycle Rentals",
+        "phone": "+1-415-922-4537",
+        "service:bicycle:rental": "yes",
+        "service:bicycle:retail": "no",
+        "shop": "bicycle",
+        "website": "https://www.bikerentalsanfrancisco.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4331567159,
+      "lat": 37.7254111,
+      "lon": -122.463139,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1935",
+        "addr:postcode": "94112",
+        "addr:state": "CA",
+        "addr:street": "Ocean Avenue",
+        "name": "Ocean Cyclery",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4498319692,
+      "lat": 37.787461,
+      "lon": -122.4101144,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "433",
+        "addr:postcode": "94102",
+        "addr:state": "CA",
+        "addr:street": "Mason Street",
+        "name": "Blazing Saddles Bike Rental",
+        "opening_hours": "24/7 off \"temporarily closed\"",
+        "phone": "+1-415-202-8888",
+        "shop": "bicycle",
+        "website": "https://www.blazingsaddles.com/san-francisco/locations"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4571201978,
+      "lat": 37.7821333,
+      "lon": -122.479686,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1901",
+        "addr:postcode": "94121",
+        "addr:state": "CA",
+        "addr:street": "Clement Street",
+        "name": "Spoke Easy SF",
+        "opening_hours": "We-Mo 12:00-17:00",
+        "service:bicycle:dealer": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://spokeeasysf.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5686877210,
+      "lat": 37.8063304,
+      "lon": -122.4192554,
+      "tags": {
+        "name": "CityRide Bike Rentals",
+        "service:bicycle:rental": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5992714947,
+      "lat": 37.7650207,
+      "lon": -122.41819,
+      "tags": {
+        "addr:housenumber": "2929",
+        "addr:street": "16th Street",
+        "check_date": "2024-04-06",
+        "name": "Don Rafa's Cyclery",
+        "opening_hours": "Mo-Fr 10:00-18:00",
+        "phone": "+1 415-934-1944",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6836023082,
+      "lat": 37.7770896,
+      "lon": -122.4645001,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "521",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "Fulton Street",
+        "check_date": "2025-11-09",
+        "contact:instagram": "https://www.instagram.com/scenicroutessf/",
+        "contact:twitter": "https://twitter.com/scenicroutessf",
+        "email": "scenicroutessf@gmail.com",
+        "level": "0",
+        "name": "Scenic Routes Community Bicycle Center",
+        "opening_hours": "Mo-Tu off; We-Su 12:00-19:00",
+        "phone": "+1 415 669 0958‬",
+        "shop": "bicycle",
+        "website": "https://www.scenicroutessf.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8829025966,
+      "lat": 37.8027852,
+      "lon": -122.4020105,
+      "tags": {
+        "addr:housenumber": "1255",
+        "addr:street": "Battery Street",
+        "addr:unit": "120",
+        "name": "Huckleberry Bicycles",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "phone": "+1-415-484-6575",
+        "shop": "bicycle",
+        "website": "https://www.huckleberrybikes.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8830579324,
+      "lat": 37.7715681,
+      "lon": -122.404794,
+      "tags": {
+        "addr:housenumber": "869",
+        "addr:street": "Brannan Street",
+        "alt_name": "Trek Bicycle Store",
+        "branch": "San Francisco SOMA",
+        "brand": "Trek",
+        "brand:wikidata": "Q1067617",
+        "check_date": "2023-05-21",
+        "name": "Trek",
+        "opening_hours": "Tu-Fr 11:00-18:00; Sa 10:00-18:00",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.trekbikes.com/us/en_US/retail/san_francisco_soma/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8842954877,
+      "lat": 37.7592811,
+      "lon": -122.3882512,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2405",
+        "addr:postcode": "94107",
+        "addr:state": "CA",
+        "addr:street": "3rd Street",
+        "name": "Velocipede Cyclery",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 09:00-18:00; Su 10:00-17:00; PH off",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "shop": "bicycle",
+        "website": "https://www.velocipedecyclery.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10612914638,
+      "lat": 37.7646107,
+      "lon": -122.4310845,
+      "tags": {
+        "addr:housenumber": "284",
+        "addr:street": "Sanchez Street",
+        "check_date": "2023-02-06",
+        "name": "Mash",
+        "shop": "bicycle",
+        "website": "https://mashsf.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10656557656,
+      "lat": 37.7632286,
+      "lon": -122.4126593,
+      "tags": {
+        "addr:housenumber": "2125",
+        "addr:street": "Harrison Street",
+        "check_date": "2023-02-13",
+        "name": "Third Rail Ebikes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "bicycle",
+        "website": "https://www.thirdrailebikes.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11334789310,
+      "lat": 37.7717143,
+      "lon": -122.434695,
+      "tags": {
+        "name": "(in garage)",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11965722173,
+      "lat": 37.7948486,
+      "lon": -122.3998788,
+      "tags": {
+        "check_date": "2022-08-24",
+        "name": "The Hub by BXP",
+        "opening_hours": "Mo-Fr 07:00-17:00",
+        "service:bicycle:repair": "yes",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12950158476,
+      "lat": 37.777091,
+      "lon": -122.422326,
+      "tags": {
+        "check_date": "2025-06-24",
+        "name": "Last Mile",
+        "shop": "bicycle"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260354461,
+      "nodes": [
+        2658231729,
+        761931506,
+        2658231736,
+        2658231745,
+        2658231729
+      ],
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1090",
+        "addr:postcode": "94103",
+        "addr:state": "CA",
+        "addr:street": "Folsom Street",
+        "building": "retail",
+        "height": "7",
+        "name": "The Bike Connection",
+        "opening_hours": "Mo-Fr 11:00-19:00; Sa 10:00-19:00; Su 10:00-18:00",
+        "phone": "+1 415 934-8000",
+        "shop": "bicycle",
+        "website": "https://www.bikeconnection.net/contact/san-francisco-pg420.htm"
+      }
+    },
+    {
+      "type": "way",
+      "id": 262586269,
+      "nodes": [
+        2682422358,
+        2682422516,
+        2682422511,
+        2682422522,
+        2682422612,
+        2682422625,
+        2682422543,
+        2682422539,
+        2682422481,
+        2682422483,
+        2682422378,
+        2682422377,
+        2682422305,
+        12913146624,
+        2682422294,
+        2682422360,
+        2682422358
+      ],
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2843",
+        "addr:street": "Clay Street",
+        "building": "yes",
+        "height": "9",
+        "name": "Bespoke",
+        "opening_hours": "Tu 10:00-19:00; We 12:00-19:00; Th-Fr 10:00-19:00; Sa 10:00-17:00",
+        "shop": "bicycle",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 288325549,
+      "nodes": [
+        2918931235,
+        2918931237,
+        2918931231,
+        2918931230,
+        2918931235
+      ],
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "934",
+        "addr:state": "CA",
+        "addr:street": "Mason Street",
+        "building": "yes",
+        "height": "6",
+        "name": "Roaring Mouse Cycles",
+        "phone": "+1 415 753 6272",
+        "service:bicycle:clothing": "yes",
+        "service:bicycle:ebike": "yes",
+        "service:bicycle:parts": "yes",
+        "service:bicycle:repair": "yes",
+        "service:bicycle:retail": "yes",
+        "service:bicycle:sales": "yes",
+        "service:bicycle:service": "yes",
+        "service:bicycle:showroom": "yes",
+        "service:bicycle:spare_parts": "yes",
+        "service:bicycle:tools": "yes",
+        "shop": "bicycle",
+        "website": "roaringmousecycles.com"
+      }
+    },
+    {
+      "type": "way",
+      "id": 332499923,
+      "nodes": [
+        5828476807,
+        5828470770,
+        10802452151,
+        5828470783,
+        10802452152,
+        5828476800,
+        10802452153,
+        5828476810,
+        5828476807
+      ],
+      "tags": {
+        "building": "pavilion",
+        "building:levels": "1",
+        "height": "3",
+        "name": "Park Wide Bike Rentals",
+        "opening_hours": "Mo-Su 08:00-19:30",
+        "phone": "+1-415-671-8989",
+        "service:bicycle:rental": "yes",
+        "shop": "bicycle",
+        "website": "https://parkwide.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 572156641,
+      "nodes": [
+        317124797,
+        5497302692,
+        5497302693,
+        5497302694,
+        317124797
+      ],
+      "tags": {
+        "building": "yes",
+        "check_date": "2023-05-06",
+        "name": "The Bike Hut",
+        "opening_hours": "Sa-Su 10:00-18:00; We-Fr 10:00-16:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "415-543-4335",
+        "service:bicycle:rental": "yes",
+        "shop": "bicycle",
+        "website": "http://thebikehut.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2682422294,
+      "lat": 37.7896987,
+      "lon": -122.439814
+    },
+    {
+      "type": "node",
+      "id": 2682422305,
+      "lat": 37.7897056,
+      "lon": -122.439751
+    },
+    {
+      "type": "node",
+      "id": 2682422358,
+      "lat": 37.7897312,
+      "lon": -122.4398239
+    },
+    {
+      "type": "node",
+      "id": 2682422360,
+      "lat": 37.7897316,
+      "lon": -122.4398202
+    },
+    {
+      "type": "node",
+      "id": 2682422377,
+      "lat": 37.7897386,
+      "lon": -122.4397572
+    },
+    {
+      "type": "node",
+      "id": 2682422378,
+      "lat": 37.7897399,
+      "lon": -122.4397464
+    },
+    {
+      "type": "node",
+      "id": 2682422481,
+      "lat": 37.789811,
+      "lon": -122.4397718
+    },
+    {
+      "type": "node",
+      "id": 2682422483,
+      "lat": 37.7898124,
+      "lon": -122.4397601
+    },
+    {
+      "type": "node",
+      "id": 2682422511,
+      "lat": 37.7898375,
+      "lon": -122.4398531
+    },
+    {
+      "type": "node",
+      "id": 2682422516,
+      "lat": 37.7898385,
+      "lon": -122.4398442
+    },
+    {
+      "type": "node",
+      "id": 2682422522,
+      "lat": 37.7898421,
+      "lon": -122.439854
+    },
+    {
+      "type": "node",
+      "id": 2682422539,
+      "lat": 37.7898589,
+      "lon": -122.4397809
+    },
+    {
+      "type": "node",
+      "id": 2682422543,
+      "lat": 37.7898602,
+      "lon": -122.43977
+    },
+    {
+      "type": "node",
+      "id": 2682422612,
+      "lat": 37.7899043,
+      "lon": -122.4398657
+    },
+    {
+      "type": "node",
+      "id": 2682422625,
+      "lat": 37.7899144,
+      "lon": -122.4397803
+    },
+    {
+      "type": "node",
+      "id": 12913146624,
+      "lat": 37.7897003,
+      "lon": -122.4397993
+    },
+    {
+      "type": "node",
+      "id": 2918931230,
+      "lat": 37.8051364,
+      "lon": -122.468837
+    },
+    {
+      "type": "node",
+      "id": 2918931231,
+      "lat": 37.8051764,
+      "lon": -122.4686094
+    },
+    {
+      "type": "node",
+      "id": 2918931235,
+      "lat": 37.8052688,
+      "lon": -122.4688743
+    },
+    {
+      "type": "node",
+      "id": 2918931237,
+      "lat": 37.8053088,
+      "lon": -122.4686467
+    },
+    {
+      "type": "node",
+      "id": 761931506,
+      "lat": 37.7769563,
+      "lon": -122.4078198
+    },
+    {
+      "type": "node",
+      "id": 2658231729,
+      "lat": 37.7770775,
+      "lon": -122.4076668
+    },
+    {
+      "type": "node",
+      "id": 2658231736,
+      "lat": 37.77711,
+      "lon": -122.4080153
+    },
+    {
+      "type": "node",
+      "id": 2658231745,
+      "lat": 37.7772319,
+      "lon": -122.4078636
+    },
+    {
+      "type": "node",
+      "id": 5828470770,
+      "lat": 37.7879115,
+      "lon": -122.4081294
+    },
+    {
+      "type": "node",
+      "id": 5828470783,
+      "lat": 37.787931,
+      "lon": -122.4080759
+    },
+    {
+      "type": "node",
+      "id": 5828476800,
+      "lat": 37.787958,
+      "lon": -122.4080924
+    },
+    {
+      "type": "node",
+      "id": 5828476807,
+      "lat": 37.7879768,
+      "lon": -122.4081391
+    },
+    {
+      "type": "node",
+      "id": 5828476810,
+      "lat": 37.7879874,
+      "lon": -122.4081178
+    },
+    {
+      "type": "node",
+      "id": 10802452151,
+      "lat": 37.7879236,
+      "lon": -122.4080963
+    },
+    {
+      "type": "node",
+      "id": 10802452152,
+      "lat": 37.7879349,
+      "lon": -122.4080783
+    },
+    {
+      "type": "node",
+      "id": 10802452153,
+      "lat": 37.787979,
+      "lon": -122.4081106
+    },
+    {
+      "type": "node",
+      "id": 317124797,
+      "lat": 37.7817879,
+      "lon": -122.3877446
+    },
+    {
+      "type": "node",
+      "id": 5497302692,
+      "lat": 37.7817915,
+      "lon": -122.3876702
+    },
+    {
+      "type": "node",
+      "id": 5497302693,
+      "lat": 37.781749,
+      "lon": -122.3876669
+    },
+    {
+      "type": "node",
+      "id": 5497302694,
+      "lat": 37.7817454,
+      "lon": -122.3877413
+    }
+  ]
+}

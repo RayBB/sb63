@@ -1,0 +1,1321 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 366705487,
+      "lat": 37.8007601,
+      "lon": -122.4077296,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1501",
+        "addr:postcode": "94133",
+        "addr:state": "CA",
+        "addr:street": "Grant Avenue",
+        "contact:facebook": "Telegraph.Hill.Books",
+        "contact:instagram": "telhibooks",
+        "contact:twitter": "TelHiBooks",
+        "email": "info@telegraphhillbooks.com",
+        "name": "Telegraph Hill Books",
+        "opening_hours": "Mo-Sa 10:00-17:00; Su off",
+        "opening_hours:url": "https://telegraphhillbooks.com/",
+        "phone": "+1 628 2551998",
+        "shop": "books",
+        "website": "https://telegraphhillbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 429631343,
+      "lat": 37.7875285,
+      "lon": -122.4153479,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "814",
+        "addr:postcode": "94109",
+        "addr:state": "CA",
+        "addr:street": "Post Street",
+        "email": "kayo@kayobooks.com",
+        "name": "Kayo Books",
+        "opening_hours": "\"by appointment or happenstance\"",
+        "phone": "+1 415 7490554",
+        "shop": "books",
+        "source": "survey",
+        "website": "https://kayobooks.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 638752551,
+      "lat": 37.7401084,
+      "lon": -122.4668511,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "80",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "ele": "108.0330811",
+        "name": "West Portal Bookstore",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 806236999,
+      "lat": 37.7952434,
+      "lon": -122.4062874,
+      "tags": {
+        "name": "Louie Brothers Book Store",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1282135989,
+      "lat": 37.7809642,
+      "lon": -122.3912211,
+      "tags": {
+        "addr:housenumber": "680",
+        "addr:street": "2nd Street",
+        "name": "Chronicle Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1640211020,
+      "lat": 37.7906786,
+      "lon": -122.4026294,
+      "tags": {
+        "addr:housenumber": "34",
+        "addr:street": "Trinity Place",
+        "check_date": "2023-06-30",
+        "description": "Art space and bookstore",
+        "disused:website": "https://www.34trinity.com/",
+        "email": "info@34trinity.com",
+        "name": "34 Trinity Arts & News",
+        "old_name": "G.F. Wilkinson Books",
+        "opening_hours": "Mo-Fr 12:00-15:00 \"weather permitting\"",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1819811589,
+      "lat": 37.7830708,
+      "lon": -122.464706,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "506",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "Clement Street",
+        "check_date": "2025-04-02",
+        "contact:facebook": "Green.Apple.Books.and.Music",
+        "contact:instagram": "greenapplebooks",
+        "contact:pinterest": "greenapplebooks",
+        "contact:twitter": "GreenAppleBooks",
+        "contact:youtube": "https://www.youtube.com/user/GreenAppleBooks",
+        "currency:XBT": "no",
+        "name": "Green Apple Books",
+        "opening_hours": "Mo-Su 10:00-21:00",
+        "opening_hours:url": "https://www.greenapplebooks.com/",
+        "payment:litecoin": "no",
+        "phone": "+1 415 3872272",
+        "shop": "books",
+        "survey:date": "2022-11-09",
+        "website": "https://www.greenapplebooks.com/",
+        "wheelchair": "yes",
+        "wikidata": "Q5602289",
+        "wikipedia": "en:Green Apple Books & Music"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2292493555,
+      "lat": 37.7696311,
+      "lon": -122.4508982,
+      "tags": {
+        "addr:housenumber": "1740",
+        "addr:postcode": "94117",
+        "addr:street": "Haight Street",
+        "check_date": "2025-08-23",
+        "level": "0",
+        "name": "Borderlands Books",
+        "opening_hours": "11:00-18:00",
+        "second_hand": "yes",
+        "shop": "books",
+        "source": "survey",
+        "start_date": "2015",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2321299128,
+      "lat": 37.7600854,
+      "lon": -122.4351156,
+      "tags": {
+        "addr:housenumber": "548",
+        "addr:postcode": "94114",
+        "addr:street": "Castro Street",
+        "name": "Whatever",
+        "phone": "+1-415-861-9428",
+        "shop": "books",
+        "website": "https://www.whateverstoreonline.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2713443542,
+      "lat": 37.722584,
+      "lon": -122.4784226,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1600",
+        "addr:street": "Holloway Avenue",
+        "name": "SFSU Bookstore",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3277678658,
+      "lat": 37.7653607,
+      "lon": -122.466592,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1231",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "9th Avenue",
+        "check_date": "2025-10-14",
+        "currency:XBT": "no",
+        "level": "0",
+        "name": "Green Apple Books on the Park",
+        "phone": "+1-415-742-5833",
+        "second_hand": "yes",
+        "shop": "books",
+        "survey:date": "2022-11-09",
+        "website": "https://greenapplebooks.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3379996810,
+      "lat": 37.8001974,
+      "lon": -122.4403588,
+      "tags": {
+        "name": "Books Inc.",
+        "opening_hours": "Mo-Sa 9:00-22:00;Su 9:00-21:00",
+        "phone": "415-931-3633",
+        "shop": "books",
+        "website": "https://www.booksinc.net/SFMarina"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3454181858,
+      "lat": 37.7476342,
+      "lon": -122.4267905,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3885A",
+        "addr:postcode": "94131",
+        "addr:street": "Cesar Chavez Street",
+        "name": "Omnivore: Books on Food",
+        "opening_hours": "Mo-Sa 11:00-18:00; Su 12:00-17:00",
+        "shop": "books",
+        "website": "https://omnivorebooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3522863338,
+      "lat": 37.7642429,
+      "lon": -122.4650386,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "650",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "books": "comic",
+        "check_date": "2025-02-05",
+        "level": "0",
+        "name": "Amazing Fantasy",
+        "shop": "books",
+        "website": "http://www.amazingfantasy.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3542720510,
+      "lat": 37.7377555,
+      "lon": -122.4696043,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "320",
+        "addr:postcode": "94127",
+        "addr:state": "CA",
+        "addr:street": "West Portal Avenue",
+        "books": "comic",
+        "name": "Two Cats",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3802986675,
+      "lat": 37.7774286,
+      "lon": -122.4624807,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "332",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "Balboa Street",
+        "check_date": "2024-06-28",
+        "name": "Globus Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3873879804,
+      "lat": 37.7760254,
+      "lon": -122.4232007,
+      "tags": {
+        "addr:housenumber": "326",
+        "addr:street": "Fell Street",
+        "books": "comic",
+        "check_date": "2023-03-07",
+        "name": "Isotope - The Comic Book Lounge",
+        "phone": "+1-415-621-6543",
+        "shop": "books",
+        "website": "http://isotopecomics.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3931486659,
+      "lat": 37.7723937,
+      "lon": -122.437438,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "305",
+        "addr:postcode": "94117",
+        "addr:state": "CA",
+        "addr:street": "Divisadero Street",
+        "books": "comic",
+        "check_date": "2024-10-21",
+        "name": "Comix Experience",
+        "opening_hours": "Mo,Tu 11:00-18:00; We,Sa 10:00-19:00; Th,Fr,Su 11:00-18:00",
+        "phone": "+1 415-863-9258",
+        "shop": "books",
+        "website": "https://www.comixexperience.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3942453842,
+      "lat": 37.7550761,
+      "lon": -122.420004,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1125",
+        "addr:postcode": "94110",
+        "addr:state": "CA",
+        "addr:street": "Valencia Street",
+        "name": "CCSF Mission Campus Book Store",
+        "operator": "City College of San Francisco",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3960449884,
+      "lat": 37.7956449,
+      "lon": -122.4048543,
+      "tags": {
+        "name": "CCSF North Beach / Chinatown Bookstore",
+        "operator": "City College of San Francisco (CCSF)",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4055481599,
+      "lat": 37.7959778,
+      "lon": -122.4064057,
+      "tags": {
+        "name": "gogo Music & Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4085027890,
+      "lat": 37.7864243,
+      "lon": -122.4518018,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3515",
+        "addr:postcode": "94118",
+        "addr:state": "CA",
+        "addr:street": "California Street",
+        "name": "Books Inc.",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa-Su 09:00-19:00",
+        "phone": "+1 415-221-3666",
+        "shop": "books",
+        "website": "https://www.booksinc.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4106815504,
+      "lat": 37.7958496,
+      "lon": -122.4075164,
+      "tags": {
+        "addr:housenumber": "751",
+        "addr:street": "Jackson Street",
+        "name": "Sino American Books & Arts",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4186798027,
+      "lat": 37.7966116,
+      "lon": -122.4034029,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "804",
+        "addr:postcode": "94133",
+        "addr:state": "CA",
+        "addr:street": "Montgomery Street",
+        "name": "William Stout Architectural Books",
+        "opening_hours": "Mo-Sa 12:30-17:30",
+        "phone": "+1 415 391 6757",
+        "shop": "books",
+        "website": "https://stoutbooks.com/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4199804694,
+      "lat": 37.7540943,
+      "lon": -122.4770986,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1237",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Noriega Street",
+        "check_date": "2025-10-08",
+        "name": "Harvest Books & Gifts",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4241975787,
+      "lat": 37.7609903,
+      "lon": -122.4194769,
+      "tags": {
+        "addr:housenumber": "2250",
+        "addr:street": "Mission Street",
+        "check_date": "2025-06-10",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Mission Comics and Art",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4346343442,
+      "lat": 37.7701942,
+      "lon": -122.444747,
+      "tags": {
+        "books": "anarchism",
+        "contact:atom": "http://boundtogetherbookssf.github.io",
+        "contact:facebook": "https://www.facebook.com/BoundTogetherBooks/",
+        "contact:rss": "https://boundtogetherbooks.wordpress.com/feed/",
+        "contact:yelp": "bound-together-anarchist-collective-bookstore-san-francisco",
+        "image": "https://web.archive.org/web/20161212220101/https://s3-media1.fl.yelpcdn.com/bphoto/B_8rwmnCkSeqlPkqmTTxEw/o.jpg",
+        "name": "Bound Together Anarchist Bookstore",
+        "opening_hours": "Mo-Su 11:30-19:30",
+        "operator:type": "community",
+        "phone": "+1-415-431-8355",
+        "shop": "books",
+        "start_date": "1976",
+        "website": "https://boundtogether.org/",
+        "wheelchair": "limited",
+        "wikidata": "Q27991106",
+        "wikipedia": "en:Bound Together"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4414004589,
+      "lat": 37.7849097,
+      "lon": -122.4316446,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1581",
+        "addr:postcode": "94115",
+        "addr:state": "CA",
+        "addr:street": "Webster Street",
+        "books": "comic;children;textbook",
+        "brand": "Kinokuniya",
+        "brand:contact:facebook": "KinokuniyaUSA",
+        "brand:contact:instagram": "kinokuniyausa",
+        "brand:contact:twitter": "KinokuniyaUSA",
+        "brand:contact:youtube": "https://www.youtube.com/channel/UCWzDankObAC1UcrZVyQm0Dw",
+        "brand:wikidata": "Q703227",
+        "email": "san_francisco@kinokuniya.com",
+        "fax": "+1 415-567-4109",
+        "level": "0;1",
+        "name": "Kinokuniya",
+        "opening_hours": "Mo-Su 10:30-20:00",
+        "opening_hours:url": "https://usa.kinokuniya.com/stores-kinokuniya-san-francisco",
+        "phone": "+1 415-567-7625",
+        "shop": "books",
+        "website": "https://usa.kinokuniya.com/stores-kinokuniya-san-francisco"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4567543892,
+      "lat": 37.78162,
+      "lon": -122.420827,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "601",
+        "addr:postcode": "94107",
+        "addr:state": "CA",
+        "addr:street": "Van Ness Avenue",
+        "check_date": "2024-06-02",
+        "check_date:opening_hours": "2024-06-02",
+        "name": "Books Inc.",
+        "name:en": "Books Inc.",
+        "opening_hours": "Mo-Su 11:00-18:00",
+        "phone": "415-776-1111",
+        "shop": "books",
+        "website": "https://www.booksinc.net/SFOpera"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4567543893,
+      "lat": 37.7970587,
+      "lon": -122.4350421,
+      "tags": {
+        "addr:housenumber": "2181",
+        "addr:street": "Union Street",
+        "name": "Juicy News SF",
+        "name:en": "Juicy News SF",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4567603391,
+      "lat": 37.7979091,
+      "lon": -122.4297634,
+      "tags": {
+        "addr:housenumber": "1846",
+        "addr:street": "Union Street",
+        "name": "Chronicle Books",
+        "name:en": "Chronicle books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5538811235,
+      "lat": 37.7626798,
+      "lon": -122.3967027,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1400",
+        "addr:postcode": "94107",
+        "addr:state": "CA",
+        "addr:street": "18th Street",
+        "name": "Christopher's Books",
+        "opening_hours": "Mo-Su 10:00-21:00; PH closed",
+        "phone": "+1 415-255-8802",
+        "second_hand": "no",
+        "shop": "books",
+        "website": "https://christophersbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6032494975,
+      "lat": 37.7525786,
+      "lon": -122.4148076,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3130",
+        "addr:postcode": "94110",
+        "addr:state": "CA",
+        "addr:street": "24th Street",
+        "contact:facebook": "adobebooks",
+        "contact:instagram": "adobebookshop",
+        "description": "Cooperatively run, community oriented used book store with an art gallery in the back and regular literary, music and art events.",
+        "email": "adobesf@gmail.com",
+        "name": "Adobe Books and Arts Cooperative",
+        "opening_hours": "Mo-Su 12:00-19:00",
+        "opening_hours:url": "https://www.adobebooks.com/",
+        "phone": "+1 415 8643936",
+        "shop": "books",
+        "tourism": "gallery",
+        "website": "http://www.adobebooks.com/",
+        "website:calendar": "http://www.adobebooks.com/events"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6426948686,
+      "lat": 37.7611148,
+      "lon": -122.4349108,
+      "tags": {
+        "addr:housenumber": "489",
+        "addr:postcode": "94114",
+        "addr:street": "Castro Street",
+        "check_date": "2024-10-21",
+        "name": "Fabulosa Books",
+        "opening_hours": "Mo-Su 10:00-20:00 \"or 9ish\"",
+        "phone": "+1 415 658 7015",
+        "shop": "books",
+        "website": "https://www.fabulosabooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6598000073,
+      "lat": 37.8006652,
+      "lon": -122.4083413,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "548",
+        "addr:postcode": "94133",
+        "addr:state": "CA",
+        "addr:street": "Union Street",
+        "name": "Libreria Pino",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6598019730,
+      "lat": 37.7896423,
+      "lon": -122.4341538,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2195",
+        "addr:postcode": "94115",
+        "addr:state": "CA",
+        "addr:street": "Fillmore Street",
+        "check_date": "2025-09-09",
+        "email": "jordan@greenapplebooks.com",
+        "level": "0",
+        "name": "Browser Books",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "opening_hours:url": "https://www.greenapplebooks.com/locations-directions",
+        "phone": "+1 415 5678027",
+        "shop": "books",
+        "website": "https://www.greenapplebooks.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6604085446,
+      "lat": 37.7789102,
+      "lon": -122.4156433,
+      "tags": {
+        "indoor": "area",
+        "level": "1",
+        "name": "Friends Bookstore",
+        "second_hand": "only",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6780093118,
+      "lat": 37.769337,
+      "lon": -122.4512609,
+      "tags": {
+        "addr:housenumber": "1727",
+        "addr:street": "Haight Street",
+        "check_date": "2025-08-23",
+        "level": "0",
+        "name": "The Booksmith",
+        "opening_hours": "11:00-19:00",
+        "shop": "books",
+        "website": "https://www.booksmith.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6780338385,
+      "lat": 37.7583887,
+      "lon": -122.421416,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "900",
+        "addr:postcode": "94110",
+        "addr:state": "CA",
+        "addr:street": "Valencia Street",
+        "check_date:opening_hours": "2024-09-26",
+        "name": "Dog Eared Books",
+        "opening_hours": "10:00-22:00",
+        "payment:american_express": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+1 415 282 1901",
+        "second_hand": "yes",
+        "shop": "books",
+        "stroller": "limited",
+        "website": "https://www.dogearedbooks.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8957596837,
+      "lat": 37.78626,
+      "lon": -122.4298254,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "1748",
+        "addr:state": "CA",
+        "addr:street": "Buchanan Street",
+        "contact:facebook": "forestbookssf",
+        "contact:instagram": "forestbookssf",
+        "email": "zenbooks@earthlink.net",
+        "name": "Forest Books",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "phone": "+1 415 5638302",
+        "shop": "books",
+        "website": "https://forestbookssf.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9397929868,
+      "lat": 37.7887423,
+      "lon": -122.4133163,
+      "tags": {
+        "addr:housenumber": "786",
+        "addr:street": "Sutter Street",
+        "check_date": "2023-02-20",
+        "email": "r_haines@pacbell.net",
+        "name": "Argonaut Book Shop",
+        "opening_hours": "\"by appointment\"",
+        "phone": "+1 415 4749067",
+        "shop": "books",
+        "website": "https://argonautbookshop.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9696861040,
+      "lat": 37.7966842,
+      "lon": -122.4217755,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2162",
+        "addr:state": "CA",
+        "addr:street": "Polk Street",
+        "name": "Russian Hill Bookstore",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9958553993,
+      "lat": 37.7646875,
+      "lon": -122.4237871,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "3187",
+        "addr:postcode": "94103",
+        "addr:state": "CA",
+        "addr:street": "16th Street",
+        "books": "comic",
+        "check_date": "2022-08-17",
+        "contact:facebook": "sourcherrycomics",
+        "contact:instagram": "sourcherrycomics",
+        "contact:patreon": "https://www.patreon.com/sourcherrycomics",
+        "contact:twitter": "sourcherrycomix",
+        "fixme": "position_estimated",
+        "name": "Sour Cherry Comics",
+        "opening_hours": "Mo 11:00-15:00; Tu 16:00-20:00; We-Sa 11:00-20:00; Su 12:00-18:00",
+        "opening_hours:url": "https://www.sourcherrycomics.com/",
+        "shop": "books",
+        "website": "https://www.sourcherrycomics.com/",
+        "website:calendar": "https://www.sourcherrycomics.com/category/events/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10005639577,
+      "lat": 37.7854767,
+      "lon": -122.4220711,
+      "tags": {
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10650803521,
+      "lat": 37.7527054,
+      "lon": -122.4126904,
+      "tags": {
+        "addr:housenumber": "3036",
+        "addr:street": "24th Street",
+        "check_date": "2025-02-03",
+        "name": "Medicine for Nightmares",
+        "name:es": "Medicina para Pesadillas",
+        "opening_hours": "Mo 12:30-21:00; Tu-Th 12:30-22:00; Fr 12:30-23:00; Sa 12:00-23:00; Su 12:00-21:00",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10789049090,
+      "lat": 37.7216463,
+      "lon": -122.4782962,
+      "tags": {
+        "addr:door": "120A",
+        "addr:floor": "1",
+        "check_date": "2023-04-05",
+        "internet_access": "no",
+        "level": "1",
+        "name": "Used Book & Media Store",
+        "opening_hours": "Mo-Th 11:00-17:00; Fr 11:00-15:00; Sa-Su off",
+        "second_hand": "only",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10832358131,
+      "lat": 37.7671605,
+      "lon": -122.4670189,
+      "tags": {
+        "check_date": "2023-04-22",
+        "name": "Garden Bookstore",
+        "opening_hours": "10:00-16:00; PH off",
+        "shop": "books",
+        "stroller": "limited",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11065812183,
+      "lat": 37.7802869,
+      "lon": -122.4860196,
+      "tags": {
+        "addr:housenumber": "6200",
+        "addr:street": "Geary Boulevard",
+        "check_date": "2024-05-26",
+        "level": "1",
+        "name": "Holy Virgin Cathedral Bookstore",
+        "opening_hours": "Mo-Tu,Th-Fr 11:00-14:00,14:30-17:00; We off; Sa 11:00-15:00; Su 11:30-14:00",
+        "payment:credit_cards": "yes",
+        "shop": "books",
+        "website": "https://hvcbookstore.com",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12259504142,
+      "lat": 37.7938742,
+      "lon": -122.4066579,
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "38",
+        "addr:postcode": "94108",
+        "addr:state": "CA",
+        "addr:street": "Waverly Place",
+        "books": "chinese;literature;social_science",
+        "description": "An independent Chinese Bookstore and a neighborhood cafe.",
+        "internet_access": "yes",
+        "name": "Unbound Bookstore 格外书店",
+        "payment:apple_pay": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:cryptocurrencies": "yes",
+        "payment:google_pay": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "books",
+        "toilets": "yes",
+        "website": "https://www.instagram.com/unbound.bookstore/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12522217338,
+      "lat": 37.7511307,
+      "lon": -122.4185924,
+      "tags": {
+        "check_date": "2025-02-27",
+        "check_date:opening_hours": "2025-02-27",
+        "name": "Libreria Palabra de Dios",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12677607213,
+      "lat": 37.7565632,
+      "lon": -122.421261,
+      "tags": {
+        "addr:housenumber": "1018",
+        "addr:street": "Valencia Street",
+        "books": "comic",
+        "check_date": "2025-03-18",
+        "name": "Silver Sprocket",
+        "opening_hours": "Mo,We-Th 12:00-19:00; Tu off; Fr 12:00-20:00; Sa 11:00-20:00; Su 11:00-19:00",
+        "phone": "+1 628-280-8436",
+        "shop": "books",
+        "website": "https://silversprocket.net"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13191190420,
+      "lat": 37.7944589,
+      "lon": -122.3992039,
+      "tags": {
+        "check_date": "2025-10-03",
+        "level": "0",
+        "name": "Green Apple Books",
+        "note": "A tiny popup inside Devil's Teeth",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 32858754,
+      "nodes": [
+        370137843,
+        370137841,
+        370137864,
+        1617460533,
+        370137843
+      ],
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "261",
+        "addr:postcode": "94133",
+        "addr:state": "CA",
+        "addr:street": "Columbus Avenue",
+        "building": "yes",
+        "check_date": "2025-09-05",
+        "contact:facebook": "CityLightsBooks",
+        "contact:instagram": "citylightsbooks",
+        "contact:twitter": "CityLightsBooks",
+        "contact:youtube": "https://www.youtube.com/user/CityLightsBooks",
+        "email": "staff@citylights.com",
+        "height": "9",
+        "name": "City Lights Booksellers",
+        "name:en": "City Lights Booksellers",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "opening_hours:url": "https://citylights.com/bookstore/",
+        "phone": "+1 415 3628193",
+        "shop": "books",
+        "tourism": "attraction",
+        "website": "https://citylights.com/bookstore/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Entrance wheelchair accessible but most areas have steps",
+        "wikidata": "Q2394278",
+        "wikimedia_commons": "Category:City Lights Booksellers",
+        "wikipedia": "en:City Lights Bookstore"
+      }
+    },
+    {
+      "type": "way",
+      "id": 197626871,
+      "nodes": [
+        2078337259,
+        2078337263,
+        2078337257,
+        2078337269,
+        7215665695,
+        2078337259
+      ],
+      "tags": {
+        "addr:housenumber": "653",
+        "addr:street": "Chenery Street",
+        "building": "yes",
+        "height": "7",
+        "name": "Bird and Beckett",
+        "opening_hours": "Tu-Su 12:00-18:00",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 259965510,
+      "nodes": [
+        2654200019,
+        2654200017,
+        11728030190,
+        2654200059,
+        11728030192,
+        11728030193,
+        2654200021,
+        2654200019
+      ],
+      "tags": {
+        "addr:housenumber": "907",
+        "addr:street": "Post Street",
+        "building": "yes",
+        "building:levels": "1",
+        "check_date": "2024-09-22",
+        "name": "Kayo Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "way",
+      "id": 260345813,
+      "nodes": [
+        2658125844,
+        2658125845,
+        2658125834,
+        2658125833,
+        2658125843,
+        2658125844
+      ],
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:housenumber": "2141",
+        "addr:postcode": "94110",
+        "addr:street": "Mission Street",
+        "addr:unit": "#300",
+        "building": "yes",
+        "height": "12",
+        "name": "Bolerium Books",
+        "shop": "books",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "way",
+      "id": 277830597,
+      "nodes": [
+        2822817474,
+        2822817445,
+        2822817413,
+        2822817412,
+        2822817456,
+        2822817475,
+        2822817477,
+        2822817474
+      ],
+      "tags": {
+        "addr:city": "San Francisco",
+        "addr:country": "US",
+        "addr:housenumber": "4541",
+        "addr:postcode": "94122",
+        "addr:state": "CA",
+        "addr:street": "Irving Street",
+        "building": "yes",
+        "changing_table": "no",
+        "check_date": "2024-11-30",
+        "check_date:opening_hours": "2024-11-30",
+        "coffee": "yes",
+        "height": "6",
+        "name": "Black Bird Book Store",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "second_hand": "no",
+        "shop": "books",
+        "website": "https://www.blackbirdbooksf.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1189071463,
+      "nodes": [
+        11041574617,
+        11041574604,
+        365489482,
+        11041574616,
+        11041574696,
+        5389246711,
+        11041574697,
+        11041574615,
+        11041574617
+      ],
+      "tags": {
+        "check_date": "2025-03-02",
+        "indoor": "room",
+        "level": "0",
+        "name": "Book Passage",
+        "opening_hours": "Mo-Fr 10:00-17:00; Sa 09:00-17:00; Su 11:00-17:00",
+        "shop": "books",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2822817412,
+      "lat": 37.7619865,
+      "lon": -122.506804
+    },
+    {
+      "type": "node",
+      "id": 2822817413,
+      "lat": 37.7619903,
+      "lon": -122.5067157
+    },
+    {
+      "type": "node",
+      "id": 2822817445,
+      "lat": 37.7620641,
+      "lon": -122.5067209
+    },
+    {
+      "type": "node",
+      "id": 2822817456,
+      "lat": 37.7620735,
+      "lon": -122.50681
+    },
+    {
+      "type": "node",
+      "id": 2822817474,
+      "lat": 37.7621558,
+      "lon": -122.5067273
+    },
+    {
+      "type": "node",
+      "id": 2822817475,
+      "lat": 37.7621579,
+      "lon": -122.5068159
+    },
+    {
+      "type": "node",
+      "id": 2822817477,
+      "lat": 37.7621617,
+      "lon": -122.5067277
+    },
+    {
+      "type": "node",
+      "id": 2078337257,
+      "lat": 37.7342744,
+      "lon": -122.4329831
+    },
+    {
+      "type": "node",
+      "id": 2078337259,
+      "lat": 37.7344611,
+      "lon": -122.4330048
+    },
+    {
+      "type": "node",
+      "id": 2078337263,
+      "lat": 37.7344635,
+      "lon": -122.4329135
+    },
+    {
+      "type": "node",
+      "id": 2078337269,
+      "lat": 37.7342934,
+      "lon": -122.4330635
+    },
+    {
+      "type": "node",
+      "id": 7215665695,
+      "lat": 37.7343357,
+      "lon": -122.4330488
+    },
+    {
+      "type": "node",
+      "id": 2658125833,
+      "lat": 37.7625822,
+      "lon": -122.4193121
+    },
+    {
+      "type": "node",
+      "id": 2658125834,
+      "lat": 37.7626042,
+      "lon": -122.4189204
+    },
+    {
+      "type": "node",
+      "id": 2658125843,
+      "lat": 37.7627902,
+      "lon": -122.4193307
+    },
+    {
+      "type": "node",
+      "id": 2658125844,
+      "lat": 37.7628118,
+      "lon": -122.4189452
+    },
+    {
+      "type": "node",
+      "id": 2658125845,
+      "lat": 37.7628122,
+      "lon": -122.4189391
+    },
+    {
+      "type": "node",
+      "id": 2654200017,
+      "lat": 37.7870302,
+      "lon": -122.4169331
+    },
+    {
+      "type": "node",
+      "id": 2654200019,
+      "lat": 37.7870405,
+      "lon": -122.416849
+    },
+    {
+      "type": "node",
+      "id": 2654200021,
+      "lat": 37.7870429,
+      "lon": -122.4168289
+    },
+    {
+      "type": "node",
+      "id": 2654200059,
+      "lat": 37.787127,
+      "lon": -122.4169519
+    },
+    {
+      "type": "node",
+      "id": 11728030190,
+      "lat": 37.7871177,
+      "lon": -122.4169501
+    },
+    {
+      "type": "node",
+      "id": 11728030192,
+      "lat": 37.7871421,
+      "lon": -122.4168277
+    },
+    {
+      "type": "node",
+      "id": 11728030193,
+      "lat": 37.7870453,
+      "lon": -122.4168089
+    },
+    {
+      "type": "node",
+      "id": 370137841,
+      "lat": 37.7975465,
+      "lon": -122.4066392
+    },
+    {
+      "type": "node",
+      "id": 370137843,
+      "lat": 37.7977229,
+      "lon": -122.4066741
+    },
+    {
+      "type": "node",
+      "id": 370137864,
+      "lat": 37.7975694,
+      "lon": -122.4064734
+    },
+    {
+      "type": "node",
+      "id": 1617460533,
+      "lat": 37.797582,
+      "lon": -122.4064725
+    },
+    {
+      "type": "node",
+      "id": 365489482,
+      "lat": 37.7957465,
+      "lon": -122.3934974
+    },
+    {
+      "type": "node",
+      "id": 5389246711,
+      "lat": 37.7957349,
+      "lon": -122.393349
+    },
+    {
+      "type": "node",
+      "id": 11041574604,
+      "lat": 37.7957992,
+      "lon": -122.3934064
+    },
+    {
+      "type": "node",
+      "id": 11041574615,
+      "lat": 37.7958128,
+      "lon": -122.3933509
+    },
+    {
+      "type": "node",
+      "id": 11041574616,
+      "lat": 37.7956831,
+      "lon": -122.3934386
+    },
+    {
+      "type": "node",
+      "id": 11041574617,
+      "lat": 37.7958248,
+      "lon": -122.3933621
+    },
+    {
+      "type": "node",
+      "id": 11041574696,
+      "lat": 37.7957142,
+      "lon": -122.393385
+    },
+    {
+      "type": "node",
+      "id": 11041574697,
+      "lat": 37.7957613,
+      "lon": -122.3933033
+    }
+  ]
+}

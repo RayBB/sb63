@@ -1,0 +1,225 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.8 e802775f",
+  "osm3s": {
+    "timestamp_osm_base": "2025-11-16T06:26:53Z",
+    "timestamp_areas_base": "2025-11-16T04:45:43Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1529100850,
+      "lat": 37.9000629,
+      "lon": -122.3010392,
+      "tags": {
+        "addr:city": "El Cerrito",
+        "addr:country": "US",
+        "addr:housenumber": "6050",
+        "addr:postcode": "94530",
+        "addr:state": "CA",
+        "addr:street": "El Cerrito Plaza",
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 10:00-20:00",
+        "phone": "+1 510 524 0087",
+        "shop": "books",
+        "website": "https://stores.barnesandnoble.com/store/2113",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3536771986,
+      "lat": 38.0308026,
+      "lon": -121.8843142,
+      "tags": {
+        "name": "Railroad Book Depot",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6429722933,
+      "lat": 37.8238931,
+      "lon": -122.0038934,
+      "tags": {
+        "addr:city": "Danville",
+        "addr:housenumber": "3",
+        "addr:postcode": "94526",
+        "addr:state": "CA",
+        "addr:street": "Railroad Avenue",
+        "name": "Rakestraw Books",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 11:00-16:00",
+        "phone": "+1-925-837-7337",
+        "shop": "books",
+        "website": "https://rakestrawbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6577938940,
+      "lat": 37.9437746,
+      "lon": -121.977105,
+      "tags": {
+        "name": "Pioneer Bookstore",
+        "shop": "books",
+        "website": "https://www.csueastbay.edu/concord/bookstore.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6757736986,
+      "lat": 37.8834926,
+      "lon": -122.1905239,
+      "tags": {
+        "addr:city": "Orinda",
+        "addr:country": "US",
+        "addr:housenumber": "276",
+        "addr:postcode": "94563",
+        "addr:state": "CA",
+        "addr:street": "Village Square",
+        "name": "Orinda Books",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6875728356,
+      "lat": 37.9710524,
+      "lon": -122.0576278,
+      "tags": {
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6875925384,
+      "lat": 37.8788824,
+      "lon": -122.181431,
+      "tags": {
+        "addr:city": "Orinda",
+        "addr:country": "US",
+        "addr:postcode": "94563",
+        "addr:state": "CA",
+        "addr:street": "Moraga Way",
+        "level": "0",
+        "name": "Canneti's Bookshop",
+        "shop": "books",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8720257869,
+      "lat": 37.9625339,
+      "lon": -121.7404312,
+      "tags": {
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9632514500,
+      "lat": 37.9006027,
+      "lon": -122.0615421,
+      "tags": {
+        "addr:city": "Walnut Creek",
+        "addr:housenumber": "1537",
+        "addr:postcode": "94596",
+        "addr:state": "CA",
+        "addr:street": "N Main St",
+        "name": "Flashlight Books",
+        "shop": "books",
+        "website": "https://www.flashlightbooks.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9903050745,
+      "lat": 37.9642555,
+      "lon": -122.062728,
+      "tags": {
+        "addr:city": "Pleasant Hill",
+        "addr:housenumber": "955",
+        "addr:postcode": "94523",
+        "addr:state": "CA",
+        "addr:street": "Contra Costa Boulevard",
+        "name": "Friends of the Pleasant Hill Library Bookstore",
+        "opening_hours": "Mo - Su 11:00 - 5:00",
+        "operator": "Friends of the Pleasant Hill Library",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1-925-349-9620",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10195853707,
+      "lat": 37.8986282,
+      "lon": -122.3075719,
+      "tags": {
+        "addr:city": "Richmond",
+        "addr:country": "US",
+        "addr:housenumber": "3288",
+        "addr:postcode": "94704",
+        "addr:state": "CA",
+        "addr:street": "Pierce Street",
+        "addr:unit": "D-108",
+        "internet_access": "no",
+        "name": "Kingstone Books",
+        "phone": "510-527-6856",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10697847987,
+      "lat": 37.8958585,
+      "lon": -122.061211,
+      "tags": {
+        "brand": "Barnes & Noble",
+        "brand:wikidata": "Q795454",
+        "name": "Barnes & Noble",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11598852134,
+      "lat": 37.9690949,
+      "lon": -122.0566118,
+      "tags": {
+        "addr:city": "Concord",
+        "addr:housenumber": "1975",
+        "addr:postcode": "94520",
+        "addr:state": "CA",
+        "addr:street": "Diamond Blvd",
+        "brand": "Half Price Books",
+        "brand:wikidata": "Q5641744",
+        "name": "Half Price Books",
+        "opening_hours": "Mo-Su 10:00-20:00",
+        "phone": "+1-925-288-9060",
+        "shop": "books"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12878460169,
+      "lat": 37.8904015,
+      "lon": -122.1265924,
+      "tags": {
+        "name": "Reasonable Books",
+        "shop": "books"
+      }
+    }
+  ]
+}
