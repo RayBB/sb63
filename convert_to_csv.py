@@ -191,6 +191,9 @@ def main():
     other_cols = [col for col in df_all.columns if col not in priority_cols + remaining_base_cols]
     col_order = priority_cols + remaining_base_cols + sorted(other_cols, key=lambda x: (x.startswith('addr:'), x))
 
+    # For dropping empty tag columns later
+    tag_columns = other_cols
+
     total_rows = 0
     csv_files_created = 0
 
@@ -203,10 +206,20 @@ def main():
             group_df = group_df[col_order]
             group_df = group_df.sort_values(['query_county', 'osm_id'])
 
+            # Drop tag columns that are completely empty (all NaN or empty strings)
+            columns_to_drop = []
+            for col in tag_columns:
+                if col in group_df.columns and (group_df[col].isna() | (group_df[col] == '')).all():
+                    columns_to_drop.append(col)
+
+            if columns_to_drop:
+                group_df = group_df.drop(columns=columns_to_drop)
+                print(f"Dropped {len(columns_to_drop)} empty tag columns from {purpose}")
+
             # Export to CSV
             csv_path = csv_dir / f"{purpose}.csv"
             group_df.to_csv(csv_path, index=False)
-            print(f"Created {csv_path} ({len(group_df)} rows)")
+            print(f"Created {csv_path} ({len(group_df)} rows, {len(group_df.columns)} columns)")
 
             total_rows += len(group_df)
             csv_files_created += 1
