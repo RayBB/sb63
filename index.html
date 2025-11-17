@@ -22,10 +22,15 @@ function createPopupContent(fields, headers, lat, lon) {
   for (let j = 0; j < fields.length; j++) {
     const value = fields[j].trim();
     if (value) {
-      popupContent += `<strong>${headers[j]}</strong>: ${value}<br>`;
+      let displayValue = value;
+      if (value.match(/^https?:\/\//) || value.match(/^www\./)) {
+        const href = value.startsWith('www.') ? `https://${value}` : value;
+        displayValue = `<a href="${href}" target="_blank">${value}</a>`;
+      }
+      popupContent += `<strong>${headers[j]}</strong>: ${displayValue}<br>`;
     }
   }
-  // Add links
+
   const osmType = fields[headers.indexOf('osm_type')]?.trim();
   const osmId = fields[headers.indexOf('osm_id')]?.trim();
   if (osmType && osmId) {
