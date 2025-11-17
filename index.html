@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.js'></script>
+    <link href='https://unpkg.com/maplibre-gl@latest/dist/maplibre-gl.css' rel='stylesheet' />
+    <title>Events Map</title>
+</head>
+<body style="height: 100vh; margin: 0;">
+    <div id="buttons" style="padding: 10px; text-align: center; position: absolute; top: 10px; left: 10px; z-index: 1;">
+        <button onclick="loadCSV('bikeshops.csv')">Bikeshops</button>
+        <button onclick="loadCSV('bookstores.csv')">Bookstores</button>
+        <button onclick="loadCSV('events.csv')">Events</button>
+        <button onclick="loadCSV('religion.csv')">Religion</button>
+        <button onclick="loadCSV('social_community.csv')">Social Community</button>
+    </div>
+    <div id="map" style="width: 100%; height: 100vh;"></div>
+<script>
+function createPopupContent(fields, headers) {
+  let popupContent = '<div style="max-width: 300px;">';
+  for (let j = 0; j < fields.length; j++) {
+    const value = fields[j].trim();
+    if (value) {
+      popupContent += `<strong>${headers[j]}</strong>: ${value}<br>`;
+    }
+  }
+  popupContent += '</div>';
+  return popupContent;
+}
+
+let markers = [];
+let map;
+
+async function loadCSV(filename) {
+  markers.forEach(marker => marker.remove());
+  markers = [];
+
+  try {
+    const response = await fetch(`data/csv/${filename}`);
+    const text = await response.text();
+    const lines = text.split('\n');
+    const headers = lines[0].split(',');
+    
+    const latIndex = headers.indexOf('latitude');
+    const lonIndex = headers.indexOf('longitude');
+    
+    for (let i = 1; i < lines.length; i++) {
+      if (!lines[i].trim()) continue;
+      const fields = lines[i].split(',');
+      const lat = parseFloat(fields[latIndex]);
+      const lon = parseFloat(fields[lonIndex]);
+      
+      if (!isNaN(lat) && !isNaN(lon)) {
+        const popupContent = createPopupContent(fields, headers);
+        
+        const marker = new maplibregl.Marker();
+        marker.setLngLat([lon, lat]);
+        
+        const popup = new maplibregl.Popup({ offset: 25 })
+          .setHTML(popupContent);
+        
+        marker.setPopup(popup);
+        marker.addTo(map);
+        markers.push(marker);
+      }
+    }
+  } catch (error) {
+    console.error('Error loading CSV:', error);
+  }
+}
+
+map = new maplibregl.Map({
+  style: 'https://tiles.openfreemap.org/styles/bright',
+  center: [-122.066, 37.627],
+  zoom: 8,
+  container: 'map',
+});
+
+map.on('load',()=>loadCSV('events.csv'));
+</script>
+</body>
+</html>
