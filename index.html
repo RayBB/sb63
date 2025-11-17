@@ -31,14 +31,27 @@ function createPopupContent(fields, headers) {
 
 let markers = [];
 let map;
+let csvCache = {};
+
+async function fetchCached(url) {
+  if (!csvCache[url]) {
+    try {
+      const response = await fetch(url);
+      csvCache[url] = await response.text();
+    } catch (error) {
+      console.error('Error fetching:', url, error);
+      throw error;
+    }
+  }
+  return csvCache[url];
+}
 
 async function loadCSV(filename) {
   markers.forEach(marker => marker.remove());
   markers = [];
 
   try {
-    const response = await fetch(`data/csv/${filename}`);
-    const text = await response.text();
+    const text = await fetchCached(`data/csv/${filename}`);
     const lines = text.split('\n');
     const headers = lines[0].split(',');
     
